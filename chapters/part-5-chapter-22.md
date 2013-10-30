@@ -17,36 +17,52 @@ permalink: /part-5/open-data-and-algorithmic-regulation/
 ---
 
 Regulation is the bugaboo of today’s politics. We have too much of it in most areas, we have too little of it in others, but mostly, we just have the wrong kind, a mountain of paper rules, inefficient processes, and little ability to adjust the rules or the processes when we discover the inevitable unintended results.
+現今而言，規範大多是種累贅。在許多領域規範太多了，而在某些又太少。但整體而言，我們所使用的規範大多是不合適的、印出來會像山一樣高的規則、毫無效率的流程；但我們卻沒什麼辦法去對於那些很難料想得到的結果做出調整。
 
 Consider, for a moment, regulation in a broader context. Your car’s electronics regulate the fuel-air mix in the engine to find an optimal balance of fuel efficiency and minimal emissions. An airplane’s autopilot regulates the countless factors required to keep that plane aloft and heading in the right direction. Credit card companies monitor and regulate charges to detect fraud and keep you under your credit limit. Doctors regulate the dosage of the medicine they give us, sometimes loosely, sometimes with exquisite care, as with the chemotherapy required to kill cancer cells while keeping normal cells alive, or with the anesthesia that keeps us unconscious during surgery while keeping vital processes going. ISPs and corporate mail systems regulate the mail that reaches us, filtering out spam and malware to the best of their ability. Search engines regulate the results and advertisements they serve up to us, doing their best to give us more of what we want to see.
+只要一想就會發現，規範無所不在。你車上的車用電子規範要求引擎內的油氣混合必須在燃油效率和最小排放間取得最佳平衡；飛機的自動駕駛系統規範了許多的控制變因來確保飛機一直朝著正確的方向安全飛行。信用卡公司規範收費細節，並對詐騙行為、和消費者的消費額度進行監控。醫師受了給藥劑量的規範，而這規範有時候比較寬鬆、有時候確必須極度小心，因為當需要使用到化療來殺死癌細胞時，可不能誤殺正常的細胞；或是進行麻醉時，要讓患者在手術期間失去意識又得同時維持生命跡象。網路服務提供者(ISP)和公司的電子郵件系統規範了哪些信件可以寄進使用者的信箱、哪些要被過濾為垃圾郵件。搜尋引擎規範搜尋結果和他提供的廣告如何整體性的提供使用者最好的視覺呈現。
+
 
 What do all these forms of regulation have in common?
-
+這些規範有哪些共同點？
 1. A deep understanding of the desired outcome
+1. 對於預期的產出有很深度的了解。
 
 2. Real-time measurement to determine if that outcome is being achieved
+2. 對於產出是否達到要求能夠即時的測量或判定。
 
 3. Algorithms (i.e. a set of rules) that make adjustments based on new data
+3. 依據新資料來調整演算法 (例如：整套連貫的規則)
 
 4. Periodic, deeper analysis of whether the algorithms themselves are correct and performing as expected.
+4. 週期性的，深度檢驗這些演算法、規則是否正確、而且如預期的執行。
 
 There are a few cases—all too few—in which governments and quasi-governmental agencies regulate using processes similar to those outlined above. Probably the best example is the way that central banks regulate the money supply in an attempt to manage interest rates, inflation, and the overall state of the economy. Surprisingly, while individual groups might prefer the US Federal Reserve to tighten or loosen the money supply at a different time or rate than they do, most accept the need for this kind of regulation.
+有少數例子是，政府機關的規範使用類似前述項目的流程。也許最好的例子是，中央銀行規範了貨幣準備量來控管利率、通貨膨脹、和整體的經濟情況。令人意外的是，當有些少數團體也許期望聯準會在不同的時機對貨幣供給有不同的寬鬆程度，而大多數人都接受這類型的規範。
 
 Why is this?
+為什麼會這樣？
 
 1. The desired outcomes are clear
+1. 對想要的結果很明確。
 
 2. There is regular measurement and reporting as to whether those outcomes are being achieved, based on data that is made public to everyone
+2. 不論結果是否達標，都能夠基於公開的資料得出標準的衡量和報表。
 
 3. Adjustments are made when the desired outcomes are not being achieved
+3. 當結果未達預期時，規範是可以調整的。
 
 Contrast this with the normal regulatory model, which focuses on the rules rather than the outcomes. How often have we faced rules that simply no longer make sense? How often do we see evidence that the rules are actually achieving the desired outcome?
+相較於此，一般的規範注重規定多於產出。我們有多頻繁地去處理已經沒有意義了的規定？頻率和這些規定真得讓產出達到預期的證明相比為何？
 
 Sometimes the “rules” aren’t really even rules. Gordon Bruce, the former CIO of the city of Honolulu, explained to me that when he entered government from the private sector and tried to make changes, he was told, “That’s against the law.” His reply was “OK. Show me the law.” “Well, it isn’t really a law. It’s a regulation.” “OK. Show me the regulation.” “Well, it isn’t really a regulation. It’s a policy that was put in place by Mr. Somebody twenty years ago.” “Great. We can change that!”
+有時候，「規定」並不是真正的規定。Gordon Bruce，檀香山訕前CIO，分享當他從私人單位進入政府部門並嘗試要進行一些改變時，有人告訴他：「那是違反規定的。」他回答：「好，那把規定拿給我看看。」「嗯，那並不是真正的規定，其實是規矩，是20年之前某某人定下來的。」「好，那我們可以改掉他。」
 
 But often, there really is a law or a regulation that has outlived its day, an artifact of a system that takes too long to change. The Obama Administration has made some efforts to address this, with a process of both “regulatory lookback” to eliminate unnecessary regulations, and an increased effort to quantify the effect of regulations (White House, 2012).
+不過常尚有一些真實的「規定」是活得太久而太難去改變的。 Obama政府對於這些規定做了一些努力，包括同時透過「回顧規定」來取消不合時宜的規定，並且儘可能地量化所謂「規定」所能達成的效果。(白宮，2012)
 
 But even this kind of regulatory reform doesn’t go far enough. The laws of the United States have grown mind-bogglingly complex. The recent healthcare reform bill was nearly two thousand pages. The US Constitution, including two hundred years worth of amendments, is about twenty-one pages. The National Highway Bill of 1956, which led to the creation of the US Interstate Highway system, the largest public works project in history, was twenty-nine pages.
+
 
 Laws should specify goals, rights, outcomes, authorities, and limits. If specified broadly, those laws can stand the test of time.
 

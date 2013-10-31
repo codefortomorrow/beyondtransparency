@@ -1,6 +1,8 @@
 --- 
 layout: chapter
 title: New Thinking in How Governments Deliver Services
+政府如何服務市民的新思維
+
 chapter: 21
 part: 5
 author:
@@ -16,16 +18,23 @@ permalink: /part-5/new-thinking-in-how-governments-deliver-services/
 ---
 
 ### Introduction
+簡介
 
 Open data programs provide a number of important benefits for governments and the citizens they serve. At the most basic level, these programs provide important insights into government activities—a fundamental ingredient for a well-operating democracy.
 
+開放資料計畫提供政府和其服務的市民許多重大的效益。從最基本層面說起，這些計畫為政府運作提供了重要的啟示 - 良好民主運作的基本元素。
+
 In addition to enhanced government transparency, these programs also provide a means for developing new applications and solutions—built on top of the data released by governments—that can be leveraged to deliver public services. These programs also highlight some of the longstanding problems with incumbent processes that are used by governments to procure technology solutions and services and provide insight into how these older processes might be improved.
+除了加強政府的透明度之外，開放資料計畫也提供了工具或方法使得基於這些政府開放出來的資料能進一步被發展成其他新應用和解決方案，並借勢進而提供更多公共服務。這些計畫也突顯了有部份政府用來採購技術方案和服務所孕成的長期性計畫，並且提供何改善這些舊有流程的啟示。
 
 ### Unlocking the Power of Open Data
+解放開放資料的力量
 
 The concept of “government as a platform”—an idea best, and most famously, articulated by Tim O’Reilly (2010), the founder of O’Reilly Media and a leading proponent of free-software and open source movements—often references the iPhone as an example of a platform done well. The decision in 2008 by Apple chief executive Steve Jobs to allow independent developers to build apps that would work on the iPhone “platform” has made the now ubiquitous device the success that it is. As noted in a 2012 *New York Times* article by David Streitfeld:
+Tim O'Reilly (2010) - O'Reilly Media創始人，同時為免費軟體與開源運動的推動者 - 提出"政府即平台"的概念。iPhone經常被拿來當一個好平台的典範。2008年由蘋果執行長Steve Jobs決定要讓各自獨立的開發者所開放的apps都能在iPhone平台上運作，造成了現在iPhone無所不在的成功。一如2012年New York Times中David Streitfeld的文章中提到：
 
 > The App Store opened in July 2008 with 500 apps. In an interview, Mr. Jobs laid bare the company’s goal: “Sell more iPhones.” Thanks to the multitude of apps, the goal came to pass. More iPhones... were sold in the next three months than in the entire previous year, and that was just the beginning of the ascent. (Streitfeld, 2012)
+> App Store在2008年7月開放時只有500個app。在一次訪談中，Jobs先生揭露了公司目標："再賣更多iPhone"。感謝這一大群app，這個目標達成了。在接下來三個月，iPhone的銷售量比過去一整年還多，而那只是iPhone熱潮的起點。
 
 The idea of turning a phone into an application platform has since been copied by other hardware and software companies, and it has informed the idea of turning government itself into a platform. Providing public access to government data in machine-readable formats (i.e., open data) is the foundation of the efforts being taken by governments around the world. They are essentially copying Apple’s approach to stimulate innovative new apps and ideas that can run on their government “platform.”
 

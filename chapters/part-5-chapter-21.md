@@ -1,7 +1,7 @@
 --- 
 layout: chapter
 title: New Thinking in How Governments Deliver Services
-政府如何服務市民的新思維
+政府服務的新思維
 
 chapter: 21
 part: 5
@@ -77,21 +77,28 @@ However, the government procurement process as it exists today is not ideal for 
 然而，今日的政府採購流程並不是很適合用於購入具有軟體發展最新優勢的最佳技術解決方案上。這些又笨重又複雜的流程，本身就是對政府運作中引進科技創新的最大阻礙。
 
 ### Looking Ahead: Three Hard Truths for Government Procurement Reform
-向前看：政府採購改革的三件艱難真相
+向前看：政府採購改革困難的三件實情
 
 Advancing the innovation agenda within government often means confronting the harsh reality of the government procurement process. This is not a new problem, and there are a number of initiatives underway in governments around the country aimed at “streamlining” or “overhauling” the government procurement process to support the acquisition of new technologies and projects that engage smaller and more nimble companies with new solutions.
+在政府內促成創新議題通常代表會面對政府採購流程的嚴苛現實。這並不是什麼新的問題，全國各地有很多針對政府採購流程"效率化"或"全面診斷"的議案正在進行中，以便能從一些較小、較靈敏的公司購入新科技或專案。
 
 The City of Philadelphia, in particular, is engaged in some progressive efforts to use the government procurement process as a means to develop an ecosystem of smaller companies that offer innovative new ideas to longstanding city problems. If the goal of using the procurement process to stimulate (or at least not hinder) innovation inside government is to be realized, reformers in Philadelphia and elsewhere will need to face some hard truths about procurement reform.
+尤其是費城市，正努力籌備一些較新穎的政府採購流程，以便能發展一個由小型公司組成的生態鏈來提供創新的想法來解決長期的城市問題。如果使用此採購流程激勵(至少不要阻礙)政府內創新的目標實現了，費城市或其他地方的改革者必須面對一些採購改革困難的實情。
 
 In addition, advocates of procurement reform must expand their thinking about the nature of reform and their methods to bring about change by focusing on open government data as a foundational component for systematic change in how governments deliver services and information to those they serve.
+此外，採購改革的擁護者必須更周延地思考關於改革思維的本質，以及針對以開放政府資料為基礎來進行政府對提供服務和資訊的系統層改變的方法。
 
 #### Balancing Values
+平衡價值
 
 The arguments in favor of reforming the government procurement process bear a striking similarity to arguments used by advocates for overhauling the federal income tax system. Both sets of advocates point to the problem of unnecessary complexity as an element that can stifle innovation or even harm participants. In many instances, the same verbs are used when calling for reform—words like “overhaul” and “streamline” can be used almost interchangeably when talking about tax reform and procurement reform.
+讚同改革政府採購流程的論點也為擁護對聯邦收入稅務系統進行全面檢修的論點提供了相似的火力。兩組擁護者都指出問題在於不必要的複雜性會厄殺了創新，甚至會傷害參與者。在許多案例中，當談到稅務改革和採購改革時，"改革(reform)"也會和如"全面檢修(overhaul)"或"效率改產(streamline"等其他的字混著使用。
 
 The federal income tax system is a useful reference for talking about procurement reform. It is often used by governments as a vehicle for achieving desired outcomes that (as many economists will quickly point out) have nothing to do with an efficient tax system. We imbue our tax code with certain provisions that, we hope, will help achieve outcomes deemed to have broad societal value.
+當談到採購改革時，聯邦政府稅系統是一個有用的參考。它經常被政府用來當做一個為成預期產出的工作，但(許多經濟學家很快就會指出)完全沒不是一套有效率的稅務系統。我們深以為我們的稅是能被期待著將會幫助達成富具社會價值的產出。
 
 A perfect example of this is the federal income tax deduction for mortgage interest. As a country and a society, we value homeownership over other kinds of investments, so our tax system “rewards” this investment with a special deduction. The objective is to encourage more homeownership because it is highly correlated with desired outcomes, like higher property values and more stable neighborhoods. This deduction comes with a cost, however: it increases the complexity of tax forms, and it increases the effort required both to process these forms and to audit taxpayer compliance.
+有個很棒的例子是聯邦稅務的抵押品利息扣抵。從國家社會的觀點，我們比其他投資更重視自有房屋。所以我們的稅務系統透過特別抵減來"獎勵"這項投資，其目的是鼓勵更高的自有房屋，因為這和期望的產出有高的相關性，例如更高的財產總值和更穩定的鄰里情誼w。然而，這項抵減是有其成本的，它也增加了稅單的複雜性，和處理申請及稽核納稅人需的相關流程和工作。
 
 There are many other examples of income tax provisions that are specifically engineered to produce outcomes with broad social benefits—a myriad of deductions and credits for married couples, particularly those with children; deductions for contributions made to charities; and deductions for interest on student loans. Each of these examples shares two characteristics: they are designed to encourage specific outcomes, and they increase the overall complexity of the system. On an individual level, the cost of these broader societal benefits manifests as more time and effort to comply with income tax requirements.
 

@@ -104,13 +104,16 @@ There are many other examples of income tax provisions that are specifically eng
 有很多其他關於所得稅金分配的例子，是特別設計來鼓勵更多社會利益的發生。例如對已婚者大量的稅金抵減，特別是有孩子的家庭；對慈善捐款的稅金抵減；對就學貸款的稅金抵減。每一個例子都有兩個共同的特徵：它們是為了鼓勵特定的產出，以及他們增加了系統的整體複雜性。以個人層級來看，這些廣義社會福利的隱藏成本顯得比公司層級的所得稅需要花更多時間和精神。
 
 Procurement processes are similar in many ways. Governments imbue these processes with requirements and other stipulations that they hope will lead to outcomes that are deemed desirable. Each of these requirements adds to the complexity of the process and the burden of firms that choose to respond to government RFPs.
-採購流程也有許多雷同之處。
+採購流程也有許多雷同之處。政府在採購流程中灌入需求規格和其他各種契約，希望能引導出期望的成果。每一項規格其實都增加流程的複雜性，並造成想對政府提出需求建議書(Request For Proposal, RPF)的公司的障礙。
 
 For example, almost every government has purchasing requirements for minority- and women-owned businesses, and many have requirements that local companies receive preference over firms from outside the jurisdiction. The objective is to drive more government procurement dollars to minority- and women-owned businesses and to local businesses that create local jobs and pay local taxes.
+舉例，機乎每個政府機關都有發過採購規格給弱勢企業或女性創業的企業，還有很多需求是偏向以當地的公司優先考量。這些限制的目的是要引導政府採購的費用流向弱勢、女性企業和當地企業，並創近當地的工作機會和稅收。
 
 There are also larger, overarching values embedded in the procurement process. For example, fairness and transparency are values that inform requirements like the public posting of bids and related materials, ample public notice of vendor meetings, and the clear specification of when and how bids must be submitted.
+還有更大、更包羅萬象的的價格是隱藏在採購流程中的。例如，公平、公開地把採購需求、招標、相關文仵予以公佈、甚至包含與供應商的會議和明確的投標時間與相關規定。
 
 Risk aversion is another value that impacts the complexity and cost of the public procurement process. It is this value that informs requirements like performance bonds, vendor insurance, scrutiny of company financial statements, and requirements for financial reserves—all things that seek to reduce the risk assumed by governments from engaging with a company to provide a good or service. Each of these requirements can make the procurement process more complex and burdensome for bidders, particularly smaller companies.
+風險規避是衝擊公開採購流程的複雜產與成一的另一項價格。它指出類似效能規格、供應商保險、公司財報的詳細檢查、財務儲備金等，這些項目都是為了降低政府假設與一家公司合作，並要提供良好服務時所可能產生的風險。這些任一項需求都會讓採購流程成複雜、並對投標者造成障礙，特別是小公司。
 
 All of this underscores the point that many of the factors that make government procurement processes complex and slow are also things that are intended to produce desired outcomes. These features of the procurement process were designed with a specific intent, and few people would argue with the laudable goals they seek to encourage. Yet, one of the side effects of these requirements is that they make the process slower, more complex, and harder for smaller and more nimble firms to participate in.
 

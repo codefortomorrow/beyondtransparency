@@ -92,17 +92,19 @@ In addition, advocates of procurement reform must expand their thinking about th
 平衡價值
 
 The arguments in favor of reforming the government procurement process bear a striking similarity to arguments used by advocates for overhauling the federal income tax system. Both sets of advocates point to the problem of unnecessary complexity as an element that can stifle innovation or even harm participants. In many instances, the same verbs are used when calling for reform—words like “overhaul” and “streamline” can be used almost interchangeably when talking about tax reform and procurement reform.
-讚同改革政府採購流程的論點也為擁護對聯邦收入稅務系統進行全面檢修的論點提供了相似的火力。兩組擁護者都指出問題在於不必要的複雜性會厄殺了創新，甚至會傷害參與者。在許多案例中，當談到稅務改革和採購改革時，"改革(reform)"也會和如"全面檢修(overhaul)"或"效率改產(streamline"等其他的字混著使用。
+讚同改革政府採購流程的論點也為擁護對聯邦所得稅系統進行全面檢修的論點提供了相似的火力。兩組擁護者都指出問題在於不必要的複雜性會厄殺了創新，甚至會傷害參與者。在許多案例中，當談到稅務改革和採購改革時，"改革(reform)"也會和如"全面檢修(overhaul)"或"效率改產(streamline"等其他的字混著使用。
 
 The federal income tax system is a useful reference for talking about procurement reform. It is often used by governments as a vehicle for achieving desired outcomes that (as many economists will quickly point out) have nothing to do with an efficient tax system. We imbue our tax code with certain provisions that, we hope, will help achieve outcomes deemed to have broad societal value.
-當談到採購改革時，聯邦政府稅系統是一個有用的參考。它經常被政府用來當做一個為成預期產出的工作，但(許多經濟學家很快就會指出)完全沒不是一套有效率的稅務系統。我們深以為我們的稅是能被期待著將會幫助達成富具社會價值的產出。
+當談到採購改革時，聯邦政府所得稅系統是一個有用的參考。它經常被政府用來當做一個為成預期產出的工作，但(許多經濟學家很快就會指出)完全沒不是一套有效率的稅務系統。我們深以為我們的稅是能被期待著將會幫助達成富具社會價值的產出。
 
 A perfect example of this is the federal income tax deduction for mortgage interest. As a country and a society, we value homeownership over other kinds of investments, so our tax system “rewards” this investment with a special deduction. The objective is to encourage more homeownership because it is highly correlated with desired outcomes, like higher property values and more stable neighborhoods. This deduction comes with a cost, however: it increases the complexity of tax forms, and it increases the effort required both to process these forms and to audit taxpayer compliance.
-有個很棒的例子是聯邦稅務的抵押品利息扣抵。從國家社會的觀點，我們比其他投資更重視自有房屋。所以我們的稅務系統透過特別抵減來"獎勵"這項投資，其目的是鼓勵更高的自有房屋，因為這和期望的產出有高的相關性，例如更高的財產總值和更穩定的鄰里情誼w。然而，這項抵減是有其成本的，它也增加了稅單的複雜性，和處理申請及稽核納稅人需的相關流程和工作。
+有個很棒的例子是聯邦所得稅的抵押品利息扣抵。從國家社會的觀點，我們比其他投資更重視自有房屋。所以我們的稅務系統透過特別抵減來"獎勵"這項投資，其目的是鼓勵更高的自有房屋，因為這和期望的產出有高的相關性，例如更高的財產總值和更穩定的鄰里情誼。然而，這項抵減是有其成本的，它也增加了稅單的複雜性，和處理申請及稽核納稅人需的相關流程和工作。
 
 There are many other examples of income tax provisions that are specifically engineered to produce outcomes with broad social benefits—a myriad of deductions and credits for married couples, particularly those with children; deductions for contributions made to charities; and deductions for interest on student loans. Each of these examples shares two characteristics: they are designed to encourage specific outcomes, and they increase the overall complexity of the system. On an individual level, the cost of these broader societal benefits manifests as more time and effort to comply with income tax requirements.
+有很多其他關於所得稅金分配的例子，是特別設計來鼓勵更多社會利益的發生。例如對已婚者大量的稅金抵減，特別是有孩子的家庭；對慈善捐款的稅金抵減；對就學貸款的稅金抵減。每一個例子都有兩個共同的特徵：它們是為了鼓勵特定的產出，以及他們增加了系統的整體複雜性。以個人層級來看，這些廣義社會福利的隱藏成本顯得比公司層級的所得稅需要花更多時間和精神。
 
 Procurement processes are similar in many ways. Governments imbue these processes with requirements and other stipulations that they hope will lead to outcomes that are deemed desirable. Each of these requirements adds to the complexity of the process and the burden of firms that choose to respond to government RFPs.
+採購流程也有許多雷同之處。
 
 For example, almost every government has purchasing requirements for minority- and women-owned businesses, and many have requirements that local companies receive preference over firms from outside the jurisdiction. The objective is to drive more government procurement dollars to minority- and women-owned businesses and to local businesses that create local jobs and pay local taxes.
 

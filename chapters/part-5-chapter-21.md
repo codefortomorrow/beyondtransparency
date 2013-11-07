@@ -95,31 +95,34 @@ The arguments in favor of reforming the government procurement process bear a st
 讚同改革政府採購流程的論點也為擁護對聯邦所得稅系統進行全面檢修的論點提供了相似的火力。兩組擁護者都指出問題在於不必要的複雜性會厄殺了創新，甚至會傷害參與者。在許多案例中，當談到稅務改革和採購改革時，"改革(reform)"也會和如"全面檢修(overhaul)"或"效率改產(streamline"等其他的字混著使用。
 
 The federal income tax system is a useful reference for talking about procurement reform. It is often used by governments as a vehicle for achieving desired outcomes that (as many economists will quickly point out) have nothing to do with an efficient tax system. We imbue our tax code with certain provisions that, we hope, will help achieve outcomes deemed to have broad societal value.
-當談到採購改革時，聯邦政府所得稅系統是一個有用的參考。它經常被政府用來當做一個為成預期產出的工作，但(許多經濟學家很快就會指出)完全沒不是一套有效率的稅務系統。我們深以為我們的稅是能被期待著將會幫助達成富具社會價值的產出。
+當談到採購改革時，所得稅系統是一個有用的參考。它經常被政府用來當做一個為成預期產出的工作，但(許多經濟學家容易就指出)它完全是一套沒有效率的稅務系統。我們一直都以為，也期待著我們的稅收和相關條款是朝著達生更高的社會價值。
 
 A perfect example of this is the federal income tax deduction for mortgage interest. As a country and a society, we value homeownership over other kinds of investments, so our tax system “rewards” this investment with a special deduction. The objective is to encourage more homeownership because it is highly correlated with desired outcomes, like higher property values and more stable neighborhoods. This deduction comes with a cost, however: it increases the complexity of tax forms, and it increases the effort required both to process these forms and to audit taxpayer compliance.
-有個很棒的例子是聯邦所得稅的抵押品利息扣抵。從國家社會的觀點，我們比其他投資更重視自有房屋。所以我們的稅務系統透過特別抵減來"獎勵"這項投資，其目的是鼓勵更高的自有房屋，因為這和期望的產出有高的相關性，例如更高的財產總值和更穩定的鄰里情誼。然而，這項抵減是有其成本的，它也增加了稅單的複雜性，和處理申請及稽核納稅人需的相關流程和工作。
+有個很棒的例子是聯邦所得稅的抵押品利息扣抵。從國家社會的觀點來看，自有房屋的投資是被視為比其他投資更重要的。所以我們的稅務系統透過特別抵減來"獎勵"這項投資，其目的是鼓勵更高的自有房屋率，因為這和期望的結果有很高的相關性。例如更高的國民財產總值和更穩定的鄰里情誼。然而，這項抵減是有其成本的，它也增加了稅單的複雜性或處理這些申請及稽核的相關流程和工作。
 
 There are many other examples of income tax provisions that are specifically engineered to produce outcomes with broad social benefits—a myriad of deductions and credits for married couples, particularly those with children; deductions for contributions made to charities; and deductions for interest on student loans. Each of these examples shares two characteristics: they are designed to encourage specific outcomes, and they increase the overall complexity of the system. On an individual level, the cost of these broader societal benefits manifests as more time and effort to comply with income tax requirements.
-有很多其他關於所得稅金分配的例子，是特別設計來鼓勵更多社會利益的發生。例如對已婚者大量的稅金抵減，特別是有孩子的家庭；對慈善捐款的稅金抵減；對就學貸款的稅金抵減。每一個例子都有兩個共同的特徵：它們是為了鼓勵特定的產出，以及他們增加了系統的整體複雜性。以個人層級來看，這些廣義社會福利的隱藏成本顯得比公司層級的所得稅需要花更多時間和精神。
+還有很多其他關於所得稅金分配的例子，是特別設計來鼓勵更多社會利益的發生。例如對已婚者大量的稅金抵減，特別是有孩子的家庭；對慈善捐款的稅金抵減；對就學貸款的稅金抵減。每一個例子都有兩個共同的特徵：它們是為了鼓勵特定的行為，同時增加了系統的整體複雜性。以個人層級來看，這些廣義社會福利的隱藏成本顯得比公司層級的所得稅還需要花更多時間和精神。
 
 Procurement processes are similar in many ways. Governments imbue these processes with requirements and other stipulations that they hope will lead to outcomes that are deemed desirable. Each of these requirements adds to the complexity of the process and the burden of firms that choose to respond to government RFPs.
-採購流程也有許多雷同之處。政府在採購流程中灌入需求規格和其他各種契約，希望能引導出期望的成果。每一項規格其實都增加流程的複雜性，並造成想對政府提出需求建議書(Request For Proposal, RPF)的公司的障礙。
+政府採購流程也有許多雷同之處。政府在採購流程中灌入需求規格和其他各種契約，希望能引導出期望的結果。每一項規格其實都增加流程的複雜性，並對需求建議書(Request For Proposal, RPF)的公司造成許多障礙。
 
 For example, almost every government has purchasing requirements for minority- and women-owned businesses, and many have requirements that local companies receive preference over firms from outside the jurisdiction. The objective is to drive more government procurement dollars to minority- and women-owned businesses and to local businesses that create local jobs and pay local taxes.
-舉例，機乎每個政府機關都有發過採購規格給弱勢企業或女性創業的企業，還有很多需求是偏向以當地的公司優先考量。這些限制的目的是要引導政府採購的費用流向弱勢、女性企業和當地企業，並創近當地的工作機會和稅收。
+舉例，機乎每個政府機關都有發過採購規格給弱勢企業或女性創業的企業，還有很多需求是偏向以當地的公司優先考量。這些限制的目的是要引導政府採購的費用會流向弱勢企業、女性創業家和當地企業，並創近當地的工作機會和稅收。
 
 There are also larger, overarching values embedded in the procurement process. For example, fairness and transparency are values that inform requirements like the public posting of bids and related materials, ample public notice of vendor meetings, and the clear specification of when and how bids must be submitted.
-還有更大、更包羅萬象的的價格是隱藏在採購流程中的。例如，公平、公開地把採購需求、招標、相關文仵予以公佈、甚至包含與供應商的會議和明確的投標時間與相關規定。
+還有許多包羅萬象的價值隱藏在採購流程的設計中。例如，要公平、公開地把採購需求、招標、相關文仵予以公佈、甚至包含與供應商的會議和明確的投標時間與相關規定。
 
 Risk aversion is another value that impacts the complexity and cost of the public procurement process. It is this value that informs requirements like performance bonds, vendor insurance, scrutiny of company financial statements, and requirements for financial reserves—all things that seek to reduce the risk assumed by governments from engaging with a company to provide a good or service. Each of these requirements can make the procurement process more complex and burdensome for bidders, particularly smaller companies.
-風險規避是衝擊公開採購流程的複雜產與成一的另一項價格。它指出類似效能規格、供應商保險、公司財報的詳細檢查、財務儲備金等，這些項目都是為了降低政府假設與一家公司合作，並要提供良好服務時所可能產生的風險。這些任一項需求都會讓採購流程成複雜、並對投標者造成障礙，特別是小公司。
+風險規避，另一項採購流程的優點，也是造成採購流程的複雜性的主因。包括對效能、規格、供應商保險、供應商財報的詳細檢查、財務儲備金等，這些項目都是為了降低當政府與一家公司合作過程中所可能產生的風險。以上任一項目都會讓採購流程變得更複雜、並對投標者造成障礙 - 特別是小公司更慘。
 
 All of this underscores the point that many of the factors that make government procurement processes complex and slow are also things that are intended to produce desired outcomes. These features of the procurement process were designed with a specific intent, and few people would argue with the laudable goals they seek to encourage. Yet, one of the side effects of these requirements is that they make the process slower, more complex, and harder for smaller and more nimble firms to participate in.
+很明顯地，許多使政府採購流程變得複雜、緩慢的因素，其本身也是為了確定產出規格或結果而存在。採購流程的這些特性是為了特殊的意團而設計的，很少人會質疑那些值得讚揚的背後目標。然而，這些需求的副作用是它們把流程變慢、變複雜，並且使得一些體制較小而靈活公司更難以加入了。
 
 Efforts to overhaul or streamline the procurement process will undoubtedly run up against the provisions just discussed. Are there ways to streamline the procurement process that don’t require provisions of this type to be relaxed or removed, or are there ways to relax these provisions without compromising the laudable outcomes they seek to encourage? This remains to be seen.
+對採購流程的全面檢修或效率改革的努力，無疑地將與前述的條款產生衝突。有沒有其他方法可以把採購流程朝著鬆綁或取消這些不需要的條款的方向改善，或是在鬆綁這些條款時無需造成這些值得讚揚的背後原因被妥協？這還有待觀察。
 
 #### Nimbler Doesn’t Always Mean Better
+靈活不一定比較好
 
 The great myth in government IT is that the private sector is always way ahead of the public sector in how technology is used.
 

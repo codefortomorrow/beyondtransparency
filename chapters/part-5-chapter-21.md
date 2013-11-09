@@ -125,7 +125,7 @@ Efforts to overhaul or streamline the procurement process will undoubtedly run u
 靈活不一定比較好
 
 The great myth in government IT is that the private sector is always way ahead of the public sector in how technology is used.
-在政府IT內的大迷思是：對於科技如何使用的議題，，私領域總是擋在公領域之前。
+在政府內IT的大迷思是：對於科技如何使用的議題，，私領域總是跑在公領域之前。
 
 In between two tours of duty in state and local government, I spent about ten years in the private sector working for both large and small technology firms. Before joining Code for America as Director of Government Relations in 2011, I worked for four different technology companies headquartered in places as different as Horsham, Pennsylvania; Blacksburg, Virginia; and San Francisco, California. I learned a lot about technology and how to be a software developer during this time, but I also learned that—as far as technology is concerned—the grass is not always greener on the other side.
 在洲政府和地方政府兩段工作之間，我有10年時間，分別在大型和小型的私人科技公司工作。

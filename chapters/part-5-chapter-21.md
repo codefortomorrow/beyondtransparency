@@ -135,10 +135,13 @@ There are plenty of examples of poor technology decisions in the private sector.
 有很多例子可以說明在私部門的技術決策是很糟糕的。我們比較少聽到這些案例的原因是，它們不關大眾的事、或是不需經過立法公聽會或是預算審查。
 
 To be sure, governments around the world have issues with implementing technology, but some of the things I’ve seen in the private sector have been shocking—inexcusably bad decisions made by people who should know better, a complete lack of strategic thinking about how technology is used to benefit the company, and dragging old legacy technology along far past its point of usefulness simply because upgrading would be tricky and complex—the list goes on. The private sector has all of these problems and more. We just don’t hear about them as much.
+不可否認，世界各地的政府在實作技術時都會遇到一些問題，但是我在私部門時遇到過一些令人完全無法原諒事，例如由一些對於科技要如何讓公司受益這件事毫無策略思考的人下的糟糕技術決策、遲遲拖著沒十的老技術不想升級，而把原因歸咎於升級的程程複雜又有很多眉角等等，數都數不完。這類問題在私部門一樣層出不窮，我們只是比較少聽到人家講。
 
 What my experience in the private sector made exceedingly clear to me is that it is entirely possible (and not very unusual) for private sector organizations, unshackled by complicated procurement processes like those used by governments, to make lousy choices and invest poorly in technology.
+我在私部門的經驗讓我好生明白，對私部門來講，很可能(但並非常態)不像政府部門受複雜的採購流程束縛，而對技術投資做出糟糕的決定。
 
 Simply making the government procurement process “simpler” won’t guarantee that better IT decisions get made. Governments will still need to think more strategically about how they invest in technology and become better at learning how it can be used to make the delivery of public services more efficient and effective.
+單純地把政府採購流程「簡化」並不能保證比較好的IT決策。政府仍需要更多策略性思考，來決定技術投資，並學習如何有效率、有效果地把它用在對大眾提供服務。
 
 #### A Dearth of Makers Inside Government
 

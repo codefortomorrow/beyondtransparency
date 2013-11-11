@@ -125,12 +125,14 @@ Efforts to overhaul or streamline the procurement process will undoubtedly run u
 靈活不一定比較好
 
 The great myth in government IT is that the private sector is always way ahead of the public sector in how technology is used.
-在政府內IT的大迷思是：對於科技如何使用的議題，，私領域總是跑在公領域之前。
+在政府內IT的大迷思是：對於科技如何使用的議題，，私部門總是跑在公部門之前。
 
 In between two tours of duty in state and local government, I spent about ten years in the private sector working for both large and small technology firms. Before joining Code for America as Director of Government Relations in 2011, I worked for four different technology companies headquartered in places as different as Horsham, Pennsylvania; Blacksburg, Virginia; and San Francisco, California. I learned a lot about technology and how to be a software developer during this time, but I also learned that—as far as technology is concerned—the grass is not always greener on the other side.
-在洲政府和地方政府兩段工作之間，我有10年時間，分別在大型和小型的私人科技公司工作。
+在洲政府和地方政府兩段工作之間，我有10年時間，分別在大型和小型的私人科技公司工作。在2011年加入Code for America作為政府關係負責人之前，我分別在以下地點共四家不同的科技公司總部工作：Pennsylvania的Horsham, Verginia的Blacksburg和California的San Francisco。
+這段期間我學了很多關於技術和軟體開發的技能，但我更學到了：只要是在技術考量的範圍內，外國的月亮並不會比較圓。
 
 There are plenty of examples of poor technology decisions in the private sector. We just hear about them less often because they are usually not a matter of public record or visible to the public through a budget submission or legislative hearing.
+有很多例子可以說明在私部門的技術決策是很糟糕的。我們比較少聽到這些案例的原因是，它們不關大眾的事、或是不需經過立法公聽會或是預算審查。
 
 To be sure, governments around the world have issues with implementing technology, but some of the things I’ve seen in the private sector have been shocking—inexcusably bad decisions made by people who should know better, a complete lack of strategic thinking about how technology is used to benefit the company, and dragging old legacy technology along far past its point of usefulness simply because upgrading would be tricky and complex—the list goes on. The private sector has all of these problems and more. We just don’t hear about them as much.
 

@@ -144,12 +144,16 @@ Simply making the government procurement process “simpler” won’t guarantee
 單純地把政府採購流程「簡化」並不能保證比較好的IT決策。政府仍需要更多策略性思考，來決定技術投資，並學習如何有效率、有效果地把它用在對大眾提供服務。
 
 #### A Dearth of Makers Inside Government
+政府內部缺乏開發者
 
 My experience working as a software developer for several years, and continuing to work with other developers from a variety of disciplines for years after that, has affected the way I approach problems. Whenever I hear about an application or service or an idea someone has for one, I’m often privately thinking (as I think most people who have worked as developers are), how would I build something like that? This is probably true of most people who have built things for a living.
+在我作為軟體工程師的幾年工作經驗，和持續在其他領域累積的工程師生活，改變了我處理問題的態度。每當我聽到某人有個軟體、服務或想法時，我通常會自己先想想(我想其他工程師也會這麼想)，如果是我的話，我會怎麼開發那個東西？也許大多數的開發都都會這樣做。
 
 Understanding how things work and how to build them can be a useful skill when evaluating the level of effort required to perform a service or to solve a problem. This is something software developers do often—estimate the amount of time it will take them (or their team) to complete a series of tasks they have not yet begun. It’s hard to do well. Even software developers who do this often will sometimes underestimate or overestimate the amount of time required to complete a task.
+在評估解決問題或提供服務所要花的代價時，先了解它如何運作以及如何被製造出來，是一項很有用的技巧。這是軟體工程師很常做的事-預估他或他的團隊要花多少具體的時間來完成一系列尚未展開的工作。這很難算得準。即使是老手也常會低估或高估完成一件工作所需的時間。
 
 The ability to translate a problem into a series of steps that a person can imagine herself doing is the specific byproduct of making things. This is a problem in government, where, in general, there is a woeful lack of awareness about how things are made and what resources and materials are required to build things. In short, there is a critical lack of makers in government.
+靠著想像就能把一支程式轉化為一系列的步驟的能力是製造東西的獨特副產品。這是政府內的一個問題，一般來說，政府悲慘地缺乏東西如何被製作出來、要用多少資料或材料的認知。簡而言之，在政府裡嚴重的缺乏製造者(Maker)。
 
 This problem is particularly acute when it comes to technology and how governments acquire it, even for needs that should be simple and relatively cheap, like content management systems for websites and web-based applications. The web is now an essential component of how governments deliver services and communicate with citizens, and yet, there are far too few people inside government (including those in the technology discipline) who have a solid understanding of how the internet works.
 

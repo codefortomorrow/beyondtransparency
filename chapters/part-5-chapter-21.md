@@ -22,10 +22,10 @@ permalink: /part-5/new-thinking-in-how-governments-deliver-services/
 
 Open data programs provide a number of important benefits for governments and the citizens they serve. At the most basic level, these programs provide important insights into government activities—a fundamental ingredient for a well-operating democracy.
 
-開放資料計畫提供政府和其服務的市民許多重大的效益。從最基本層面說起，這些計畫為政府運作提供了重要的啟示 - 良好民主運作的基本元素。
+開放資料計畫提供政府和其所服務的市民許多重大的效益。從最基本層面說起，這些計畫為政府運作提供了重要的啟示 - 良好民主運作的基本元素。
 
 In addition to enhanced government transparency, these programs also provide a means for developing new applications and solutions—built on top of the data released by governments—that can be leveraged to deliver public services. These programs also highlight some of the longstanding problems with incumbent processes that are used by governments to procure technology solutions and services and provide insight into how these older processes might be improved.
-除了加強政府的透明度之外，開放資料計畫也提供了工具或方法使得基於這些政府開放出來的資料能進一步被發展成其他新應用和解決方案，並借勢進而提供更多公共服務。這些計畫也突顯了有部份政府用來採購技術方案和服務所孕成的長期性計畫，並且提供何改善這些舊有流程的啟示。
+除了加強政府的透明度之外，我們也可以透過開放資料計畫的相關工具或方法，使得這些政府開放出來的資料能進一步被發展成其他新應用或解決方案，進而提供更多公共服務。這些計畫也突顯了一些長期以來政府採購技術解決方案上的流程問題，並能提供改善這些老問題的啟示。
 
 ### Unlocking the Power of Open Data
 解放開放資料的力量

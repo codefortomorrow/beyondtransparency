@@ -31,22 +31,22 @@ In addition to enhanced government transparency, these programs also provide a m
 解放開放資料的力量
 
 The concept of “government as a platform”—an idea best, and most famously, articulated by Tim O’Reilly (2010), the founder of O’Reilly Media and a leading proponent of free-software and open source movements—often references the iPhone as an example of a platform done well. The decision in 2008 by Apple chief executive Steve Jobs to allow independent developers to build apps that would work on the iPhone “platform” has made the now ubiquitous device the success that it is. As noted in a 2012 *New York Times* article by David Streitfeld:
-Tim O'Reilly (2010) - O'Reilly Media創始人，同時為免費軟體與開源運動的推動者 - 提出"政府即平台"的概念。iPhone經常被拿來當一個好平台的典範。2008年由蘋果執行長Steve Jobs決定要讓各自獨立的開發者所開放的apps都能在iPhone平台上運作，造成了現在iPhone無所不在的成功。一如2012年New York Times中David Streitfeld的文章中提到：
+Tim O'Reilly (2010) - O'Reilly Media創始人，同時為免費軟體與開源運動的推動者 - 提出"政府即平台"的概念。iPhone經常被拿來當一個好平台的典範。2008年由蘋果執行長Steve Jobs決定要讓各自獨立的開發者所開放的App都能在iPhone平台上運作，造成了現在iPhone無所不在的成功。一如2012年New York Times中David Streitfeld的文章中提到：
 
 > The App Store opened in July 2008 with 500 apps. In an interview, Mr. Jobs laid bare the company’s goal: “Sell more iPhones.” Thanks to the multitude of apps, the goal came to pass. More iPhones... were sold in the next three months than in the entire previous year, and that was just the beginning of the ascent. (Streitfeld, 2012)
-> App Store在2008年7月開放時只有500個app。在一次訪談中，Jobs先生揭露了公司目標："再賣更多iPhone"。感謝這一大群app，這個目標達成了。在接下來三個月，iPhone的銷售量比過去一整年還多，而那只是iPhone熱潮的起點。
+> App Store在2008年7月剛開放時只有500個app。在一次訪談中，Jobs先生揭露了公司目標："不斷地賣更多iPhone"。感謝這一大群App，這個目標達成了。在接下來三個月，iPhone的銷售量比過去一整年還多，而那只是iPhone熱潮的起點。
 
 The idea of turning a phone into an application platform has since been copied by other hardware and software companies, and it has informed the idea of turning government itself into a platform. Providing public access to government data in machine-readable formats (i.e., open data) is the foundation of the efforts being taken by governments around the world. They are essentially copying Apple’s approach to stimulate innovative new apps and ideas that can run on their government “platform.”
-把電話變成一個應用平台的想法因此被複製到其他的軟、硬體公司，進而帶出來政府也可以把自己成為一個平台的概念。開放可使用電腦可讀的格式來對政府資訊公開的存取(例如開放資料)是全球政府第一件可以努力的事。這都是對前述Apple做法核心精神的複製，概念就像是在政府平台上可以執行各種新app的意思。
+把電話變成一個應用平台的想法因此被複製到其他的軟、硬體公司，進而帶出政府也可以把自己成為一個平台的概念。開發資料(開放電腦可用程式語言來對政府公開資訊直接存取)是全球政府首要努力的目標。這都是對前述Apple做法核心精神的複製，概念就像是在政府這個平台上可以執行各種新App的意思。
 
 Open government data is at the heart of a change that is taking place in government. Since the inception of the internet and its now central role in how governments deliver services and information to citizens, governments have used data as an input into a finished product delivered by them for those they serve. Open data, for many governments, has now become the finished product that is delivered to its end-users—independent developers who can use open government data to develop innovative and valuable new solutions.
-開放政府資料位於這場改變的核心。由於網際網路的介入，網路已成為政府對市民提供服務禾資訊的主要管道。政府遇去把資料當做是提供市民服務的素材之一。開放資料，對於多政府而言，已被用來當作政府提供給獨立開發的的素材，並能自行開發出創新又有價值的新產品。
+開放政府資料位於這場改變的核心。由於網際網路的介入，網路已成為政府對市民提供服務和資訊的主要管道。政府遇去把資料當做是提供市民服務的素材之一。開放資料，對於多政府而言，已被用來當作政府提供給獨立開發者的素材，讓他們能自行開發出創新又有價值的新軟體。
 
 This kind of change in government can be long, complex, and fraught with risks. It requires a rethinking of government’s traditional role of sole solution provider (the entity that builds, or contracts for, the customer-facing components through which public services are delivered) to that of a data steward. A 2012 report by the Center for Technology in Government noted the transformational dynamics created by open data programs:
-在政府內這類型的改變可能得花很長的時間、很複雜、而且很具誤導的風險。這需要重新思考傳統觀念中政府是這些資料唯一的「解決方案提供者」的角色定位。一份2012年政府科技中心的報告指出，開放資料的計畫會帶來以下這些改變：
+在政府內這類型的改變可能得花很長的時間、很複雜、而且很具風險。還得重新思考傳統觀念中政府是這些資料唯一的「整體提供者」的角色定位。一份2012年政府科技中心的報告指出，開放資料的計畫會帶來以下這些改變：
 
 > Open data initiatives disrupt government’s traditional role as holder or owner of the data. In thinking about open data governance, we need to rethink government’s role in relation to the entire set of new stakeholders. One possibility is to characterize government, as well as all other stakeholders, as stewards [of data]. (Helbig, Cresswell, Burke, & Luna-Reyes, 2012, p. 13)
-> 開放資料的倡行，瓦解了傳統上政府做為資料保管者或資料攏有者的角色。思考開放資料的政治時，我們需要重新定位政府與整個生態鏈的角色。一種可能性是把政府和其他生態鏈上的關係人都一樣視為是資料的保管者。
+> 開放資料的倡行，瓦解了傳統上政府做為資料管理員和資料主人的角色。思考開放資料的政府服務時，我們需要重新定位政府與整個生態鏈的角色。一種可能是把政府和其他生態鏈上的關係人都一樣視為是資料的管理員這個角色。
 
 The clearest example of how open government data can be used to encourage the development of useful new applications comes from the world of public transit. There are numerous examples of applications built using transit data released by governments with the GTFS specification, which is an open data format initially developed by Google in cooperation with Portland, Oregon’s public transit agency. While initially designed to allow easy integration of transit data into the Google platform, the GTFS data specification has spawned a cottage industry of new transit apps. Websites like citygoround.org list hundreds of transit apps, many built using GTFS data.
 大眾運輸是開放政府資料如何能用來鼓勵發展有用的新應用最清楚的例子。有非常多的應用例子是基於政府開放的運輸資料和GTFS規格-一種由Google和Portland(Oregon的大眾運輸公司)共同制定的開放資料格式。最早GTFS的設計是基於要能容易地把運輸資料整合進Google的平台，後來GTFS規格衍生了一些新的交通運輸 app的產業。citygoround.org這類型的網站列出了上百個交通運輸app，大多都是其於GTFS資料所開發的。

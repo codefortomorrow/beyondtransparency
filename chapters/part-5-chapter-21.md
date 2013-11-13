@@ -162,15 +162,19 @@ In just the last few years, the world of software development has seen a sea cha
 就在最近幾年，軟體開發界裡對於網頁和行動應用的開發有了很大的改變。開發這些東西變得比以前便宜又簡單得太多了。然而政府還是一直付很貴的錢來買這種東西，因為政府對要怎麼運用這些技術的知識太少了。
 
 This is not to suggest that effective websites and useful web applications are easy to build and don’t require skill. They certainly do, but without a fundamental understanding of what the technologies behind these applications are, how they work, and how they are changing, governments cannot distinguish the skilled vendors offering reasonably priced solutions from the shysters.
-
+我不是說有用的網站或好用的網頁應用是很好開發或不用什麼技術。門檻一直都存壓，但是如果不了解這些應用背後的技術和運作原理，以及技術的變化，政府無法分別出開價高的高手和其他開價低的騙錢貨之間有什麼不同。
 
 In a way, it’s not dissimilar from the experience many people have when going to an auto mechanic—if you don’t know anything about how cars work, how do you know for sure if you’re getting a fair price? It calls to mind the classic episode from the sitcom “Seinfeld,” where George Costanza sums up the typical approach to auto repair like this:
+在某種程度上，這就像一般人去找修車技師的經驗一樣。如果你對車子怎麼運作的原理完全不懂，你怎麼知道你是不是待宰的肥羊？這讓我想起"歡樂單身派對"(Seinfeld,美國知名情境喜劇)有一集，George Costanza把一般修車費用做了一段歸納：
 
 > Well of course they’re trying to screw you! What do you think? That’s what they do. They can make up anything; nobody knows! ‘Why, well you need a new Johnson rod in here.’ Oh, a Johnson rod. Yeah, well better put one of those on!
+> 這是一定要的，他們就是要黑你一筆！不是嗎？他們就是靠這吃飯的。什麼理由他們都可以編出來，反正沒人懂！啥？你這個一定要先拆座墊，公道價八萬一有沒有聽過？
 
 If the people who work for government don’t have a clear enough sense of how things get made, they are ill-equipped to evaluate RFP responses from individuals or companies that want to do work on behalf of the government. This is especially important for technology procurement, where new software development paradigms can evolve rapidly.
+如果在政府內工作的人對於產品開發或生產的流程有清楚的認知，那要他們去評審如雪片般飛來的規格建議書是一件很可怕的事。對於技術項目的採購這點尤其重要，因為軟體開發的模式可是變化很快的。
 
 Governments need to place an emphasis on recruiting and hiring people who have experience making things. In addition, governments need to focus on developing the “maker skills” of existing employees. This, by extension, will enhance the ability of governments to evaluate the estimates for work provided by respondents to RFPs.
+政府應該要加強招募有實際開發經驗的人才。此外，政府必須加強發展現有員工的「開發能力」。延伸來說，這能改善政府評估規格建議書裡所提到的工作量的正確性。
 
 ### Conclusion
 

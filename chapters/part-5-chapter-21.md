@@ -156,10 +156,13 @@ The ability to translate a problem into a series of steps that a person can imag
 靠著想像就能把一支程式轉化為一系列的步驟的能力是製造東西的獨特副產品。這是政府內的一個問題，一般來說，政府悲慘地缺乏東西如何被製作出來、要用多少資料或材料的認知。簡而言之，在政府裡嚴重的缺乏製造者(Maker)。
 
 This problem is particularly acute when it comes to technology and how governments acquire it, even for needs that should be simple and relatively cheap, like content management systems for websites and web-based applications. The web is now an essential component of how governments deliver services and communicate with citizens, and yet, there are far too few people inside government (including those in the technology discipline) who have a solid understanding of how the internet works.
+這個問題在涉及到技術、和政府如何取得技術時更顯嚴重，即使是像網站內容管理系統(CMS)或網路應用這類應該很單純、或相對便宜的需求也一樣。網頁目前是政府對市民提供服務和進行溝通的核心要素。然而，在政府內只有太少太少的人了解網路的運作原理，包含技術單位。
 
 In just the last few years, the world of software development has seen a sea change that has transformed how web and mobile applications are built. Never before has it been easier or cheaper to build these applications. Yet governments continue to overpay for them (or the services of those firms that build them) because there is very little in-house knowledge of how these things are built.
+就在最近幾年，軟體開發界裡對於網頁和行動應用的開發有了很大的改變。開發這些東西變得比以前便宜又簡單得太多了。然而政府還是一直付很貴的錢來買這種東西，因為政府對要怎麼運用這些技術的知識太少了。
 
 This is not to suggest that effective websites and useful web applications are easy to build and don’t require skill. They certainly do, but without a fundamental understanding of what the technologies behind these applications are, how they work, and how they are changing, governments cannot distinguish the skilled vendors offering reasonably priced solutions from the shysters.
+
 
 In a way, it’s not dissimilar from the experience many people have when going to an auto mechanic—if you don’t know anything about how cars work, how do you know for sure if you’re getting a fair price? It calls to mind the classic episode from the sitcom “Seinfeld,” where George Costanza sums up the typical approach to auto repair like this:
 

@@ -49,35 +49,35 @@ This kind of change in government can be long, complex, and fraught with risks. 
 > 開放資料的倡行，瓦解了傳統上政府做為資料管理員和資料主人的角色。思考開放資料的政府服務時，我們需要重新定位政府與整個生態鏈的角色。一種可能是把政府和其他生態鏈上的關係人都一樣視為是資料的管理員這個角色。
 
 The clearest example of how open government data can be used to encourage the development of useful new applications comes from the world of public transit. There are numerous examples of applications built using transit data released by governments with the GTFS specification, which is an open data format initially developed by Google in cooperation with Portland, Oregon’s public transit agency. While initially designed to allow easy integration of transit data into the Google platform, the GTFS data specification has spawned a cottage industry of new transit apps. Websites like citygoround.org list hundreds of transit apps, many built using GTFS data.
-大眾運輸是開放政府資料如何能用來鼓勵發展有用的新應用最清楚的例子。有非常多的應用例子是基於政府開放的運輸資料和GTFS規格-一種由Google和Portland(Oregon的大眾運輸公司)共同制定的開放資料格式。最早GTFS的設計是基於要能容易地把運輸資料整合進Google的平台，後來GTFS規格衍生了一些新的交通運輸 app的產業。citygoround.org這類型的網站列出了上百個交通運輸app，大多都是其於GTFS資料所開發的。
+大眾運輸是開放政府資料能鼓勵創新應用服務發展的好例子。很多應用的例子是基於政府開放的運輸資料和GTFS規格(一種由Google和Portland Oregon的大眾運輸公司共同制定的開放資料格式)所發展出來的。最早GTFS的設計理念是為了要能容易地把交通資料整合進Google的平台，後來GTFS居然造就了一些創新的交通類App產業。citygoround.org這類型的網站列出了上百個交通類App，大多都是其於GTFS資料所開發的。
 
 These applications have fundamentally changed the way that riders on public transportation systems consume transit data, as well as the role of transit authorities in relation to how these applications are developed. In the past, the transit agencies themselves would have been the entity that designed, developed, and delivered the apps used by riders to get information—and many still do. However, an increasing number of transit agencies are getting out of the business of developing these kinds of customer-facing apps and are letting the new app market (fueled by the open GTFS data they release) meet rider demand instead.
-這些應用從根本上改變了乘客在大眾運輸系統中使用資料的模式，也改變了大眾運輸公司之間的角色。在過去，大眾運輸公司得自行設計、開發、並提供這些app讓乘客取得資訊 - 有許多公司還是這樣做。然而，逐漸有大眾運輸公司不再開發這類型的客戶app，而改讓這些因開放GTFS資料所產生的新的app市場去滿足乘客的需求。
+這些應用軟體從根本上改變了乘客在大眾運輸系統中使用資料的行為模式，也改變了大眾運輸公司在軟體發展上的角色。在過去，大眾運輸公司得從設計、開發、到提供App給乘客全部一手包辦 - 有許多公司還是在走這樣的模式。然而，逐漸有大眾運輸公司不再開發這類型的客戶App，而改讓那些透過GTFS開放資料所產生的新的App市場去滿足乘客的需求。
 
 In addition, some transit agencies—like the Southeastern Pennsylvania Transportation Authority, which serves the Philadelphia area—are now actively advertising apps built by independent developers to their riders.
-甚至，有些大眾運輸公司-例如東南賓夕凡尼亞運輸公司-現在還幫一些獨立開發者開發的app打廣告。(因為這些app的服務對象是這家公司服務區域的乘客。)
+甚至，有些大眾運輸公司-例如東南賓夕凡尼亞運輸公司-甚至還幫某些個體開發者所開發的App打廣告，因為這些App的服務對象是這家公司服務區域的乘客。
 
 ### Beyond Public Transit: The Limits of Open Data
 ### 開放資料的限制
 
 
 This fundamental shift away from government as the sole solution provider to a data steward is now taking hold outside the world of transit data, fostering the growth of new ideas and solutions.
-這個將政府從獨佔的解決方案提供者的角色轉變為資料看管者的根本性轉移，現在已經在大眾運輸之外的領域開花結果，並且帶動更多新想法和新應用的成長。
+把政府從資料方案唯一提供者的角色轉化為資料管理員的這種核心大改變，目前已在大眾運輸之外的領域帶來更多的開花結果，而且持續帶動更多新想法和新應用的成長。
 
 Leveraging open data to encourage the development of useful applications and services holds many benefits for governments. With this approach, new ways of building software and deploying solutions are developed without them having to make bets on specific technologies (something that governments do not do well). Independent developers operating outside of the normal government procurement process are often better positioned to leverage new advances in app development or service deployment.
-借助開放資料的力量來鼓勵發展有用的應用服務，對政府而言有許多利益。採用這個方法，新發展出來的軟體和服務病案不需要政府來制定最好的規格或技術(其實政府也不太擅長)。不在政府採購流程下運作的獨立開發者通常有更好的態勢來發展新應用或服務方案。
+借助開放資料的力量來鼓勵發展有用的應用服務，對政府而言有許多利益。採用這個方法，新發展出來的軟體和服務方案不需要政府來制定最好的規格或技術(其實政府也不太擅長)。不在政府採購流程下運作的獨立開發者就能夠有更好的態勢和基礎來發展創新應用服務。
 
 Open government data is one way that governments can, in a sense, go around the traditional procurement process to encourage the development of useful software. However, this approach does have some limitations. Implicit in the idea of open data is the fact that governments can’t dictate what users of the data actually do with it (provided they don’t misrepresent the data or otherwise violate terms of use). Publishing open data and engaging outside developers can be a less-than-effective strategy if governments hope to achieve the development of specific tools or solutions.
-公開政府資料是一種政府能以傳統採購流程以外，鼓勵開發有用軟體的方法。然而，這種方法也的確有一些限制。開發資料的概念，隱含了政府不能決定使用者會把這些資料拿來做什麼運用(假定他們不會扭曲資料、或是做出其他違反條款的事)。如果政府想要指定某種工具或解決方案的開發，那麼發行開放資料和解觸外界的開發者對政府而言是一件低效益的事。
+透過公開政府資料，政府能夠走傳統採購流程以外的方式來鼓勵民間開發有用的軟體。然而，這種方法也的確有一些限制。開發資料的概念，隱含了政府不能決定使用者會把這些資料拿來做什麼運用(假定他們不會扭曲資料、或是做出其他違反條款的事)。但如果政府想要指定某種工具或解決方案的開發規格，那麼發行開放資料以及直接與外部的開發者合作，對政府而言會是一件很低效益的事。
 
 The open data approachs best to generate emergent (rather than prescriptive), customer-facing applications that are related to particular kinds of data that have established communities or constituencies of enthusiasts (like transit data). Releasing open data and engaging outside developers to organically develop solutions is not the right approach for the development of all government IT systems. For example, this would be less than ideal for the development of a back-end accounting or financial management system, which requires specialized knowledge of government processes and would likely need to be built to exacting specifications. When governments have specific needs or detailed requirements for how a solution or app should be built and operated, standard government procurement is probably a better way to acquire this technology than hackathons or apps contests.
-開放資料的做法最適於產生不預期的(而非精確的)、直接面對客戶的，與某種特定資料相關而能建立某種社群或熱心的族群的應用(例如大眾運輸資料)。釋出開發資料和接觸外部開發者並一步步發展解決方案並不是發展任何政府IT系統的正確做法。舉例，這絕非是用來發展後台會計或財務管理系統的理想做法，通常那會需要對政府流程深度的了解，並且應該會具有很明確的規格。當政府定得出他們想要的規格的話，走傳統政府採購做法會是比起辦比賽或hackathons還更合適的做法。
+開放資料最適用於產生不預設立場、直接面對終端使用者，與某種特定資料相關而能建立某種社群或熱心的族群的應用(例如大眾運輸資料)。釋出開發資料和與外部開發者合作並一步步發展解決方案並不是發展任何政府內部IT系統的正確做法。舉例，這絕非是用來發展後台會計或財務管理系統的理想做法，通常那會需要對政府流程有深度的了解，並且應該會具有很明確的規格。當政府有辦法定得出明規且符合實際需求的規格的話，走傳統政府採購做法會是比辦比賽或駭客松(hackathons)還更合適的做法。
 
 However, the government procurement process as it exists today is not ideal for acquiring optimal technology solutions that take advantage of the latest thinking on how software and services are developed and deployed. Viewed as cumbersome and complex, the process used by public sector entities to procure goods and services is often cited as a major barrier to introducing innovation—particularly the use of new technologies—into government operations.
-然而，今日的政府採購流程並不是很適合用於購入具有軟體發展最新優勢的最佳技術解決方案上。這些又笨重又複雜的流程，本身就是對政府運作中引進科技創新的最大阻礙。
+然而，現今的政府採購流程並不是很適合用於採購採用高度軟體發展優勢的最新技術解決方案。這些笨重又複雜的流程，本身就是政府運作中引進科技創新的最大阻礙。
 
 ### Looking Ahead: Three Hard Truths for Government Procurement Reform
-向前看：政府採購改革困難的三件實情
+展望未來：政府改革採購流程得面對的三項嚴峻真相
 
 Advancing the innovation agenda within government often means confronting the harsh reality of the government procurement process. This is not a new problem, and there are a number of initiatives underway in governments around the country aimed at “streamlining” or “overhauling” the government procurement process to support the acquisition of new technologies and projects that engage smaller and more nimble companies with new solutions.
 在政府內促成創新議題通常代表會面對政府採購流程的嚴苛現實。這並不是什麼新的問題，全國各地有很多針對政府採購流程"效率化"或"全面診斷"的議案正在進行中，以便能從一些較小、較靈敏的公司購入新科技或專案。

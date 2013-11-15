@@ -80,16 +80,16 @@ However, the government procurement process as it exists today is not ideal for 
 展望未來：三項政府改革採購流程所必須面對的嚴峻挑戰
 
 Advancing the innovation agenda within government often means confronting the harsh reality of the government procurement process. This is not a new problem, and there are a number of initiatives underway in governments around the country aimed at “streamlining” or “overhauling” the government procurement process to support the acquisition of new technologies and projects that engage smaller and more nimble companies with new solutions.
-在政府內促成創新議題通常代表會面對政府採購流程的嚴苛現實。這並不是什麼新的問題，全國各地有很多針對政府採購流程"效率化"或"全面診斷"的議案正在進行中，以便能從一些較小、較靈敏的公司購入新科技或專案。
+在政府內推動創新主張通常代表要面對政府採購流程的嚴苛現實。這是由來已內的問題，全國各地有很多針對政府採購流程"效率化"或"全面診斷"的議案正在進行中，未來才能有一些較敏捷的小公司也可以進入政府的採購程序來提供新科技或導入專案。
 
 The City of Philadelphia, in particular, is engaged in some progressive efforts to use the government procurement process as a means to develop an ecosystem of smaller companies that offer innovative new ideas to longstanding city problems. If the goal of using the procurement process to stimulate (or at least not hinder) innovation inside government is to be realized, reformers in Philadelphia and elsewhere will need to face some hard truths about procurement reform.
-尤其是費城市，正努力籌備一些較新穎的政府採購流程，以便能發展一個由小型公司組成的生態鏈來提供創新的想法來解決長期的城市問題。如果使用此採購流程激勵(至少不要阻礙)政府內創新的目標實現了，費城市或其他地方的改革者必須面對一些採購改革困難的實情。
+以費城市為例，他們正努力規劃更新版的政府採購流程，以便能發展一個由小型公司所組成的生態鏈來提供創新的想法並解決長期的都市問題。但要想讓這種規劃中的採購流程來鼓勵(至少不要阻礙)政府內創新能得以實現，費城市或其他地方的改革者必須面對一些採購改革的嚴苛真相。
 
 In addition, advocates of procurement reform must expand their thinking about the nature of reform and their methods to bring about change by focusing on open government data as a foundational component for systematic change in how governments deliver services and information to those they serve.
-此外，採購改革的擁護者必須更周延地思考關於改革思維的本質，以及針對以開放政府資料為基礎來進行政府對提供服務和資訊的系統層改變的方法。
+此外，提倡採購改革的人必須更周延地思考關於改革思維的本質，並聚焦在以開放政府資料為基時所會產生的變化，及其會對政府提供服務和資訊的系統層面所帶來的變化。
 
 #### Balancing Values
-平衡價值
+平衡值
 
 The arguments in favor of reforming the government procurement process bear a striking similarity to arguments used by advocates for overhauling the federal income tax system. Both sets of advocates point to the problem of unnecessary complexity as an element that can stifle innovation or even harm participants. In many instances, the same verbs are used when calling for reform—words like “overhaul” and “streamline” can be used almost interchangeably when talking about tax reform and procurement reform.
 讚同改革政府採購流程的論點也為擁護對聯邦所得稅系統進行全面檢修的論點提供了相似的火力。兩組擁護者都指出問題在於不必要的複雜性會厄殺了創新，甚至會傷害參與者。在許多案例中，當談到稅務改革和採購改革時，"改革(reform)"也會和如"全面檢修(overhaul)"或"效率改產(streamline"等其他的字混著使用。

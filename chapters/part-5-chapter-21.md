@@ -93,7 +93,7 @@ In addition, advocates of procurement reform must expand their thinking about th
 
 The arguments in favor of reforming the government procurement process bear a striking similarity to arguments used by advocates for overhauling the federal income tax system. Both sets of advocates point to the problem of unnecessary complexity as an element that can stifle innovation or even harm participants. In many instances, the same verbs are used when calling for reform—words like “overhaul” and “streamline” can be used almost interchangeably when talking about tax reform and procurement reform.
 讚成改革政府採購流程的論點也和贊成對所得稅進行全面改革的論點非常雷同。兩組擁護者都指出問題在於不必要的複雜性會厄殺了創新，甚至會傷害參與者。在許多案例中，當談到稅務改革和採購改革時，"改革(reform)"也會和"全面檢修(overhaul)"或"效率改產(streamline"等其他的字混著使用。
-
+!!!!!
 The federal income tax system is a useful reference for talking about procurement reform. It is often used by governments as a vehicle for achieving desired outcomes that (as many economists will quickly point out) have nothing to do with an efficient tax system. We imbue our tax code with certain provisions that, we hope, will help achieve outcomes deemed to have broad societal value.
 當談到採購改革時，所得稅系統是一個有用的參考。它經常被政府用來當做一個為成預期產出的工作，但(許多經濟學家容易就指出)它完全是一套沒有效率的稅務系統。我們一直都以為，也期待著我們的稅收和相關條款是朝著達生更高的社會價值。
 

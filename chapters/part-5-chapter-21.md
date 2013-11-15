@@ -77,7 +77,7 @@ However, the government procurement process as it exists today is not ideal for 
 然而，現今的政府採購流程並不是很適合用於採購採用高度軟體發展優勢的最新技術解決方案。這些笨重又複雜的流程，本身就是政府運作中引進科技創新的最大阻礙。
 
 ### Looking Ahead: Three Hard Truths for Government Procurement Reform
-展望未來：政府改革採購流程得面對的三項嚴峻真相
+展望未來：三項政府改革採購流程所必須面對的嚴峻挑戰
 
 Advancing the innovation agenda within government often means confronting the harsh reality of the government procurement process. This is not a new problem, and there are a number of initiatives underway in governments around the country aimed at “streamlining” or “overhauling” the government procurement process to support the acquisition of new technologies and projects that engage smaller and more nimble companies with new solutions.
 在政府內促成創新議題通常代表會面對政府採購流程的嚴苛現實。這並不是什麼新的問題，全國各地有很多針對政府採購流程"效率化"或"全面診斷"的議案正在進行中，以便能從一些較小、較靈敏的公司購入新科技或專案。

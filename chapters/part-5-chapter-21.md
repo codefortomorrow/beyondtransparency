@@ -89,34 +89,34 @@ In addition, advocates of procurement reform must expand their thinking about th
 此外，提倡採購改革的人必須更周延地思考關於改革思維的本質，並聚焦在以開放政府資料為基時所會產生的變化，及其會對政府提供服務和資訊的系統層面所帶來的變化。
 
 #### Balancing Values
-平衡值
+平衡的大難題
 
 The arguments in favor of reforming the government procurement process bear a striking similarity to arguments used by advocates for overhauling the federal income tax system. Both sets of advocates point to the problem of unnecessary complexity as an element that can stifle innovation or even harm participants. In many instances, the same verbs are used when calling for reform—words like “overhaul” and “streamline” can be used almost interchangeably when talking about tax reform and procurement reform.
 讚成改革政府採購流程的論點也和贊成對所得稅進行全面改革的論點非常雷同。兩組擁護者都指出問題在於不必要的複雜性會厄殺了創新，甚至會傷害參與者。在許多案例中，當談到稅務改革和採購改革時，"改革(reform)"也會和"全面檢修(overhaul)"或"效率改產(streamline"等其他的字混著使用。
-!!!!!
+
 The federal income tax system is a useful reference for talking about procurement reform. It is often used by governments as a vehicle for achieving desired outcomes that (as many economists will quickly point out) have nothing to do with an efficient tax system. We imbue our tax code with certain provisions that, we hope, will help achieve outcomes deemed to have broad societal value.
-當談到採購改革時，所得稅系統是一個有用的參考。它經常被政府用來當做一個為成預期產出的工作，但(許多經濟學家容易就指出)它完全是一套沒有效率的稅務系統。我們一直都以為，也期待著我們的稅收和相關條款是朝著達生更高的社會價值。
+要談採購改革的話，就不得不說說所得稅這個大系統。政府經常透過所得稅的操作來達到一些期望的成果，但(經濟學家們一眼就能看出)它完全是一套沒有運作效率的系統。一直以來，我們都期待著我們的稅收和相關條款是朝著產生更高的社會效益來設計的。
 
 A perfect example of this is the federal income tax deduction for mortgage interest. As a country and a society, we value homeownership over other kinds of investments, so our tax system “rewards” this investment with a special deduction. The objective is to encourage more homeownership because it is highly correlated with desired outcomes, like higher property values and more stable neighborhoods. This deduction comes with a cost, however: it increases the complexity of tax forms, and it increases the effort required both to process these forms and to audit taxpayer compliance.
-有個很棒的例子是聯邦所得稅的抵押品利息扣抵。從國家社會的觀點來看，自有房屋的投資是被視為比其他投資更重要的。所以我們的稅務系統透過特別抵減來"獎勵"這項投資，其目的是鼓勵更高的自有房屋率，因為這和期望的結果有很高的相關性。例如更高的國民財產總值和更穩定的鄰里情誼。然而，這項抵減是有其成本的，它也增加了稅單的複雜性或處理這些申請及稽核的相關流程和工作。
+就拿所得稅的抵押品利息扣抵規定來看好了。從國家社會的角度而言，政府應該多加鼓勵國人把金錢投資在自有房屋上。所以我們的稅務系統透過特別抵減來"獎勵"這項投資，其目的是鼓勵更高的自有房屋率，因為這和期望的結果有很高的相關性。例如更高的國民財產總值和更穩定的鄰里情誼。然而，這項抵減本身也是有其成本的，它也提高了所得稅申報的複雜性、增加了處理這些申請及稽核的相關流程和工作。
 
 There are many other examples of income tax provisions that are specifically engineered to produce outcomes with broad social benefits—a myriad of deductions and credits for married couples, particularly those with children; deductions for contributions made to charities; and deductions for interest on student loans. Each of these examples shares two characteristics: they are designed to encourage specific outcomes, and they increase the overall complexity of the system. On an individual level, the cost of these broader societal benefits manifests as more time and effort to comply with income tax requirements.
-還有很多其他關於所得稅金分配的例子，是特別設計來鼓勵更多社會利益的發生。例如對已婚者大量的稅金抵減，特別是有孩子的家庭；對慈善捐款的稅金抵減；對就學貸款的稅金抵減。每一個例子都有兩個共同的特徵：它們是為了鼓勵特定的行為，同時增加了系統的整體複雜性。以個人層級來看，這些廣義社會福利的隱藏成本顯得比公司層級的所得稅還需要花更多時間和精神。
+還有很多其他關於所得稅金分配的例子，是特別設計來鼓勵更多社會利益的發生。例如對已婚者的稅金抵減，特別是有孩子的家庭；對慈善捐款的稅金抵減；對就學貸款的稅金抵減。每一個例子都有兩個共同的特徵：它們的確是為了鼓勵特定的行為，份同時增加了系統的整體複雜性。以個人層面來看，這些包裹在廣義社會福利背後的隱藏成本是要在所得稅這件事上花更多的時間和精神去處理，才能符合申報的所有規定。
 
 Procurement processes are similar in many ways. Governments imbue these processes with requirements and other stipulations that they hope will lead to outcomes that are deemed desirable. Each of these requirements adds to the complexity of the process and the burden of firms that choose to respond to government RFPs.
-政府採購流程也有許多雷同之處。政府在採購流程中灌入需求規格和其他各種契約，希望能引導出期望的結果。每一項規格其實都增加流程的複雜性，並對需求建議書(Request For Proposal, RPF)的公司造成許多障礙。
+政府採購流程也有許多雷同之處。政府在採購流程中灌入需求規格和其他各種契約，希望能引導出期望的結果。每一項規格其實都增加流程的複雜性，並對想提出需求建議書(Request For Proposal, RPF)的公司造成許多困擾。
 
 For example, almost every government has purchasing requirements for minority- and women-owned businesses, and many have requirements that local companies receive preference over firms from outside the jurisdiction. The objective is to drive more government procurement dollars to minority- and women-owned businesses and to local businesses that create local jobs and pay local taxes.
-舉例，機乎每個政府機關都有發過採購規格給弱勢企業或女性創業的企業，還有很多需求是偏向以當地的公司優先考量。這些限制的目的是要引導政府採購的費用會流向弱勢企業、女性創業家和當地企業，並創近當地的工作機會和稅收。
+舉例，大多數政府機關都有針對鼓勵弱勢企業或女性創業所設計的招標規格，還有一些規格是為了能讓當地的公司有比較好的競標優勢。這些規範的目的是要引導政府採購的經費有更大的機會流向弱勢企業、女性創業家和當地的公司，並進而創近當地的工作機會和稅收。
 
 There are also larger, overarching values embedded in the procurement process. For example, fairness and transparency are values that inform requirements like the public posting of bids and related materials, ample public notice of vendor meetings, and the clear specification of when and how bids must be submitted.
 還有許多包羅萬象的價值隱藏在採購流程的設計中。例如，要公平、公開地把採購需求、招標、相關文仵予以公佈、甚至包含與供應商的會議和明確的投標時間與相關規定。
 
 Risk aversion is another value that impacts the complexity and cost of the public procurement process. It is this value that informs requirements like performance bonds, vendor insurance, scrutiny of company financial statements, and requirements for financial reserves—all things that seek to reduce the risk assumed by governments from engaging with a company to provide a good or service. Each of these requirements can make the procurement process more complex and burdensome for bidders, particularly smaller companies.
-風險規避，另一項採購流程的優點，也是造成採購流程的複雜性的主因。包括對效能、規格、供應商保險、供應商財報的詳細檢查、財務儲備金等，這些項目都是為了降低當政府與一家公司合作過程中所可能產生的風險。以上任一項目都會讓採購流程變得更複雜、並對投標者造成障礙 - 特別是小公司更慘。
+風險規避，另一項採購流程的優點，也是造成採購流程的複雜性的主因。包括對效能、規格、供應商保險、供應商財報的詳細檢查、財務儲備金等，這些項目都是為了降低政府民營企業合作過程中所可能產生的風險。以上任一項目都會讓採購流程變得更複雜、並對投標者造成障礙 - 特別是小公司更慘。
 
 All of this underscores the point that many of the factors that make government procurement processes complex and slow are also things that are intended to produce desired outcomes. These features of the procurement process were designed with a specific intent, and few people would argue with the laudable goals they seek to encourage. Yet, one of the side effects of these requirements is that they make the process slower, more complex, and harder for smaller and more nimble firms to participate in.
-很明顯地，許多使政府採購流程變得複雜、緩慢的因素，其本身也是為了確定產出規格或結果而存在。採購流程的這些特性是為了特殊的意團而設計的，很少人會質疑那些值得讚揚的背後目標。然而，這些需求的副作用是它們把流程變慢、變複雜，並且使得一些體制較小而靈活公司更難以加入了。
+很明顯地，許多使政府採購流程變得複雜、緩慢的因素，其本身也是為了確定產出規格或成果而存在。採購流程的這些特性是為了特殊的意團而設計的，很少人會質疑背後那些「立意良好」的目標。然而，這些規定的副作用是它們把流程變慢、變複雜，並且使得一些體制較小卻比較靈活公司更難以加入了。
 
 Efforts to overhaul or streamline the procurement process will undoubtedly run up against the provisions just discussed. Are there ways to streamline the procurement process that don’t require provisions of this type to be relaxed or removed, or are there ways to relax these provisions without compromising the laudable outcomes they seek to encourage? This remains to be seen.
 對採購流程的全面檢修或效率改革的努力，無疑地將與前述的條款產生衝突。有沒有其他方法可以把採購流程朝著鬆綁或取消這些不需要的條款的方向改善，或是在鬆綁這些條款時無需造成這些值得讚揚的背後原因被妥協？這還有待觀察。
@@ -125,44 +125,44 @@ Efforts to overhaul or streamline the procurement process will undoubtedly run u
 靈活不一定比較好
 
 The great myth in government IT is that the private sector is always way ahead of the public sector in how technology is used.
-在政府內IT的大迷思是：對於科技如何使用的議題，，私部門總是跑在公部門之前。
+在政府內對資訊科技有個大迷思：對於科技如何使用的議題，私部門總是跑在公部門之前。
 
 In between two tours of duty in state and local government, I spent about ten years in the private sector working for both large and small technology firms. Before joining Code for America as Director of Government Relations in 2011, I worked for four different technology companies headquartered in places as different as Horsham, Pennsylvania; Blacksburg, Virginia; and San Francisco, California. I learned a lot about technology and how to be a software developer during this time, but I also learned that—as far as technology is concerned—the grass is not always greener on the other side.
-在洲政府和地方政府兩段工作之間，我有10年時間，分別在大型和小型的私人科技公司工作。在2011年加入Code for America作為政府關係負責人之前，我分別在以下地點共四家不同的科技公司總部工作：Pennsylvania的Horsham, Verginia的Blacksburg和California的San Francisco。
-這段期間我學了很多關於技術和軟體開發的技能，但我更學到了：只要是在技術考量的範圍內，外國的月亮並不會比較圓。
+在洲政府和地方政府兩段工作之間，一共有10年時間，我分別在大型和小型的私人科技公司工作過。在2011年加入Code for America作為政府關係負責人之前，我分別在以下地點共四家不同的科技的公司總部工作：賓夕法尼亞州的和盛鎮(Horsham)。維吉尼亞州的黑堡鎮、加州的舊金山。
+這段期間我學了很多關於技術和軟體開發的技能，但我更學到了：談到技術的領域時，並沒有外國的月亮比較圓這回事。
 
 There are plenty of examples of poor technology decisions in the private sector. We just hear about them less often because they are usually not a matter of public record or visible to the public through a budget submission or legislative hearing.
 有很多例子可以說明在私部門的技術決策是很糟糕的。我們比較少聽到這些案例的原因是，它們不關大眾的事、或是不需經過立法公聽會或是預算審查。
 
 To be sure, governments around the world have issues with implementing technology, but some of the things I’ve seen in the private sector have been shocking—inexcusably bad decisions made by people who should know better, a complete lack of strategic thinking about how technology is used to benefit the company, and dragging old legacy technology along far past its point of usefulness simply because upgrading would be tricky and complex—the list goes on. The private sector has all of these problems and more. We just don’t hear about them as much.
-不可否認，世界各地的政府在實作技術時都會遇到一些問題，但是我在私部門時遇到過一些令人完全無法原諒事，例如由一些對於科技要如何讓公司受益這件事毫無策略思考的人下的糟糕技術決策、遲遲拖著沒十的老技術不想升級，而把原因歸咎於升級的程程複雜又有很多眉角等等，數都數不完。這類問題在私部門一樣層出不窮，我們只是比較少聽到人家講。
+不可否認，世界各地的政府在實作技術時都會遇到一些問題，但是我在私部門時遇到過一些令人完全無法原諒的事，例如由一些對於「公司要怎麼透過新科技受益」這件事毫無策略思考的人來下糟糕技術決策、遲遲拖著沒用的老技術不想升級，而把原因歸咎於升級的程序太複雜又有很多眉角等等，數都數不完。這類問題在私部門一樣層出不窮，只是比較少被拿到枱面上來講。
 
 What my experience in the private sector made exceedingly clear to me is that it is entirely possible (and not very unusual) for private sector organizations, unshackled by complicated procurement processes like those used by governments, to make lousy choices and invest poorly in technology.
 我在私部門的經驗讓我好生明白，對私部門來講，很可能(但並非常態)不像政府部門受複雜的採購流程束縛，而對技術投資做出糟糕的決定。
 
 Simply making the government procurement process “simpler” won’t guarantee that better IT decisions get made. Governments will still need to think more strategically about how they invest in technology and become better at learning how it can be used to make the delivery of public services more efficient and effective.
-單純地把政府採購流程「簡化」並不能保證比較好的IT決策。政府仍需要更多策略性思考，來決定技術投資，並學習如何有效率、有效果地把它用在對大眾提供服務。
+單純地把政府採購流程「簡化」並不能保證比較好的資訊決策。政府仍需要更多策略性思考，來決定技術投資，並學習如何有效率、有效果地把它用在對大眾提供服務。
 
 #### A Dearth of Makers Inside Government
-政府內部缺乏開發者
+政府內部缺乏真正有實作經驗的人
 
 My experience working as a software developer for several years, and continuing to work with other developers from a variety of disciplines for years after that, has affected the way I approach problems. Whenever I hear about an application or service or an idea someone has for one, I’m often privately thinking (as I think most people who have worked as developers are), how would I build something like that? This is probably true of most people who have built things for a living.
-在我作為軟體工程師的幾年工作經驗，和持續在其他領域累積的工程師生活，改變了我處理問題的態度。每當我聽到某人有個軟體、服務或想法時，我通常會自己先想想(我想其他工程師也會這麼想)，如果是我的話，我會怎麼開發那個東西？也許大多數的開發都都會這樣做。
+在我作為軟體工程師的幾年工作經驗，和持續在其他領域累積的工程師生活，改變了我處理問題的態度。每當我聽到某人有個軟體、服務或構想時，我通常會自己先想想(我猜其他工程師也會這麼想)，如果是我的話，我會怎麼開發那個東西？也許大多數的開發都都會這樣做。
 
 Understanding how things work and how to build them can be a useful skill when evaluating the level of effort required to perform a service or to solve a problem. This is something software developers do often—estimate the amount of time it will take them (or their team) to complete a series of tasks they have not yet begun. It’s hard to do well. Even software developers who do this often will sometimes underestimate or overestimate the amount of time required to complete a task.
 在評估解決問題或提供服務所要花的代價時，先了解它如何運作以及如何被製造出來，是一項很有用的技巧。這是軟體工程師很常做的事-預估他或他的團隊要花多少具體的時間來完成一系列尚未展開的工作。這很難算得準。即使是老手也常會低估或高估完成一件工作所需的時間。
 
 The ability to translate a problem into a series of steps that a person can imagine herself doing is the specific byproduct of making things. This is a problem in government, where, in general, there is a woeful lack of awareness about how things are made and what resources and materials are required to build things. In short, there is a critical lack of makers in government.
-靠著想像就能把一支程式轉化為一系列的步驟的能力是製造東西的獨特副產品。這是政府內的一個問題，一般來說，政府悲慘地缺乏東西如何被製作出來、要用多少資料或材料的認知。簡而言之，在政府裡嚴重的缺乏製造者(Maker)。
+靠著想像就能把一支程式轉化為一系需要步驟，這種能力沒實際開發過的人學不來的。這是政府內的一個問題，一般來說，政府悲慘地缺乏有關東西如何實作、要用多少資源或材料的認知。簡而言之，在政府裡嚴重的缺乏會實作的人。
 
 This problem is particularly acute when it comes to technology and how governments acquire it, even for needs that should be simple and relatively cheap, like content management systems for websites and web-based applications. The web is now an essential component of how governments deliver services and communicate with citizens, and yet, there are far too few people inside government (including those in the technology discipline) who have a solid understanding of how the internet works.
-這個問題在涉及到技術、和政府如何取得技術時更顯嚴重，即使是像網站內容管理系統(CMS)或網路應用這類應該很單純、或相對便宜的需求也一樣。網頁目前是政府對市民提供服務和進行溝通的核心要素。然而，在政府內只有太少太少的人了解網路的運作原理，包含技術單位。
+這個問題在涉及到技術、和政府如何採購技術時更顯嚴重，即使是像網站內容管理系統(CMS)或基本的網路應用這類應該很單純、或相對便宜的需求也一樣。網頁目前是政府對市民提供服務和進行溝通的核心要素。然而，在政府內只有太少太少的人了解網路的運作原理，包含技術單位在內。
 
 In just the last few years, the world of software development has seen a sea change that has transformed how web and mobile applications are built. Never before has it been easier or cheaper to build these applications. Yet governments continue to overpay for them (or the services of those firms that build them) because there is very little in-house knowledge of how these things are built.
 就在最近幾年，軟體開發界裡對於網頁和行動應用的開發有了很大的改變。開發這些東西變得比以前便宜又簡單得太多了。然而政府還是一直付很貴的錢來買這種東西，因為政府對要怎麼運用這些技術的知識太少了。
 
 This is not to suggest that effective websites and useful web applications are easy to build and don’t require skill. They certainly do, but without a fundamental understanding of what the technologies behind these applications are, how they work, and how they are changing, governments cannot distinguish the skilled vendors offering reasonably priced solutions from the shysters.
-我不是說有用的網站或好用的網頁應用是很好開發或不用什麼技術。門檻一直都存壓，但是如果不了解這些應用背後的技術和運作原理，以及技術的變化，政府無法分別出開價高的高手和其他開價低的騙錢貨之間有什麼不同。
+我不是說有用的網站或好用的網頁應用是很好開發或不用什麼技術。門檻一直都存在，但是如果不了解這些應用背後的技術和運作原理，以及技術的變化，政府無法分別出開價高的高手和其他開價低的騙錢貨之間有什麼不同。
 
 In a way, it’s not dissimilar from the experience many people have when going to an auto mechanic—if you don’t know anything about how cars work, how do you know for sure if you’re getting a fair price? It calls to mind the classic episode from the sitcom “Seinfeld,” where George Costanza sums up the typical approach to auto repair like this:
 在某種程度上，這就像一般人去找修車技師的經驗一樣。如果你對車子怎麼運作的原理完全不懂，你怎麼知道你是不是待宰的肥羊？這讓我想起"歡樂單身派對"(Seinfeld,美國知名情境喜劇)有一集，George Costanza把一般修車費用做了一段歸納：

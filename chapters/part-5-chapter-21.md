@@ -177,24 +177,34 @@ Governments need to place an emphasis on recruiting and hiring people who have e
 政府應該要加強招募有實際開發經驗的人才。此外，政府必須加強發展現有員工的「開發能力」。延伸來說，這能改善政府評估規格建議書裡所提到的工作量的正確性。
 
 ### Conclusion
+結論
 
 Government open data programs and the independent apps they help generate provide tremendously helpful ways of fostering new approaches to old problems. They also support the application of new technologies and app development strategies for delivering public services.
+政府開放資料計畫以及相關的衍生獨立App對解決老問題時，提供很多有用的新方法。而且也支持了新技術的應用、並提供公共服務的App發展。
 
 However, even the most robust open data program is not a suitable replacement for a well-designed and properly functioning procurement process—one that fosters innovation and the risk that is inherent in it. Open data programs can—and should—complement well-designed procurement processes.
+然而，再穩健的開放資料計畫也不適金全面取代設計良好而且正常運作的採購流程 - 在固有風險的範圍下促成創新。開放資料計畫不僅能夠，也應該視為是採購流程的互補機制。
 
 Open data programs have opened the door to new ways of thinking about how public services are delivered. They also help highlight some of the deficiencies in the existing processes used to acquire solutions by government and deliver services and information.
+開放資料計畫開啟了公共服務有更多思考方式的新大門。同時也能挑出目前政府流程中採購解決方案和提供資訊及服務的不足之處。
 
 The job of overhauling existing government procurement processes to encourage innovation will not be an easy one, but one of the many benefits of open data is that it has led to this important discussion.
+整頓現行的政府採購流程以鼓勵更多創新是一件困難的工作。但開放資料的諸多效益之一就是：它引出了這項重要的討論。
 
 ### About the Author
+關於作者
 
 Mark Headd is a writer, speaker, teacher, and thought leader on web development, open government and civic hacking. Self taught in programming, he has been developing telephone, mobile, speech recognition, and messaging applications for over ten years and has deep experience in communication technologies.
+Mark Headd是作家、演說家、考師和網頁開發、開放政府及公民黑客的意見領袖。透過自學，他有過十年的電話、手機、語音辨識和簡訊軟體開發經驗，以及在通訊技術上的深厚經歷。
 
 In August 2012, Mayor Michael Nutter selected Mark to become the City of Philadelphia’s first Chief Data Officer, to lead the city’s open data and government transparency initiatives. He previously served for three years as the chief policy and budget advisor for the State of Delaware’s Department of Technology and Information, and as technology advisor to Delaware Governor Thomas Carper.
+2012年八月，Michael Nutter市長指派Mark為費成的首任城市資料長(Chief Data Officer)，帶領費城的開放資料和政府透明計畫。在此之前他擔任特拉華州資訊技術部的首席策略及預算顧問，以及特拉華州長Thomas Carper的科技顧問。
 
 Mark has built open government software applications for the District of Columbia, the Sunlight Foundation, the New York State Senate, and the cities of New York, San Francisco, Toronto, Baltimore, and Philadelphia. He is an organizer, judge, sponsor, and participant in civic hacking events across the country, including Philadelphia and Baltimore.
+Mark曾為哥倫比亞特區、陽光基金會、紐約參議院、紐約市、舊金山、多倫多、巴爾的摩和費城開發過開放政府軟體應用。在包括費城和巴爾的摩等全國各地的公民黑活活動口，他扮演過組織者、 評審、贊助者和參與者的角色。
 
 ### References
+參考資料
 
 Center for Technology in Government. (2012). The Dynamics of Opening Government Data. Albany, NY: Helbig, N., Cresswell, A. M., Burke, G. B., & Luna-Reyes, L. Retrieved from: http://www.ctg.albany.edu/publications/reports/opendata/opendata.pdf
 O’Reilly, Tim (2010). Government as a Platform. In Open Government (Chapter 1). Retrieved from http://ofps.oreilly.com/titles/9780596804350/defining_government_2_0_lessons_learned_.html

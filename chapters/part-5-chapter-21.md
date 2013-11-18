@@ -201,7 +201,7 @@ In August 2012, Mayor Michael Nutter selected Mark to become the City of Philade
 2012年八月，Michael Nutter市長指派Mark為費成的首任城市資料長(Chief Data Officer)，帶領費城的開放資料和政府透明計畫。在此之前他擔任特拉華州資訊技術部的首席策略及預算顧問，以及特拉華州長Thomas Carper的科技顧問。
 
 Mark has built open government software applications for the District of Columbia, the Sunlight Foundation, the New York State Senate, and the cities of New York, San Francisco, Toronto, Baltimore, and Philadelphia. He is an organizer, judge, sponsor, and participant in civic hacking events across the country, including Philadelphia and Baltimore.
-Mark曾為哥倫比亞特區、陽光基金會、紐約參議院、紐約市、舊金山、多倫多、巴爾的摩和費城開發過開放政府軟體應用。在包括費城和巴爾的摩等全國各地的公民黑活活動口，他扮演過組織者、 評審、贊助者和參與者的角色。
+Mark曾為哥倫比亞特區、陽光基金會、紐約參議院、紐約市、舊金山、多倫多、巴爾的摩和費城開發過開放政府軟體應用。在包括費城和巴爾的摩等全國各地的公民黑活動中他扮演過組織者、 評審、贊助者和參與者的角色。
 
 ### References
 參考資料

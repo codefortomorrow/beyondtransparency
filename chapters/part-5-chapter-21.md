@@ -80,37 +80,37 @@ However, the government procurement process as it exists today is not ideal for 
 展望未來：三項政府改革採購流程所必須面對的嚴峻挑戰
 
 Advancing the innovation agenda within government often means confronting the harsh reality of the government procurement process. This is not a new problem, and there are a number of initiatives underway in governments around the country aimed at “streamlining” or “overhauling” the government procurement process to support the acquisition of new technologies and projects that engage smaller and more nimble companies with new solutions.
-在政府內推動創新主張通常代表要面對政府採購流程的嚴苛現實。這是由來已內的問題，全國各地有很多針對政府採購流程"效率化"或"全面診斷"的議案正在進行中，未來才能有一些較敏捷的小公司也可以進入政府的採購程序來提供新科技或導入專案。
+在政府內推動創新通常代表要面對嚴苛政府採購流程。這是由來已久的問題，全國各地有很多針對政府採購流程"效率化"或"全面診斷"的議案正在進行中，未來才能有一些較敏捷的小公司也可以進入政府的採購程序來提供新科技或導入專案。
 
 The City of Philadelphia, in particular, is engaged in some progressive efforts to use the government procurement process as a means to develop an ecosystem of smaller companies that offer innovative new ideas to longstanding city problems. If the goal of using the procurement process to stimulate (or at least not hinder) innovation inside government is to be realized, reformers in Philadelphia and elsewhere will need to face some hard truths about procurement reform.
-以費城市為例，他們正努力規劃更新版的政府採購流程，以便能發展一個由小型公司所組成的生態鏈來提供創新的想法並解決長期的都市問題。但要想讓這種規劃中的採購流程來鼓勵(至少不要阻礙)政府內創新能得以實現，費城市或其他地方的改革者必須面對一些採購改革的嚴苛真相。
+以費城市為例，他們正努力規劃新的政府採購流程，以便能發展一個由小型公司所組成的生態鏈來提供創新的想法並解決長期的都市問題。但想要讓這些規劃中的新採購流程能實現(至少不要阻礙)政府內創新的推動，費城市或其他地方的改革者必須面對一些採購改革的嚴苛現況。
 
 In addition, advocates of procurement reform must expand their thinking about the nature of reform and their methods to bring about change by focusing on open government data as a foundational component for systematic change in how governments deliver services and information to those they serve.
-此外，提倡採購改革的人必須更周延地思考關於改革思維的本質，並聚焦在以開放政府資料為基時所會產生的變化，及其會對政府提供服務和資訊的系統層面所帶來的變化。
+此外，提倡採購改革的人必須更周延地思考關於改革思維的本質，並聚焦在以開放政府資料為基時所帶來的不同，與其會對政府提供服務和資訊的所帶來的系統層級改變。
 
 #### Balancing Values
 平衡的大難題
 
 The arguments in favor of reforming the government procurement process bear a striking similarity to arguments used by advocates for overhauling the federal income tax system. Both sets of advocates point to the problem of unnecessary complexity as an element that can stifle innovation or even harm participants. In many instances, the same verbs are used when calling for reform—words like “overhaul” and “streamline” can be used almost interchangeably when talking about tax reform and procurement reform.
-讚成改革政府採購流程的論點也和贊成對所得稅進行全面改革的論點非常雷同。兩組擁護者都指出問題在於不必要的複雜性會厄殺了創新，甚至會傷害參與者。在許多案例中，當談到稅務改革和採購改革時，"改革(reform)"也會和"全面檢修(overhaul)"或"效率改產(streamline"等其他的字混著使用。
+贊成改革政府採購流程的論點和贊成對所得稅進行全面改革的論點非常雷同。兩組擁護者都指出問題在於不必要的複雜性會厄殺了創新，甚至會傷害參與者。在許多案例中，當談到稅務改革和採購改革時，"改革(reform)"也會和"全面檢修(overhaul)"或"效率改產(streamline"等其他的字混著使用。
 
 The federal income tax system is a useful reference for talking about procurement reform. It is often used by governments as a vehicle for achieving desired outcomes that (as many economists will quickly point out) have nothing to do with an efficient tax system. We imbue our tax code with certain provisions that, we hope, will help achieve outcomes deemed to have broad societal value.
-要談採購改革的話，就不得不說說所得稅這個大系統。政府經常透過所得稅的操作來達到一些期望的成果，但(經濟學家們一眼就能看出)它完全是一套沒有運作效率的系統。一直以來，我們都期待著我們的稅收和相關條款是朝著產生更高的社會效益來設計的。
+要談採購改革的話，就不得不說說所得稅這個大系統。政府經常透過所得稅的操作來達到一些期望的成果，但(經濟學家們一眼就能看出)它完全是一套沒有運作效率的系統。一直以來，我們都以為(也期待)我們的稅收和相關條款是朝著產生更高的社會效益來設計的。
 
 A perfect example of this is the federal income tax deduction for mortgage interest. As a country and a society, we value homeownership over other kinds of investments, so our tax system “rewards” this investment with a special deduction. The objective is to encourage more homeownership because it is highly correlated with desired outcomes, like higher property values and more stable neighborhoods. This deduction comes with a cost, however: it increases the complexity of tax forms, and it increases the effort required both to process these forms and to audit taxpayer compliance.
-就拿所得稅的抵押品利息扣抵規定來看好了。從國家社會的角度而言，政府應該多加鼓勵國人把金錢投資在自有房屋上。所以我們的稅務系統透過特別抵減來"獎勵"這項投資，其目的是鼓勵更高的自有房屋率，因為這和期望的結果有很高的相關性。例如更高的國民財產總值和更穩定的鄰里情誼。然而，這項抵減本身也是有其成本的，它也提高了所得稅申報的複雜性、增加了處理這些申請及稽核的相關流程和工作。
+就拿所得稅的抵押品利息扣抵規定來看好了。從國家社會的角度而言，政府應該多加鼓勵國人把金錢投資在自有房屋上。所以我們的稅務系統透過特別抵減來"獎勵"這項投資，其目的是鼓勵更高的自有房屋率，因為這和期望的結果有很高的相關性。例如更高的國民財產總值和更穩定的鄰里情誼。然而，這項抵減本身也是有其成本的，它提高了所得稅申報的複雜性、增加了處理這些申請及稽核的相關流程和工作。
 
 There are many other examples of income tax provisions that are specifically engineered to produce outcomes with broad social benefits—a myriad of deductions and credits for married couples, particularly those with children; deductions for contributions made to charities; and deductions for interest on student loans. Each of these examples shares two characteristics: they are designed to encourage specific outcomes, and they increase the overall complexity of the system. On an individual level, the cost of these broader societal benefits manifests as more time and effort to comply with income tax requirements.
-還有很多其他關於所得稅金分配的例子，是特別設計來鼓勵更多社會利益的發生。例如對已婚者的稅金抵減，特別是有孩子的家庭；對慈善捐款的稅金抵減；對就學貸款的稅金抵減。每一個例子都有兩個共同的特徵：它們的確是為了鼓勵特定的行為，份同時增加了系統的整體複雜性。以個人層面來看，這些包裹在廣義社會福利背後的隱藏成本是要在所得稅這件事上花更多的時間和精神去處理，才能符合申報的所有規定。
+還有很多其他關於所得稅金分配的例子，是特別設計來鼓勵更多社會利益的發生。例如對已婚者的稅金抵減，特別是有孩子的家庭；對慈善捐款的稅金抵減；對就學貸款的稅金抵減。每一個例子都有兩個共同的特徵：它們的確是為了鼓勵特定的行為，卻同時增加了系統的整體複雜性。以個人層面來看，這些包裹在廣義社會福利背後的隱藏成本是要在所得稅這件事上花更多的時間和精神去處理，才能符合申報的所有規定。
 
 Procurement processes are similar in many ways. Governments imbue these processes with requirements and other stipulations that they hope will lead to outcomes that are deemed desirable. Each of these requirements adds to the complexity of the process and the burden of firms that choose to respond to government RFPs.
 政府採購流程也有許多雷同之處。政府在採購流程中灌入需求規格和其他各種契約，希望能引導出期望的結果。每一項規格其實都增加流程的複雜性，並對想提出需求建議書(Request For Proposal, RPF)的公司造成許多困擾。
 
 For example, almost every government has purchasing requirements for minority- and women-owned businesses, and many have requirements that local companies receive preference over firms from outside the jurisdiction. The objective is to drive more government procurement dollars to minority- and women-owned businesses and to local businesses that create local jobs and pay local taxes.
-舉例，大多數政府機關都有針對鼓勵弱勢企業或女性創業所設計的招標規格，還有一些規格是為了能讓當地的公司有比較好的競標優勢。這些規範的目的是要引導政府採購的經費有更大的機會流向弱勢企業、女性創業家和當地的公司，並進而創近當地的工作機會和稅收。
+舉例，大多數政府機關都有針對鼓勵弱勢企業或女性創業所設計的招標規格，還有一些規格是為了能讓當地的公司有比較好的投標優勢。這些規範的目的是要引導政府採購的經費有更大的機會流向弱勢企業、女性創業家和當地的公司，進而能創近當地的工作機會和稅收。
 
 There are also larger, overarching values embedded in the procurement process. For example, fairness and transparency are values that inform requirements like the public posting of bids and related materials, ample public notice of vendor meetings, and the clear specification of when and how bids must be submitted.
-還有許多包羅萬象的價值隱藏在採購流程的設計中。例如，要公平、公開地把採購需求、招標、相關文仵予以公佈、甚至包含與供應商的會議和明確的投標時間與相關規定。
+還有許多包羅萬象的「良好立意」隱藏在採購流程的設計中。例如，要公平、公開地把採購需求、招標、相關文仵予以公佈、甚至包含與供應商的會議和明確的投標時間與相關規定。
 
 Risk aversion is another value that impacts the complexity and cost of the public procurement process. It is this value that informs requirements like performance bonds, vendor insurance, scrutiny of company financial statements, and requirements for financial reserves—all things that seek to reduce the risk assumed by governments from engaging with a company to provide a good or service. Each of these requirements can make the procurement process more complex and burdensome for bidders, particularly smaller companies.
 風險規避，另一項採購流程的優點，也是造成採購流程的複雜性的主因。包括對效能、規格、供應商保險、供應商財報的詳細檢查、財務儲備金等，這些項目都是為了降低政府民營企業合作過程中所可能產生的風險。以上任一項目都會讓採購流程變得更複雜、並對投標者造成障礙 - 特別是小公司更慘。
@@ -135,10 +135,10 @@ There are plenty of examples of poor technology decisions in the private sector.
 有很多例子可以說明在私部門的技術決策是很糟糕的。我們比較少聽到這些案例的原因是，它們不關大眾的事、或是不需經過立法公聽會或是預算審查。
 
 To be sure, governments around the world have issues with implementing technology, but some of the things I’ve seen in the private sector have been shocking—inexcusably bad decisions made by people who should know better, a complete lack of strategic thinking about how technology is used to benefit the company, and dragging old legacy technology along far past its point of usefulness simply because upgrading would be tricky and complex—the list goes on. The private sector has all of these problems and more. We just don’t hear about them as much.
-不可否認，世界各地的政府在實作技術時都會遇到一些問題，但是我在私部門時遇到過一些令人完全無法原諒的事，例如由一些對於「公司要怎麼透過新科技受益」這件事毫無策略思考的人來下糟糕技術決策、遲遲拖著沒用的老技術不想升級，而把原因歸咎於升級的程序太複雜又有很多眉角等等，數都數不完。這類問題在私部門一樣層出不窮，只是比較少被拿到枱面上來講。
+不可否認，世界各地的政府在實作技術時都會遇到一些問題，但是我在私部門時遇到過一些令人完全無法原諒的事，例如由一些對於「公司要怎麼透過新科技受益」毫無策略思考的人來下糟糕的技術決策、遲遲拖著沒用的老技術不想升級，而把原因歸咎於升級的程序太複雜又有很多眉角等等，數都數不完。這類問題在私部門一樣層出不窮，只是比較少被拿到枱面上來講。
 
 What my experience in the private sector made exceedingly clear to me is that it is entirely possible (and not very unusual) for private sector organizations, unshackled by complicated procurement processes like those used by governments, to make lousy choices and invest poorly in technology.
-我在私部門的經驗讓我好生明白，對私部門來講，很可能(但並非常態)不像政府部門受複雜的採購流程束縛，而對技術投資做出糟糕的決定。
+我在私部門的經驗讓我好生明白，對私部門來講，很可能(但並非常態)不像政府部門受複雜的採購流程束縛，卻一樣對技術投資做出糟糕的決定。
 
 Simply making the government procurement process “simpler” won’t guarantee that better IT decisions get made. Governments will still need to think more strategically about how they invest in technology and become better at learning how it can be used to make the delivery of public services more efficient and effective.
 單純地把政府採購流程「簡化」並不能保證比較好的資訊決策。政府仍需要更多策略性思考，來決定技術投資，並學習如何有效率、有效果地把它用在對大眾提供服務。
@@ -183,19 +183,19 @@ Government open data programs and the independent apps they help generate provid
 政府開放資料計畫以及相關的衍生獨立App對解決老問題時，提供很多有用的新方法。而且也支持了新技術的應用、並提供公共服務的App發展。
 
 However, even the most robust open data program is not a suitable replacement for a well-designed and properly functioning procurement process—one that fosters innovation and the risk that is inherent in it. Open data programs can—and should—complement well-designed procurement processes.
-然而，再穩健的開放資料計畫也不適金全面取代設計良好而且正常運作的採購流程 - 在固有風險的範圍下促成創新。開放資料計畫不僅能夠，也應該視為是採購流程的互補機制。
+然而，再穩健的開放資料計畫也不適合全面取代設計良好而且正常運作的採購流程 - 在固有風險的範圍下促成創新。開放資料計畫可以，也應該被視為是政府採購流程的互補機制。
 
 Open data programs have opened the door to new ways of thinking about how public services are delivered. They also help highlight some of the deficiencies in the existing processes used to acquire solutions by government and deliver services and information.
 開放資料計畫開啟了公共服務有更多思考方式的新大門。同時也能挑出目前政府流程中採購解決方案和提供資訊及服務的不足之處。
 
 The job of overhauling existing government procurement processes to encourage innovation will not be an easy one, but one of the many benefits of open data is that it has led to this important discussion.
-整頓現行的政府採購流程以鼓勵更多創新是一件困難的工作。但開放資料的諸多效益之一就是：它引出了這項重要的討論。
+整頓現行的政府採購流程以鼓勵更多創新是一件困難的工作。但開放資料的諸多效益之一就是：它帶出了這項重要的討論。
 
 ### About the Author
 關於作者
 
 Mark Headd is a writer, speaker, teacher, and thought leader on web development, open government and civic hacking. Self taught in programming, he has been developing telephone, mobile, speech recognition, and messaging applications for over ten years and has deep experience in communication technologies.
-Mark Headd是作家、演說家、考師和網頁開發、開放政府及公民黑客的意見領袖。透過自學，他有過十年的電話、手機、語音辨識和簡訊軟體開發經驗，以及在通訊技術上的深厚經歷。
+Mark Headd是作家、演說家、考師和網頁開發、開放政府及公民黑客的意見領袖。透過自學，他共有十年的電話、手機、語音辨識和簡訊軟體開發經驗，以及在通訊技術上的深厚經歷。
 
 In August 2012, Mayor Michael Nutter selected Mark to become the City of Philadelphia’s first Chief Data Officer, to lead the city’s open data and government transparency initiatives. He previously served for three years as the chief policy and budget advisor for the State of Delaware’s Department of Technology and Information, and as technology advisor to Delaware Governor Thomas Carper.
 2012年八月，Michael Nutter市長指派Mark為費成的首任城市資料長(Chief Data Officer)，帶領費城的開放資料和政府透明計畫。在此之前他擔任特拉華州資訊技術部的首席策略及預算顧問，以及特拉華州長Thomas Carper的科技顧問。

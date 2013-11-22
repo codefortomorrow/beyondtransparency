@@ -4,16 +4,18 @@ title: "The Bigger Picture: Ten Lessons for Taking Open Government Further"
 chapter: 20
 part: 5
 author: 
-  - 
-    name: John Bracken
+  - name: John Bracken
     twitter: jsb
     job: Director of Media Innovation
     employer: Knight Foundation
     photo_url: /images/authors/bracken.png
     about: "John S. Bracken is director of media innovation for the Knight Foundation. He oversees the Knight News Challenge, Knight’s prototype fund, its journalism and technology investments."
-
-permalink: /part-5/the-bigger-picture-ten-lessons-for-taking-open-government-further/
+permalink: "/part-5/the-bigger-picture-ten-lessons-for-taking-open-government-further/"
+published: true
 ---
+
+### The Bigger Picture: Ten Lessons for Taking Open Government Further
+### 遼闊的願景：帶領開放政府更進一步的十堂課
 
 My job at the Knight Foundation is to identify people with promising ideas and help them execute them. Our primary tool for that is the Knight News Challenge, through which we’ve supported nearly a hundred projects, with more than $30 million over six years. We’ve supported several open government-related projects and groups like LocalWiki, the Open Knowledge Foundation, Ushahidi, EveryBlock, and Open Street Maps.
 
@@ -86,4 +88,3 @@ For open government to succeed, it needs to make its principles—transparency, 
 ### About the Author
 
 John S. Bracken is the director of media innovation for the Knight Foundation. He oversees the Knight News Challenge, Knight’s prototype fund, its journalism, and its technology investments. Bracken has over ten years of experience as a philanthropic investor in digital media, media policy, innovation, and global internet freedom, having previously worked at the Ford Foundation and the MacArthur Foundation.
-

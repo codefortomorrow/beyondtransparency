@@ -15,9 +15,11 @@ published: true
 ---
 
 ### The Bigger Picture: Ten Lessons for Taking Open Government Further
-### 遼闊的願景：帶領開放政府更進一步的十堂課
+### 看得更遠：帶領開放政府往前邁進的十堂課
 
 My job at the Knight Foundation is to identify people with promising ideas and help them execute them. Our primary tool for that is the Knight News Challenge, through which we’ve supported nearly a hundred projects, with more than $30 million over six years. We’ve supported several open government-related projects and groups like LocalWiki, the Open Knowledge Foundation, Ushahidi, EveryBlock, and Open Street Maps.
+
+我在騎士基金會(Knight Foundation)的工作內容發掘擁有動人點子的人，並幫助他們完成這些想法。我們主要使用我們的網站(Knight News Challenge)來當做收集點子的工具，六年來已經支助了上百個計畫，總額超過3千萬美金。我們支助過好幾個開放政府相關的計畫或團體，例如LocalWiki、開放知識基金會(Open Knowledge Foundation)、Ushahidi(快速報導訊息的社群網站)、EveryBlock(以在地街區為單位的社群網站)和Open Street Maps(相當於Google Map的開源計畫)。
 
 The code, insights, and talent networks we’ve supported through the News Challenge moved us to focus a recent iteration on open government. Our goal was to expand the table of people who engage with open government. In addition to practical open government applications, we hoped to uncover ideas about how the internet can change the ways in which citizens and governments interact. We wanted to involve more people in the use of technology to solve community problems, and we sought to expand the geographic footprint beyond what’s become the standard open government metropoles of San Francisco, Chicago, and the Boston-New York- DC Acela nexus. Silently, I hoped that at least one of the winners would not even consider themselves as part of the open government movement.
 

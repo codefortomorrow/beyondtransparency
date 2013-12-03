@@ -23,16 +23,24 @@ My job at the Knight Foundation is to identify people with promising ideas and h
 
 The code, insights, and talent networks we’ve supported through the News Challenge moved us to focus a recent iteration on open government. Our goal was to expand the table of people who engage with open government. In addition to practical open government applications, we hoped to uncover ideas about how the internet can change the ways in which citizens and governments interact. We wanted to involve more people in the use of technology to solve community problems, and we sought to expand the geographic footprint beyond what’s become the standard open government metropoles of San Francisco, Chicago, and the Boston-New York- DC Acela nexus. Silently, I hoped that at least one of the winners would not even consider themselves as part of the open government movement.
 
-過去我們在News Challenge上資助過的程式開發、創新想法和高手人脈等成果，漸漸地把我們推向開放政府的方向發展。我們的目標是讓更多從事開放政府的人加入。除了實用的開放政應應用程式外，我們也希望探索有關於網際網路能如何改變政府與市民互動模式的方法。我們希望拉進更多人一起來使用科技解決社區問題，
+過去我們在News Challenge上資助過的程式開發、創新想法和高手人脈等成果，漸漸地把我們推向開放政府的方向發展。我們的目標是讓更多從事開放政府的人加入。除了實用的開放政應應用程式外，我們也希望探索有關於網際網路能如何改變政府與市民互動模式的方法。我們希望拉進更多人一起來使用科技解決社區問題，我們想要把開放政府這件事擴展到舊金山、芝加哥、波士頓和紐約這些開放政府的典範之外。我默默的期望，至少有一個獲得贊助的個人或團體不要把自己視為是開放政府運動的一部份。
 
 
 During the application period, we partnered with locally based organizations to conduct events in fourteen cities, including less typical open government cities, like Lexington, Kentucky; Macon, Georgia; San Diego; and St. Paul, Minnesota. Out of the 860 submissions we received, several themes emerged that captured the open government zeitgeist. These included:
+
+在申請期間，我們與當地的組織合作，推動在十四個城市的活動，包括非典型的開放政府，像肯德基州的Lexinton、喬治亞州的Macon、聖地牙哥和明尼蘇達州的聖保羅。在我們收到的860份申請中，有幾個主題抓住了開放政府的時代精神，包括：
 
 * Increasing citizens’ direct participation in policymaking
 * Strengthening policies for data transparency
 * Making sense out of multiple datasets
 * Understanding government spending and campaign contributions
 * Making better use of public spaces and vacant land
+
+* 提高市民直接參與政策制定
+* 強化資料透通的相關政策
+* 讓數幾組資料集(Dataset)變得有意義
+* 了解政府開銷和行銷活動的貢獻
+* 對公眾空間或空地更有效的運用
 
 After our analysis of the contest process and submissions, our assessment was that open government is generating more aspirational ideas than practical tools and approaches that address citizens’ needs and wants. We learned a lot by talking directly with civic leaders, government officials, and hackers, particularly with those outside of the leading open government cities. I spoke with high-ranking government workers who were worried about the security and sustainability of open source projects, elected officials who were curious about citizen demand for data, and journalists who were dubious about governments’ commitment to openness.
 

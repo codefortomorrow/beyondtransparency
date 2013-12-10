@@ -15,7 +15,7 @@ published: true
 ---
 
 ### The Bigger Picture: Ten Lessons for Taking Open Government Further
-### 看得更遠：帶領開放政府往前邁進的十堂課
+### 眼光放遠：帶領開放政府往前邁進的十堂課
 
 My job at the Knight Foundation is to identify people with promising ideas and help them execute them. Our primary tool for that is the Knight News Challenge, through which we’ve supported nearly a hundred projects, with more than $30 million over six years. We’ve supported several open government-related projects and groups like LocalWiki, the Open Knowledge Foundation, Ushahidi, EveryBlock, and Open Street Maps.
 
@@ -47,6 +47,8 @@ After our analysis of the contest process and submissions, our assessment was th
 在分析過競賽過和和參賽的團體後，我們認為比起產出對市民有用的工具，或市民想要的服務，開放政府其實製造了更多有創見的想法。在與公民領袖、政府官員和軟體高手對談的過程中我們學到了很多，特別是在那些對「開放政府」做得很沒那麼好的外圍城市。高級政府職員談到他們很擔心機密問題和開放程式碼的永續性；民選官員談到他們很好奇原來市民有對資料的需求；還有對政府的承諾及開放性感到半信半疑的記者。
 
 Our trustees ended up approving eight projects as winners. Not coincidentally, each of the eight had already demonstrated their idea and was able to talk to us about what was and was not working. Also, for the most part, they have been around the open government block for a while. (My hopes of supporting people entirely new to the field failed.)
+
+最後董事會選定了八個計畫。並非巧合地，每一個獲選的計畫都已經展示過他們的想法，並能和我們討論到哪些部份已經可以運作，哪些部份還不行。同時，他們大部份，都已在開放政府這個區塊上跑了一陣子。（我原本想要援助對於這個領域是初心者的希望落空了。）
 
 Fundamentally, the eight winning projects are practical rather than aspirational. They address identified needs of citizens and governments. Despite our exhortations, few of the ideas that made it to the final rounds re-imagined democracy in the age of the internet. They are about building practical tools that citizen-consumers can use to more easily build businesses, reclaim abandoned land, and sell services to the government. They don’t seek to engage citizens in re-imagining democracy or co-creating their communities. That could reflect the bias of the Knight Foundation and the investors, journalists, and developers who advised us, but the list may also be a reflection of where the open government movement is at this point in its development: in a field driven by aspiration, the value lies in practical businesses and services.
 

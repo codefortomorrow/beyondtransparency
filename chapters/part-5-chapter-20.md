@@ -56,7 +56,12 @@ Fundamentally, the eight winning projects are practical rather than aspirational
 
 For a guide on moving more robustly from the aspirational to the practical, we might look to Kevin Costner. In the late 1980s and early 1990s, Kevin Costner was one of the biggest stars in Hollywood. Near the apex of his career, Costner starred in Field of Dreams, a 1989 fantasy-drama designed to make high school jocks weep. Prompted by the whispers of a disembodied voice, Costner’s character plows under his cornfield, turning it into a baseball diamond for ghosts from the 1919 Chicago White Sox. “If you build it, he will come,” the voice promises him.
 
+關於穩健地從理想朝務實前進的步驟，我們不妨看看凱文科斯納（Kevin Costner）。在1980年代末期及1990年代早起，凱文科斯納是好萊塢最著名的巨星之一。在他事業的高峰，科斯納在夢幻成真(Field of Dreams)演出主角，這部奇幻電影讓許多高中運動員感動落淚。受到幻覺似的聲音的提示，劇中的科斯納把他的玉米田整理成了一座棒球場，好讓1919年芝加哥哥白襪隊的鬼魂們可以上場打球。那個聲音對他保證：「只要你弄好場地，祂就會來。」
+
+
 “If we build it, they will come,” has been open government’s operative mode for the last few years. Like other social movements before it, open government is inspired by dreams of what might be, not on an evidence-based assessment of what people want or need. It’s a movement based on the belief that by pushing out data, our fellow citizens will build things, government will be more efficient, and we will all live happier lives. Inevitably, we’ve been disappointed when those idealistic outcomes don’t pan out and we realize that the vast majority of our neighbors lack the skills, wherewithal, time, or inclination to actively participate. Our aspirations for engagement have outpaced the reality—a status appropriate for such a young social project. As open government emerges into adolescence, though, we need to bridge the gaps between innovators and citizens, who are the ultimate users.
+
+「只要我們弄好場地，他們就會來。」已在過去幾年成為開放政府的運動模式。一如之前的社會運動，開放政府也是啟發於可能成真的夢想，而非經過實證的群眾需求。這是一項基於「靠著推出資料，會有市民開始建立一些東西、政府會變得更有效率、大家都會活得更幸福」的信念的社會運動。無可避免地，當這些事情沒發生時我們受到失望的打擊，我們也了解，身邊的鄰居通常缺乏足夠的技能、資金、時間或意願地參與這些活動。我們對參與的期望已經超過了現實 - 適合這樣年輕的社會計畫的狀況。當開放政府進入「青春期」，我們還需連結創新者和一般市民之間的落差，而一般市民才是最終的使用者。
 
 To make that leap, we need to consider a later Kevin Costner movie: The Postman. Based on David Brin’s 1985 post-apocalyptic fantasy novel, this movie features Costner playing a drifter who dons the uniform and identity of a dead mail carrier. In so doing, he inadvertently becomes the personification of the disbanded US government. Costner’s uniform and the act of distributing mail between previously disconnected towns rekindle a civic spirit among those he visits. (The movie was a dog, but Brin’s novel is pretty great.)
 

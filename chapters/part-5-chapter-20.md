@@ -65,7 +65,12 @@ For a guide on moving more robustly from the aspirational to the practical, we m
 
 To make that leap, we need to consider a later Kevin Costner movie: The Postman. Based on David Brin’s 1985 post-apocalyptic fantasy novel, this movie features Costner playing a drifter who dons the uniform and identity of a dead mail carrier. In so doing, he inadvertently becomes the personification of the disbanded US government. Costner’s uniform and the act of distributing mail between previously disconnected towns rekindle a civic spirit among those he visits. (The movie was a dog, but Brin’s novel is pretty great.)
 
+要想奮力一躍，我們還得看看凱文科斯納後期的另一部電影：終極神差(The Postman)，原著是David Brin於1985年的末日後奇幻小說。這部電影中科斯納飾演一名天災後政府敗亡下的流浪漢，無意見發現了一具郵差的屍體，並拿了這名郵差的衣服和身份以求一頓溫飽；並因此無意間化身為破碎地政府的擬人化角色。他的一身制服和在原本中斷聯繫的城鎮間傳遞信件的行動，讓收到親人消息的人們，重新燃起了對生命的希望。（電影本身拍得蠻差的，但原著小說非常優）
+
 How does open government move from building fields of dreams to delivering like a postman? How do we stop making baseball fields out of Iowa cornfields and start going town-to-town, knocking on doors, and building links, one community at a time? Now that we have the vision of it all down, it’s time to shift into the practicalities of building useful tools. Here are ten things we need to prioritize to move from dreaming to doing:
+
+開放政府要怎麼從整頓夢想場地的農夫，進化到連接城市間的郵差呢？我們要怎麼從單點整備，進入城市連接、敲開大門、同時建立連結和社群呢？目前我們對於這些全都完成的願景已有概念，是時候開始建立有用的工具了。以下10件事情是當我們想從「做夢」到進化為「做事」必須優先考量的：
+
 
 #### Realistic Expectations
 

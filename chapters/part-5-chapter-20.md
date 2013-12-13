@@ -73,16 +73,26 @@ How does open government move from building fields of dreams to delivering like 
 
 
 #### Realistic Expectations
+#### 符合現實的期望
 
 We need to learn how to build projects and businesses that bring value to customers, not just venture capitalist moonshots. Civic technology will not produce companies with a hundred times the return on investment. We need to be okay with that and build the financing and support services that will enable entrepreneurs’ visions to become real and sustainable.
 
+我們得學會創造真的能為客戶帶來價值的企業和專案，而不只是給創投看的登月計畫。公民科技並不會產生超過百倍投資報酬率的公司。我們得接受這個事實，並得建立具有創業家願景、且能實際永續經營的財務及支援服務。
+
+
 #### Delight
+#### 樂趣
 
 No one waits excitedly at the window for the postman to deliver us information about voting, taxes, or municipal budgets. Messages from loved ones, narratives in magazines, and holiday cards are what I look for when the mail arrives. We need apps and tools that are fun to use and don’t feel like homework.
 
+沒有人會滿懷期待地等著郵差送來選舉通知、稅單或著政府預算。以我個人來說，我只期待收到親人的信件、我訂的雜誌和節慶賀卡。我們需要的App和工具必須是有趣，特別是要避免像是家庭作業那種感覺。
+
 #### Drama
+#### 戲劇性
 
 “We have 2,000 bills. Little bill bits,” said California Governor Jerry Brown earlier this year. “You can’t run a world on bill bits. That’s not what moves people. There has to be drama. Protagonist and antagonist. We’re on the stage of history here.” We need to do a better job of taking civic data and presenting it to our neighbors in stories, visualizations, and culture.
+
+
 
 #### Literacy
 

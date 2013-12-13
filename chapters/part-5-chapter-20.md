@@ -95,8 +95,11 @@ No one waits excitedly at the window for the postman to deliver us information a
 
 
 #### Literacy
+#### 讀寫能力
 
 To appreciate the mail, it helps to be able to read. What are the skills and approaches citizens need to contribute to and benefit from open government, and how do we identify and develop them?
+
+
 
 #### Research
 

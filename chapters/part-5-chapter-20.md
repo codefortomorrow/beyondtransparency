@@ -99,17 +99,24 @@ No one waits excitedly at the window for the postman to deliver us information a
 
 To appreciate the mail, it helps to be able to read. What are the skills and approaches citizens need to contribute to and benefit from open government, and how do we identify and develop them?
 
-
+要想感受收信的感動，識字的能力是基本的。那麼，市民要有哪些技能，才能對開放政府做出貢獻或受益呢？我們要怎麼指出這些技術並培養它們呢？
 
 #### Research
+#### 研究
 
 What is the baseline for what does and does not work? How do we know how we’re doing and determine what to do better? What are we measuring? How do we know whether what we’re doing works, and how can we brag to others about it? How can we demonstrate an ROI to governments and potential investors? The fact that we don’t have answers to these questions this late in the game is worrisome.
 
+一件東西有用或沒用的評估底線是什麼？我們要怎麼知道該怎麼進行、或是怎麼做比較好？我們要評估什麼？我們怎麼確保我們做的事有用？甚至要怎麼跟別人吹噓成果？要怎麼向政府和投資人展示投資報酬率(ROI)？如果在這場競賽中，到了中後期我們都答不出這些問題的話，就有點令人擔心了。
+
 #### Models
+#### 參考模型
 
 When people ask us how to do open government, where can we point them? We need solid, well-documented success stories of real results.
 
+當人們問我們怎麼做開放政府時，我們有例子可以介紹嗎？我們需要明確、文件好的成功案例和實際的成果。
+
 #### Talent
+#### 天才
 
 When they need to hire, where do governments go? Programs like the Code for America Fellowship are a great start, but they aren’t enough to form a workforce. We have a great set of leaders, but most of them could fit into one conference. We need to set up places for them to go when they leave government so we don’t lose their experiences and networks to other fields.
 

@@ -116,7 +116,7 @@ When people ask us how to do open government, where can we point them? We need s
 當人們問我們怎麼做開放政府時，我們有例子可以介紹嗎？我們需要明確、文件好的成功案例和實際的成果。
 
 #### Talent
-#### 天才
+#### 天賦
 
 When they need to hire, where do governments go? Programs like the Code for America Fellowship are a great start, but they aren’t enough to form a workforce. We have a great set of leaders, but most of them could fit into one conference. We need to set up places for them to go when they leave government so we don’t lose their experiences and networks to other fields.
 

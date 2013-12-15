@@ -44,15 +44,15 @@ During the application period, we partnered with locally based organizations to 
 
 After our analysis of the contest process and submissions, our assessment was that open government is generating more aspirational ideas than practical tools and approaches that address citizens’ needs and wants. We learned a lot by talking directly with civic leaders, government officials, and hackers, particularly with those outside of the leading open government cities. I spoke with high-ranking government workers who were worried about the security and sustainability of open source projects, elected officials who were curious about citizen demand for data, and journalists who were dubious about governments’ commitment to openness.
 
-在分析過競賽過程和參賽的團體後，我們認為比起產出對市民有用的工具，或市民想要的服務，開放政府其實製造了更多有創見的想法。在與公民領袖、政府官員和軟體高手對談的過程中我們學到了很多，特別是在那些對「開放政府」做得很沒那麼好的外圍城市。高級政府職員談到他們很擔心機密問題和開放程式碼的永續性；民選官員談到他們很好奇原來市民有對資料的需求；還有對政府的承諾及開放性感到半信半疑的記者。
+在分析過競賽過程和參賽的團體後，我們認為，與其說是產出對市民有用的工具，或想要的服務，開放政府其實製造了更多有創見的想法。在與公民領袖、政府官員和軟體高手對談的過程中我們學到了很多，特別是在那些在「開放政府」做得很沒那麼好的外圍城市。高級政府職員談到他們很擔心機密問題和開放程式碼的永續性；民選官員談到他們沒想到原來市民有對資料的需求；還有一些記者說他們對政府的承諾及開放性感到半信半疑等等。
 
 Our trustees ended up approving eight projects as winners. Not coincidentally, each of the eight had already demonstrated their idea and was able to talk to us about what was and was not working. Also, for the most part, they have been around the open government block for a while. (My hopes of supporting people entirely new to the field failed.)
 
-最後董事會選定了八個計畫。並非巧合地，每一個獲選的計畫都已經展示過他們的想法，並能和我們討論到哪些部份已經可以運作，哪些部份還不行。同時，他們大部份，都已在開放政府這個區塊上跑了一陣子。（我原本想要援助對於這個領域是初心者的希望落空了。）
+最後董事會選定了八個計畫。無獨有偶，每一個獲選的計畫都已經展示過他們的想法，並能和我們討論到哪些部份已經可以運作，哪些部份還不行。同時，他們大部份，都已在開放政府這個區塊上跑了一陣子。（我原本想要援助新加入這個領域的初心者的希望落空了。）
 
 Fundamentally, the eight winning projects are practical rather than aspirational. They address identified needs of citizens and governments. Despite our exhortations, few of the ideas that made it to the final rounds re-imagined democracy in the age of the internet. They are about building practical tools that citizen-consumers can use to more easily build businesses, reclaim abandoned land, and sell services to the government. They don’t seek to engage citizens in re-imagining democracy or co-creating their communities. That could reflect the bias of the Knight Foundation and the investors, journalists, and developers who advised us, but the list may also be a reflection of where the open government movement is at this point in its development: in a field driven by aspiration, the value lies in practical businesses and services.
 
-其本上，這八個計畫可說是務實大於理想。他們都點出市民和政府的需求。儘管我們有些囑託，仍有幾個進入決選的計畫在網際網路的世代重塑了民主的形象。他們大概建立了實用的工具，讓市民能夠更簡易地創立企業、回收廢棄土地、以及將服務販賣給政府。他們不追求要市民重塑民主或共建社群。那可能是反映了騎士基金會和投資者、計者和開發者等人對我們的建言的偏差。但也可能是反映了開放政府正處於它的發展階段：在志向所驅之處，其價值乃是存於務實的事業和服務。
+其本上，這八個計畫可說是務實大於理想。他們都點出市民和政府的需求。儘管我們有些囑託，仍有幾個進入決選的計畫在網際網路的世代重塑了民主的形象。他們大多建立了實用的工具，讓市民能夠更簡易地創立企業、回收廢棄土地、以及將服務販賣給政府。他們不追求要市民重塑民主或共建社群。這也許是反映了騎士基金會和投資者、記者和開發者等人對我們的建言的落差。但也反映了開放政府正處於發展的階段：在志向所驅之處，其價值乃是存於務實的事業和服務。
 
 For a guide on moving more robustly from the aspirational to the practical, we might look to Kevin Costner. In the late 1980s and early 1990s, Kevin Costner was one of the biggest stars in Hollywood. Near the apex of his career, Costner starred in Field of Dreams, a 1989 fantasy-drama designed to make high school jocks weep. Prompted by the whispers of a disembodied voice, Costner’s character plows under his cornfield, turning it into a baseball diamond for ghosts from the 1919 Chicago White Sox. “If you build it, he will come,” the voice promises him.
 

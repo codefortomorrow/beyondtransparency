@@ -23,7 +23,7 @@ My job at the Knight Foundation is to identify people with promising ideas and h
 
 The code, insights, and talent networks we’ve supported through the News Challenge moved us to focus a recent iteration on open government. Our goal was to expand the table of people who engage with open government. In addition to practical open government applications, we hoped to uncover ideas about how the internet can change the ways in which citizens and governments interact. We wanted to involve more people in the use of technology to solve community problems, and we sought to expand the geographic footprint beyond what’s become the standard open government metropoles of San Francisco, Chicago, and the Boston-New York- DC Acela nexus. Silently, I hoped that at least one of the winners would not even consider themselves as part of the open government movement.
 
-隨著我們在News Challenge上資助過的程式開發、創新想法和高手人脈等成果，我們漸漸自然地朝向開放政府的方向發展。我們的目標是讓更多從事開放政府的人加入。除了開放政府相關的有用App外，我們也希望探索怎麼讓網際網路改變政府與市民的互動模式。我們希望拉進更多人一起來使用科技解決社區問題，我們想要把開放政府從舊金山、芝加哥、波士頓和紐約這些開放政府的典範向外擴展。我默默的期望，至少有一個獲得贊助的個人或團體不要覺得自己已經是開放政府運動的一部份。
+隨著我們在News Challenge上資助過的程式開發、創新想法和高手人脈等成果，我們漸漸自然地朝向開放政府的方向發展。我們的目標是讓更多從事開放政府的人加入。除了開放政府相關的有用App外，我們也希望探索怎麼讓網際網路改變政府與市民的互動模式。我們希望拉進更多人一起來使用科技解決社區問題，我們想要把開放政府從舊金山、芝加哥、波士頓和紐約這些開放政府的典範向外擴展。我偷偷的希望，至少有一個獲得贊助的個人或團體不要覺得自己已經是開放政府運動的一部份。
 
 
 During the application period, we partnered with locally based organizations to conduct events in fourteen cities, including less typical open government cities, like Lexington, Kentucky; Macon, Georgia; San Diego; and St. Paul, Minnesota. Out of the 860 submissions we received, several themes emerged that captured the open government zeitgeist. These included:

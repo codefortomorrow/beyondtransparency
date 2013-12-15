@@ -127,15 +127,21 @@ When they need to hire, where do governments go? Programs like the Code for Amer
 
 Many people who take government jobs don’t do so to be agents of change or to drive innovation. They often take them because they are good, solid jobs. Where do career government workers and civilians go to develop the skills we need to drive the movement forward from the inside out?
 
-
+很多人進入公職並不是為了成為改革者或創新者，而是因為公職大多是待預不錯的穩定工作。那麼，長期在政府內工作的員工和老百姓要如何發展那些從內到外推動改變所需具備的技能呢？
 
 #### Leadership Transitions
+#### 領導權移轉
 
 We put a lot on the shoulders of individual government leaders to drive change. How do we build the systems so that the innovations built by a chief executive are not dismantled with their administration? What tools would help with transitions from one mayor or governor to another?
 
+推動變革時，我們把很多責任壓在個別的政府領導人身上。我們要如何建立良好的系統，避免這些執行者所推動的創新被主管部門給拆了？有哪些工具能幫助從市長或統治者過渡到其他人的過程？
+
 #### Risk Tolerance
+#### 風險承受
 
 How can we encourage and enable government leaders and workers to take risks that they are generally dissuaded from trying? We need to build a culture inside government that is tolerant of taking smart, well-calculated risks.
+
+
 
 For open government to succeed, it needs to make its principles—transparency, openness, and data-driven decision-making—become synonymous with democracy. In order to fully benefit from the values of sharing and the wisdom of community, we need to move beyond placing our hopes in whispered promises toward doing the practical work of building useful, sustainable tools and a supportive ecosystem.
 

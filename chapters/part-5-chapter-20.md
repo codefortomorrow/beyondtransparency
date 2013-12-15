@@ -141,10 +141,17 @@ We put a lot on the shoulders of individual government leaders to drive change. 
 
 How can we encourage and enable government leaders and workers to take risks that they are generally dissuaded from trying? We need to build a culture inside government that is tolerant of taking smart, well-calculated risks.
 
-
+對於通常都是試著規避風險的政府主管和員工，我們要如何鼓勵他們接受一定的風險？我們得在政府內部建立一種能接受經過精巧計算的風險的文化。
 
 For open government to succeed, it needs to make its principles—transparency, openness, and data-driven decision-making—become synonymous with democracy. In order to fully benefit from the values of sharing and the wisdom of community, we need to move beyond placing our hopes in whispered promises toward doing the practical work of building useful, sustainable tools and a supportive ecosystem.
 
+要想讓開放政府成功，就得讓透明、開放和資料導向的決策過程這些原則和「民主」一樣被重視看待。為了從社群智慧和分享得到最大效益，我們不能只是把希望寄託在小小的承諾上，就以為實務的工作、和建立有用、永續的工具和整個支援的生態會自然生成。
+
 ### About the Author
+### 關於作者
 
 John S. Bracken is the director of media innovation for the Knight Foundation. He oversees the Knight News Challenge, Knight’s prototype fund, its journalism, and its technology investments. Bracken has over ten years of experience as a philanthropic investor in digital media, media policy, innovation, and global internet freedom, having previously worked at the Ford Foundation and the MacArthur Foundation.
+
+John S. Bracken是騎士基金會的媒體創新主任。他負責騎士基金會網站的挑戰賽(News Challenges)、騎士雛形基金、新聞和技術投資。Bracken有超過10年在數位媒體的慈善投資、媒體政策、創新和全班網路自由的經驗。曾任職於福特基金會(Ford Foundation)和麥克阿瑟基金會(MacArthur Foundation)。
+
+

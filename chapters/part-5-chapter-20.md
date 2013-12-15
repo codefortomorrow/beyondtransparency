@@ -38,13 +38,13 @@ During the application period, we partnered with locally based organizations to 
 
 * 提高市民直接參與政策制定
 * 強化資料透通的相關政策
-* 讓數幾組資料集(Dataset)變得有意義
-* 了解政府開銷和行銷活動的貢獻
+* 讓數幾組資料集(Dataset)的資料變得對民眾有意義
+* 了解政府開銷和行銷活動貢獻到哪些地方去
 * 對公眾空間或空地更有效的運用
 
 After our analysis of the contest process and submissions, our assessment was that open government is generating more aspirational ideas than practical tools and approaches that address citizens’ needs and wants. We learned a lot by talking directly with civic leaders, government officials, and hackers, particularly with those outside of the leading open government cities. I spoke with high-ranking government workers who were worried about the security and sustainability of open source projects, elected officials who were curious about citizen demand for data, and journalists who were dubious about governments’ commitment to openness.
 
-在分析過競賽過和和參賽的團體後，我們認為比起產出對市民有用的工具，或市民想要的服務，開放政府其實製造了更多有創見的想法。在與公民領袖、政府官員和軟體高手對談的過程中我們學到了很多，特別是在那些對「開放政府」做得很沒那麼好的外圍城市。高級政府職員談到他們很擔心機密問題和開放程式碼的永續性；民選官員談到他們很好奇原來市民有對資料的需求；還有對政府的承諾及開放性感到半信半疑的記者。
+在分析過競賽過程和參賽的團體後，我們認為比起產出對市民有用的工具，或市民想要的服務，開放政府其實製造了更多有創見的想法。在與公民領袖、政府官員和軟體高手對談的過程中我們學到了很多，特別是在那些對「開放政府」做得很沒那麼好的外圍城市。高級政府職員談到他們很擔心機密問題和開放程式碼的永續性；民選官員談到他們很好奇原來市民有對資料的需求；還有對政府的承諾及開放性感到半信半疑的記者。
 
 Our trustees ended up approving eight projects as winners. Not coincidentally, each of the eight had already demonstrated their idea and was able to talk to us about what was and was not working. Also, for the most part, they have been around the open government block for a while. (My hopes of supporting people entirely new to the field failed.)
 

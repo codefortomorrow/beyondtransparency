@@ -91,6 +91,8 @@ No one waits excitedly at the window for the postman to deliver us information a
 
 “We have 2,000 bills. Little bill bits,” said California Governor Jerry Brown earlier this year. “You can’t run a world on bill bits. That’s not what moves people. There has to be drama. Protagonist and antagonist. We’re on the stage of history here.” We need to do a better job of taking civic data and presenting it to our neighbors in stories, visualizations, and culture.
 
+“We have 2,000 bills. Little bill bits,” said California Governor Jerry Brown earlier this year. “You can’t run a world on bill bits. 
+那種東西不會感動人。必須得要有一些戲劇性、主角和對手。我們就像站在歷史的舞台上。」取用公眾資料時，我們還得用更生動的方式來呈現鄉民，包括注重故事性、視覺化及考慮大家可接受的文化。
 
 
 #### Literacy

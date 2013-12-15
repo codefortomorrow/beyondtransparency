@@ -19,7 +19,7 @@ published: true
 
 My job at the Knight Foundation is to identify people with promising ideas and help them execute them. Our primary tool for that is the Knight News Challenge, through which we’ve supported nearly a hundred projects, with more than $30 million over six years. We’ve supported several open government-related projects and groups like LocalWiki, the Open Knowledge Foundation, Ushahidi, EveryBlock, and Open Street Maps.
 
-我在騎士基金會(Knight Foundation)的工作內容發掘擁有動人點子的人，並幫助他們完成這些想法。我們主要使用我們的網站 - Knight News Challenge - 來當做收集點子的工具，六年來已經支助了上百個計畫，總額超過3千萬美金。我們支助過好幾個開放政府相關的計畫或團體，例如LocalWiki、開放知識基金會(Open Knowledge Foundation)、Ushahidi(快速報導訊息的社群網站)、EveryBlock(以在地街區為單位的社群網站)和Open Street Maps(相當於Google Map的開源計畫)。
+我在騎士基金會(Knight Foundation)的工作專門負責發掘擁令人感動的構想，並幫助發起人完成這些想法。騎士基金會主要使用我們自己的官網 - Knight News Challenge - 來當做收集構想的平台，六年來我們已經資助了上百個計畫，總額超過3千萬美金。我們資助過好幾個開放政府相關的計畫和團體，例如LocalWiki、開放知識基金會(Open Knowledge Foundation)、Ushahidi(一個快速報導新聞的社群網站)、EveryBlock(以在地街區為單位的社群網站)和Open Street Maps(相當於Google Map的開源計畫)。
 
 The code, insights, and talent networks we’ve supported through the News Challenge moved us to focus a recent iteration on open government. Our goal was to expand the table of people who engage with open government. In addition to practical open government applications, we hoped to uncover ideas about how the internet can change the ways in which citizens and governments interact. We wanted to involve more people in the use of technology to solve community problems, and we sought to expand the geographic footprint beyond what’s become the standard open government metropoles of San Francisco, Chicago, and the Boston-New York- DC Acela nexus. Silently, I hoped that at least one of the winners would not even consider themselves as part of the open government movement.
 
@@ -153,5 +153,3 @@ For open government to succeed, it needs to make its principles—transparency, 
 John S. Bracken is the director of media innovation for the Knight Foundation. He oversees the Knight News Challenge, Knight’s prototype fund, its journalism, and its technology investments. Bracken has over ten years of experience as a philanthropic investor in digital media, media policy, innovation, and global internet freedom, having previously worked at the Ford Foundation and the MacArthur Foundation.
 
 John S. Bracken是騎士基金會的媒體創新主任。他負責騎士基金會網站的挑戰賽(News Challenges)、騎士雛形基金、新聞和技術投資。Bracken有超過10年在數位媒體的慈善投資、媒體政策、創新和全班網路自由的經驗。曾任職於福特基金會(Ford Foundation)和麥克阿瑟基金會(MacArthur Foundation)。
-
-

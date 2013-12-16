@@ -92,7 +92,7 @@ No one waits excitedly at the window for the postman to deliver us information a
 “We have 2,000 bills. Little bill bits,” said California Governor Jerry Brown earlier this year. “You can’t run a world on bill bits. That’s not what moves people. There has to be drama. Protagonist and antagonist. We’re on the stage of history here.” We need to do a better job of taking civic data and presenting it to our neighbors in stories, visualizations, and culture.
 
 “We have 2,000 bills. Little bill bits,” said California Governor Jerry Brown earlier this year. “You can’t run a world on bill bits. 
-那種東西不會感動人。必須得要有一些戲劇性、主角和對手。我們就像站在歷史的舞台上。」取用公眾資料時，我們還得用更生動的方式來呈現鄉民，包括注重故事性、視覺化及考慮大家可接受的文化。
+「我們有2,000條法案。這只是一小部份」幾前年加州官員Jerry Brown說道：「You can’t run a world on bill bits，那種東西不會感動人。必須得要有一些戲劇性、主角和對手。我們就像站在歷史的舞台上。」取用公眾資料時，我們還得用更生動的方式來呈現鄉民，包括注重故事性、視覺化及考慮大家可接受的文化。
 
 
 #### Literacy
@@ -114,14 +114,14 @@ What is the baseline for what does and does not work? How do we know how we’re
 
 When people ask us how to do open government, where can we point them? We need solid, well-documented success stories of real results.
 
-當人們問我們怎麼做開放政府時，我們有例子可以介紹嗎？我們需要明確、文件好的成功案例和實際的成果。
+當人們問我們怎麼做開放政府時，我們有例子可以介紹嗎？我們需要明確、文件化的成功案例和實際的成果。
 
 #### Talent
 #### 人才
 
 When they need to hire, where do governments go? Programs like the Code for America Fellowship are a great start, but they aren’t enough to form a workforce. We have a great set of leaders, but most of them could fit into one conference. We need to set up places for them to go when they leave government so we don’t lose their experiences and networks to other fields.
 
-當政府需要招募人才時要去哪？類似Code for America獎學金是個好的開始，但還不足以型成足夠的勞動力。我們有一群很好的領袖，但他們大部份都聚在同一場工作會議上。我們得開發更多空間給他們，如此一來當他們走出政府時，他們都還能繼續發揮他們的寶貴經驗和其他領域的人脈。
+當政府需要相關人才時要去哪招募？類似Code for America獎學金是個好的開始，但還不足以型成足夠的勞動力。此外我們有一群很好的領袖，但大概一場研討會的空間就塞得下他們全部了。我們得為他們發展更大、更多的空間，如此一來當他們離開政府往外發展時，他們都還能繼續發揮他們的寶貴經驗和其他領域的人脈。
 
 #### Professional Development
 #### 專業培養
@@ -142,7 +142,7 @@ We put a lot on the shoulders of individual government leaders to drive change. 
 
 How can we encourage and enable government leaders and workers to take risks that they are generally dissuaded from trying? We need to build a culture inside government that is tolerant of taking smart, well-calculated risks.
 
-對於通常都是試著規避風險的政府主管和員工，我們要如何鼓勵他們接受一定的風險？我們得在政府內部建立一種能接受經過精巧計算的風險的文化。
+對於通常都試著規避風險的政府主管和員工，我們要如何鼓勵他們接受一定的風險？我們得在政府內部建立一種能接受經過精巧計算的風險的文化。
 
 For open government to succeed, it needs to make its principles—transparency, openness, and data-driven decision-making—become synonymous with democracy. In order to fully benefit from the values of sharing and the wisdom of community, we need to move beyond placing our hopes in whispered promises toward doing the practical work of building useful, sustainable tools and a supportive ecosystem.
 

@@ -133,7 +133,7 @@ Many people who take government jobs don’t do so to be agents of change or to 
 
 We put a lot on the shoulders of individual government leaders to drive change. How do we build the systems so that the innovations built by a chief executive are not dismantled with their administration? What tools would help with transitions from one mayor or governor to another?
 
-推動變革時，我們把很多責任壓在政府內個別的主導者身上。我們要如何建立良好的系統，避免這些執行者所推動的創新被主管部門給拆了？有哪些工具能幫助從市長或統治者過渡到其他人的過程？
+推動變革時，我們把很多責任壓在政府內個別的主導者身上。我們要如何建立良好的系統，避免這些做事的人所推動的創新被主管部門給拆了？有哪些工具能幫助從市長或統治者過渡到其他人的過程？
 
 #### Risk Tolerance
 #### 風險承受

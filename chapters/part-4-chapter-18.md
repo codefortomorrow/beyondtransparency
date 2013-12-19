@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: "Benchmarking Performance Data"
+title: "Benchmarking Performance Data" "評測績效資料"
 chapter: 18
 part: 4
 author: 

@@ -22,16 +22,23 @@ author:
 permalink: /part-4/benchmarking-performace-data/
 ---
 >Come senators, congressmen, please heed the call
+>來，參議員、眾議員，請聽從召喚
 
 >Don’t stand in the doorway, don’t block up the hall...
+>不要站在門口，不要堵著大廳
 
 >It’ll soon shake your windows and rattle your walls
+>你馬上就會感到窗戶震動、牆壁搖晃
 
 >For the times they are a-changin’.
+>因為改變正在發生
 
 >—Bob Dylan, 1964
+>-Bob Dylan, 1964
 
 Fifty years later, and the times they are still a-changin’. Back in the 1960s, the battle being fought was about freedom, individuality, and expression. Today’s battle is about openness, transparency, and engagement. Citizens are demanding more from their public servants than ever before—and at all levels of government. Not only do we expect our governments to provide ever-increasing levels of service to us at ever-decreasing costs, but we also want to be part of that process. The cry to rid government of waste, fraud, and abuse has been encouraged by sound-bite politics. We need to understand how our government agencies are performing, where they could be doing better, and how they can improve. We want to help influence that conversation and know that action-oriented decisions are being executed. We expect to see measurable results and want to feel the effects of those improvements in our everyday lives. We’re like the shareholders of a public corporation that want to hold our executive leadership accountable for achieving our corporate goals.
+
+50年過去了，改變仍在發生。回顧1960年代，
 
 We are experiencing a radical transformation in the volume of public data available today and the velocity and means at which it is delivered to citizens. For example, the International Open Government Dataset Search web page (Tetherless World Constellation International, 2013) lists 1,028,054 datasets in forty-three countries, containing 192 catalogs and 2,460 categories of datasets. How are local government leaders responding to this phenomenon as it relates to measuring and improving operational performance? What benefits do they hope to achieve from this transparency? What does the future of local government leadership look like in terms of managing better and driving improved performance? And, how does collaboration of performance results and sharing of best practices across cities support that future vision?
 

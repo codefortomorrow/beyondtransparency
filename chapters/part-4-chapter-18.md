@@ -46,6 +46,8 @@ We are experiencing a radical transformation in the volume of public data availa
 
 This essay explores how transparency and collaboration in the municipal performance management process leads to increased engagement, better-run government, and improved outcomes for citizens. First, we’ll provide some background on what performance management in the public sector is and why we do it. Second, we’ll discuss accountability and transparency to the public and share insights from real cities doing this today. Finally, we’ll talk about how open data can be leveraged across and among cities to provide context and insight that inform the performance improvement agenda. We’ll learn how, despite our preconceived notions, cities large and small are openly collaborating to help each other improve.
 
+這篇文章探索市政績效管理如何經由透明和協同過程，提高了顧用、政府營運績效，並改善為市民的服務成果。首先，我們會將公領域有哪些績效管理以及為什麼需要這些管理的背景做個說明。其次，我們會以目前實際的例子討論有些城市當責地對市民透明的分享洞察分析。最後，我們會談到開放資料如何能在各城市間被借勢來提供績效改善議題的內容和洞察報告。從中我們會了解，儘管有些先入為主的觀念，但大城市和小城市是開放地合作，並互相協助改善。
+
 Let’s start by getting a baseline understanding of what performance management is and why we do it.
 
 ### What Is Performance Management?

@@ -50,6 +50,8 @@ This essay explores how transparency and collaboration in the municipal performa
 
 Let’s start by getting a baseline understanding of what performance management is and why we do it.
 
+讓我們從基績管理是什麼，與為什麼要做這件事來當做入門的開始吧。
+
 ### What Is Performance Management?
 
 Performance management, specifically as it relates to the public sector, is a management system to improve the delivery of services using quantified measurements that are collected and reported to focus attention and action on areas of organizational performance in need of improvement.

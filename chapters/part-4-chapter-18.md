@@ -58,6 +58,8 @@ Let’s start by getting a baseline understanding of what performance management
 
 Performance management, specifically as it relates to the public sector, is a management system to improve the delivery of services using quantified measurements that are collected and reported to focus attention and action on areas of organizational performance in need of improvement.
 
+績效管理，特別是在公領域上，是改善管理系統
+
 Performance management is, first of all, a management system. While this statement may appear obvious, another commonly used term, “performance measurement,” obscures the focus of performance management. Performance management is action-oriented, although quantitative measurement to monitor the effectiveness of the delivery of public services remains a core component. It is the periodic and routine management review of these ongoing measures that leads to new initiatives, reallocation of resources, modification of service processes and policies, and anything else that improves the service delivery of our government.
 
 A key first step to a successful performance management process is to make sure we are measuring the right things—the issues that matter to citizens. We call these “outcomes.” Outcomes typically come in two forms—outcomes of effectiveness (doing things better) and outcomes of efficiency (being more cost-effective at doing so). One advantage of measuring outcomes is that, unlike department operations or business processes that may change over time, the outcomes that citizens desire do not. This allows us to define a long-term vision for improvement and develop a roadmap that gets us there.

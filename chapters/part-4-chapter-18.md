@@ -78,6 +78,8 @@ Measuring outcomes of effectiveness and efficiency is much more meaningful than 
 
 Once we decide what we’ll need to measure, we need to begin capturing, reviewing, and analyzing the data. Naturally, we’ll need the right technology to do so. We need a tool that can interoperate with the myriad of other systems within our operations. Furthermore, we need the ability to visualize the data in ways that tell a clear story. This tool needs to help us see patterns and relationships, correlate data across departments and agencies, and be intelligent enough to present us with the most important and relevant information, so that even our ongoing performance management process is as efficient as it can be. It should alert us when performance is moving in a negative direction so we can respond accordingly, and it should highlight positive trends so that we know that our actions are keeping us on the right course.
 
+一旦決定了評量的標的，就得開始擷取、檢視和分機資料。理所當然地，我們也需要洽當的工具來進行這些工作。我們需要的是一種能和其他無數種系統互相運作的工具。進一步來說，我們需要能把資料清楚透過視覺化呈現其內所隱含的故事的能力。這件工具還得幫助我們看清公部門間的行為模式、資料關聯和資料相依性，還必須很聰明的將最重要、最相關的資訊呈現給我們，如此一來績效管理的流程才能儘可能的提高效率。當績效有變糟的傾向時，它必須發出警告，以便我們能做出適當的反應，同時也應該在發現正向的趨勢時提示我們，我們才知道我們的行動是正確的。
+
 ### Why Bother?
 
 Having an effective, ongoing performance management process in place is the key to running a successful government. Through these processes, management gains increased visibility into operational performance and results. Operational improvements can be realized through optimized resource allocations. It can even spur policy review and modifications.

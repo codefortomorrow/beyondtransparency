@@ -74,11 +74,11 @@ There is a growing emphasis on asking citizens what is important to them, and in
 
 Measuring outcomes of effectiveness and efficiency is much more meaningful than simply measuring activity. Counting how many potholes we filled last month doesn’t tell us very much. It tells us how busy we are, but not whether we are particularly good at pothole repair. How long that three-foot pothole has been sitting in the middle of her street is something that might matter to Jane Q. Citizen. Two days? Two weeks? Two months? Longer? A measure of effectiveness that matters to her might be the average amount of time that elapses between the reporting of a pothole by a citizen and its repair. We’ll also want to know the average cost to repair a pothole so that we can determine whether or not we have an efficient pothole repair operation.
 
-評量效率和效果的成績，比評量活動有意義得多。統計每個月我們修好了幾個坑洞並不代表什麼，頂多是讓我們知道自己有多忙，而非我們對於補坑洞這件事有什麼特別厲害的地方。對市民Jane Q.來說，那個三呎長的洞在她巷口已經多久沒人來修了，反而比較重要。兩天？兩週？兩個月？或更久？對她來講，有沒有效果的評量可能是從市民通報路上有一個洞，直到那個洞被補好的平均所需時間。我們也想要知道修好一個路上的洞所需的平均成本，這樣我們才能知道這個路洞修補的作業是否有效率。
+評量效率和效果的成績，比評量活動有意義得多。統計每個月我們補了馬路上幾個洞並不代表什麼，頂多是讓我們知道自己有多忙，而非我們對於補坑洞這件事有什麼特別厲害的地方。對市民Jane Q.來說，那個在她巷口一米見方的大洞已經多久沒人來修了才是她在乎的。兩天？兩週？兩個月？或更久？對她來講，評估績效可能得基於是從市民通報路上有一個洞，直到那個洞被補好的平均所需時間。此外，市民也想要知道修好一個路上的洞所需的平均成本，這樣我們才能知道這個路洞修補的作業是否有效率。
 
 Once we decide what we’ll need to measure, we need to begin capturing, reviewing, and analyzing the data. Naturally, we’ll need the right technology to do so. We need a tool that can interoperate with the myriad of other systems within our operations. Furthermore, we need the ability to visualize the data in ways that tell a clear story. This tool needs to help us see patterns and relationships, correlate data across departments and agencies, and be intelligent enough to present us with the most important and relevant information, so that even our ongoing performance management process is as efficient as it can be. It should alert us when performance is moving in a negative direction so we can respond accordingly, and it should highlight positive trends so that we know that our actions are keeping us on the right course.
 
-一旦決定了評量的標的，就得開始擷取、檢視和分機資料。理所當然地，我們也需要洽當的工具來進行這些工作。我們需要的是一種能和其他無數種系統互相運作的工具。進一步來說，我們需要能把資料清楚透過視覺化呈現其內所隱含的故事的能力。這件工具還得幫助我們看清公部門間的行為模式、資料關聯和資料相依性，還必須很聰明的將最重要、最相關的資訊呈現給我們，如此一來績效管理的流程才能儘可能的提高效率。當績效有變糟的傾向時，它必須發出警告，以便我們能做出適當的反應，同時也應該在發現正向的趨勢時提示我們，我們才知道我們的行動是正確的。
+一旦決定了評量的標的，就得開始擷取、檢視和分機資料。理所當然地，我們也需要洽當的工具來進行這些工作。我們需要的是一種能和其他無數種系統互相運作的工具。進一步來說，我們須得把資料清楚透過視覺化來呈現其內所隱含的故事。這件工具還得幫助我們看清公部門間的行為模式、資料關聯和資料相依性，還必須很聰明的將最重要、最相關的資訊呈現給我們，如此一來績效管理的流程才能儘可能的提高效率。當績效有變糟的傾向時，它必須發出警告，以便我們能做出適當的反應，同時也應該在發現正向的趨勢時提示我們，我們才知道我們的行動是正確的。
 
 ### Why Bother?
 

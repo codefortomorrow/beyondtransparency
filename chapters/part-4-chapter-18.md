@@ -81,12 +81,16 @@ Once we decide what we’ll need to measure, we need to begin capturing, reviewi
 一旦決定了評量的標的，就得開始擷取、檢視和分機資料。理所當然地，我們也需要洽當的工具來進行這些工作。我們需要的是一種能和其他無數種系統互相運作的工具。進一步來說，我們須得把資料清楚透過視覺化來呈現其內所隱含的故事。這件工具還得幫助我們看清公部門間的行為模式、資料關聯和資料相依性，還必須很聰明的將最重要、最相關的資訊呈現給我們，如此一來績效管理的流程才能儘可能的提高效率。當績效有變糟的傾向時，它必須發出警告，以便我們能做出適當的反應，同時也應該在發現正向的趨勢時提示我們，我們才知道我們的行動是正確的。
 
 ### Why Bother?
+### 何苦呢？
 
 Having an effective, ongoing performance management process in place is the key to running a successful government. Through these processes, management gains increased visibility into operational performance and results. Operational improvements can be realized through optimized resource allocations. It can even spur policy review and modifications.
+到位、有效、持續的績效管理流程是成功政府運作的關鍵。透過這些流程，能夠對運作績效和結果得到更大的能見度。並能透過資源分配最佳化而實現運作的改善。甚至還能帶動政策檢討和調整。
 
 Even more important is the fact that introducing these approaches as part of the way of doing business inside local government can establish a high-performance culture within the organization. This creates greater internal alignment by better communicating organizational priorities to the team.
+更重要的是，隨著正確的績效管理手法被帶入地方政府的事務流程，還能在組織內建立起一種高績效導向的工作文化。這能進一步讓團隊間對於「優先權」的溝通更一致，進而校準團隊內部。
 
 By introducing open data into performance management processes, we can make great leaps forward in increasing accountability and data-driven communication with stakeholders. That means knowing the stakeholders of local government and monitoring how a good performance management process can properly engage them through the data.
+將開放資料導入績交管理，可以對利害關係人在「當責」和「以資料為基礎的溝通」上建立極大幅度的躍進。意即：深入了解地方政府的利益關係人(市民)，以及監督良好的績效管理流程並透過真確的資料來與市民溝通。
 
 #### Accountability and Communication
 

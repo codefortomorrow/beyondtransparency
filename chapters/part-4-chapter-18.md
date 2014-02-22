@@ -90,7 +90,7 @@ Even more important is the fact that introducing these approaches as part of the
 更重要的是，隨著正確的績效管理手法被帶入地方政府的事務流程，還能在組織內建立起一種高績效導向的工作文化。這能進一步讓團隊間對於「優先權」的溝通更一致，進而校準團隊內部。
 
 By introducing open data into performance management processes, we can make great leaps forward in increasing accountability and data-driven communication with stakeholders. That means knowing the stakeholders of local government and monitoring how a good performance management process can properly engage them through the data.
-將開放資料導入績交管理，可以對利害關係人在「當責」和「以資料為基礎的溝通」上建立極大幅度的躍進。意即：深入了解地方政府的利益關係人(市民)，以及監督良好的績效管理流程並透過真確的資料來與市民溝通。
+將開放資料導入績效管理，可以對利益關係人(市民)在「當責」和「以資料為基礎的溝通」上建立極大幅度的躍進。意即：深入了解地方政府的利益關係人(市民)，以及監督良好的績效管理流程並透過真確的資料來與他們溝通。
 
 #### Accountability and Communication
 

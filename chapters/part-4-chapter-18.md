@@ -114,12 +114,19 @@ The four major stakeholders of local government are:
 * 民眾，包括個人或是利害關係團體。
 
 The benefit of a good performance management system is that objective data about the accomplishments of government can be seen by anyone, even if it is packaged in different ways and in different levels of detail. This integrated accountability promotes rational decision-making because of the commonality of the facts. Staff, management, and the public see these facts through their individual lenses:
+良好績效管理系統的好處是，政績的客觀數據可以被任何人輕易看見，即使是用不同的型態包裝或以不同的細節呈現。因為客觀資料所帶來的共通性，使得這種整合的當責促進了理性的決策。雇員、管理階層和大眾都能從他們的角度看見具體、真實的數據：
 
 * Staff: are we getting the job done?
+* 雇員：我們的工作都完成了嗎？
+
 * Management: is the job getting done efficiently and effectively?
+* 管理階層：工作的進行是正確又有效率的嗎？
+
 * Public: are we getting the results we pay for?
+* 大眾：我們納得稅有得到人民想要的結果嗎？
 
 To that last point, we are seeing two interesting trends emerge that support open data with respect to operational performance.
+對於最後一點，我們可發現兩項有趣的趨勢，支持開放資料有助於營運績效的說法。
 
 #### Public Participation
 

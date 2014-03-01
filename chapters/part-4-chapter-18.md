@@ -93,15 +93,25 @@ By introducing open data into performance management processes, we can make grea
 將開放資料導入績效管理，可以對利益關係人(市民)在「當責」和「以資料為基礎的溝通」上建立極大幅度的躍進。意即：深入了解地方政府的利益關係人(市民)，以及監督良好的績效管理流程並透過真確的資料來與他們溝通。
 
 #### Accountability and Communication
+#### 當責與溝通
 
 Government accountability is about setting expectations and reporting to stakeholders what has been accomplished relative to those expectations. It is more about the communication of actions and results, rather than the actions and results themselves. Accountability rests on an assumption of responsibility by elected and appointed officials in government to protect and serve citizens and act as stewards of the public’s resources.
+所謂政府當責是指對利害關係人設定預期成果並對這些預期的進度進行報告。當責的意思除了行動、結果本身外，更重要的是對這些行動或結果所應進行的溝通。「當責」必須建立在這樣的假設前題下：推選或指派的政府官員之責任，是在於保護及服務市民，並將自己視為是公共資源的看管者。
 
 The four major stakeholders of local government are:
+地方政府的利害關係人主要可分為四種大類：
 
 * Department heads, who oversee the operations within each service area.
+* 部門主管類，負責監督各服務區的運作。
+
 * Municipal management, who coordinate the different service areas and are responsible for the implementation of policies.
+* 市政管理類，負責協調不同的服務區及政策實施。
+
 * Elected officials, who set policy, may have a management role, and are one step from the public.
+* 民選官員類，負責設定政策，可能兼任管理職，並且與民眾十分接近。
+
 * The public, either through individuals or stakeholder groups.
+* 民眾，包括個人或是利害關係團體。
 
 The benefit of a good performance management system is that objective data about the accomplishments of government can be seen by anyone, even if it is packaged in different ways and in different levels of detail. This integrated accountability promotes rational decision-making because of the commonality of the facts. Staff, management, and the public see these facts through their individual lenses:
 

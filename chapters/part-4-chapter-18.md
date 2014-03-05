@@ -132,7 +132,7 @@ To that last point, we are seeing two interesting trends emerge that support ope
 #### 大眾參與
 
 First, citizens, in part thanks to technological developments, are taking a more active role in wanting to understand and contribute to the performance of their cities and towns. Products like SeeClickFix, which capture input directly from citizens through their mobile devices, are informing city agencies of service needs in real time and with greater volume than ever before. They allow citizens to report everything, from graffiti to potholes to streetlights in need of repair. However, these new capabilities are also setting expectations in the minds of citizens that these incidents will be addressed on a timely basis. They expect results and feedback. City managers need to track overall performance and response times and report how well they’re doing back to the public, both individually and in the aggregate.
-首先，有一部份歸功於科技發展的是，市民逐漸扮演對於城鎮運作績效想主動了解或貢獻己力的角色。 SeeClickFix這類的產品 (註：一個讓民眾
+首先，有一部份歸功於科技發展的是，市民逐漸扮演對於城鎮運作績效想主動了解或貢獻己力的角色。 SeeClickFix這類的產品  (註：一個讓民眾通報居家附近有什麼問題、並追蹤修復情況的社群網站，也有手機App 版)，以前所未有的資訊量直接從市民的手機取得訊息，並且通報市政機關。它們讓市民能舉報每件大小事，從街頭途鴨、需俢補的道路坑洞、到壞掉的路燈。然而，這些新能力同時也讓市民有了對於這些舉報要在某個時間內得到重視的預期心態。市民們期待結果和回饋。城市管理者必須追蹤整體的績效和回應時間，並對大眾報告執行的效果，包括個別案件和全面的成效。
 
 The use of citizens or non-government organizations to help deliver public services is known as “co-production.” Co-production can be provided by individuals or by organized volunteer groups. Originally, it was represented by low technology involvement, such as the Neighborhood Watch, an organized group of volunteers trained to reduce crime and vandalism in their neighborhoods. Technology is increasing the potential for citizens to produce services in conjunction with their local governments.
 

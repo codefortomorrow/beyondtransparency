@@ -129,8 +129,10 @@ To that last point, we are seeing two interesting trends emerge that support ope
 對於最後一點，我們可發現兩項有趣的趨勢，支持開放資料有助於營運績效的說法。
 
 #### Public Participation
+#### 大眾參與
 
 First, citizens, in part thanks to technological developments, are taking a more active role in wanting to understand and contribute to the performance of their cities and towns. Products like SeeClickFix, which capture input directly from citizens through their mobile devices, are informing city agencies of service needs in real time and with greater volume than ever before. They allow citizens to report everything, from graffiti to potholes to streetlights in need of repair. However, these new capabilities are also setting expectations in the minds of citizens that these incidents will be addressed on a timely basis. They expect results and feedback. City managers need to track overall performance and response times and report how well they’re doing back to the public, both individually and in the aggregate.
+首先，有一部份歸功於科技發展的是，市民逐漸扮演對於城鎮運作績效想主動了解或貢獻己力的角色。 SeeClickFix這類的產品 (註：一個讓民眾
 
 The use of citizens or non-government organizations to help deliver public services is known as “co-production.” Co-production can be provided by individuals or by organized volunteer groups. Originally, it was represented by low technology involvement, such as the Neighborhood Watch, an organized group of volunteers trained to reduce crime and vandalism in their neighborhoods. Technology is increasing the potential for citizens to produce services in conjunction with their local governments.
 

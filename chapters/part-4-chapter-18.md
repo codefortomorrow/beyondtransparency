@@ -136,6 +136,8 @@ First, citizens, in part thanks to technological developments, are taking a more
 
 The use of citizens or non-government organizations to help deliver public services is known as “co-production.” Co-production can be provided by individuals or by organized volunteer groups. Originally, it was represented by low technology involvement, such as the Neighborhood Watch, an organized group of volunteers trained to reduce crime and vandalism in their neighborhoods. Technology is increasing the potential for citizens to produce services in conjunction with their local governments.
 
+透過公民或非政府組織來協助產生公共服務的作法稱做「共創」。共創可以透過個人也可以透過有組織的志工團體。起初，這是從低技術含量的行為開始，例問
+
 #### High Performance Cultures
 
 At the same time as it is becoming easier for citizens to identify problems for their governments, forward-thinking government officials, some of whom have been influenced by private sector experience, are realizing the benefits of holding themselves and their organizations accountable to the public. A mayor or city manager instills a high performance culture within his organization when he establishes an ongoing process of tracking operational metrics across departments and agencies—and publishes those metrics to the public in conjunction with the objectives and strategies they are intended to measure. By giving each of his department heads direct responsibility for establishing those objectives, strategies, and metrics, he is driving accountability and strengthening the relationship between citizens and their government leaders.

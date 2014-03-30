@@ -136,7 +136,7 @@ First, citizens, in part thanks to technological developments, are taking a more
 
 The use of citizens or non-government organizations to help deliver public services is known as “co-production.” Co-production can be provided by individuals or by organized volunteer groups. Originally, it was represented by low technology involvement, such as the Neighborhood Watch, an organized group of volunteers trained to reduce crime and vandalism in their neighborhoods. Technology is increasing the potential for citizens to produce services in conjunction with their local governments.
 
-透過公民或非政府組織來協助產生公共服務的作法稱做「共創」。共創可以透過個人也可以透過有組織的志工團體。起初，這是從低技術含量的行為開始，例問
+透過公民或非政府組織來協助產生公共服務的作法稱做「共創」。共創可以透過個人也可以透過有組織的志工團體。起初，這是從低技術含量的行為開始，例如守望相助：一群志工透過組織和訓練，在鄰里之間協助預防犯罪。科技的引入拉高了公民能和政府結合產生新服務的潛力。
 
 #### High Performance Cultures
 

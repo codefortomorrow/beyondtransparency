@@ -143,6 +143,8 @@ The use of citizens or non-government organizations to help deliver public servi
 
 At the same time as it is becoming easier for citizens to identify problems for their governments, forward-thinking government officials, some of whom have been influenced by private sector experience, are realizing the benefits of holding themselves and their organizations accountable to the public. A mayor or city manager instills a high performance culture within his organization when he establishes an ongoing process of tracking operational metrics across departments and agencies—and publishes those metrics to the public in conjunction with the objectives and strategies they are intended to measure. By giving each of his department heads direct responsibility for establishing those objectives, strategies, and metrics, he is driving accountability and strengthening the relationship between citizens and their government leaders.
 
+
+
 ### How Cities Are Communicating Performance Results With Their Public
 
 To date, only a small percentage of cities have gone so far as to publish their performance strategies and results publicly on their websites. These pioneers realize the value of continuously monitoring performance, striving to improve results, and sharing those results with their citizen stakeholders. Although the processes used to collect, review, and publish performance data and the content and format of the information that is presented vary widely across cities, they all have certain common characteristics:

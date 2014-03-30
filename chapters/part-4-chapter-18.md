@@ -143,7 +143,7 @@ The use of citizens or non-government organizations to help deliver public servi
 
 At the same time as it is becoming easier for citizens to identify problems for their governments, forward-thinking government officials, some of whom have been influenced by private sector experience, are realizing the benefits of holding themselves and their organizations accountable to the public. A mayor or city manager instills a high performance culture within his organization when he establishes an ongoing process of tracking operational metrics across departments and agencies—and publishes those metrics to the public in conjunction with the objectives and strategies they are intended to measure. By giving each of his department heads direct responsibility for establishing those objectives, strategies, and metrics, he is driving accountability and strengthening the relationship between citizens and their government leaders.
 
-在公民能夠更容易辨識出政府問題的同時，思維較前瞻的政府官員(特別是其中一些具有在私人機構服務經驗的)也愈來愈了解將他們自己和組織拿出來對公民交待的好處。當市長(或著說是城市的經理人)經由建立一套持續性的運作指標追蹤系統，來建立政府部門間高績效文化時，這些績效指標也是配合著市政的目標或策略方向來制定的。當市長直接將建立目標、策略和衡量指標的責任直接交派給各部會主管時，他正是在要求當責文化以及強化市民與政府主管間的關係。
+在公民能夠更容易辨識出政府問題的同時，思維較前瞻的政府官員(特別是其中一些具有在私人機構服務經驗的)也愈來愈了解將他們自己和組織拿出來對公民交待的好處。當市長(或著說是城市的經理人)經由建立一套持續性的運作指標追蹤系統，來建立政府跨部門高績效文化時，這些績效指標也等於得配合著市政的目標或策略方向來制定。當市長將建立目標、策略和衡量指標的責任直接交派給各部會主管時，他正是在要求當責文化以及強化市民與政府主管間的關係。
 
 ### How Cities Are Communicating Performance Results With Their Public
 

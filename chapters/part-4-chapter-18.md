@@ -139,6 +139,7 @@ The use of citizens or non-government organizations to help deliver public servi
 透過公民或非政府組織來協助產生公共服務的作法稱做「共創」。共創可以透過個人也可以透過有組織的志工團體。起初，這是從低技術含量的行為開始，例如守望相助：一群志工透過組織和訓練，在鄰里之間協助預防犯罪。科技的引入拉高了公民能和政府結合產生新服務的潛力。
 
 #### High Performance Cultures
+#### 高績效文化
 
 At the same time as it is becoming easier for citizens to identify problems for their governments, forward-thinking government officials, some of whom have been influenced by private sector experience, are realizing the benefits of holding themselves and their organizations accountable to the public. A mayor or city manager instills a high performance culture within his organization when he establishes an ongoing process of tracking operational metrics across departments and agencies—and publishes those metrics to the public in conjunction with the objectives and strategies they are intended to measure. By giving each of his department heads direct responsibility for establishing those objectives, strategies, and metrics, he is driving accountability and strengthening the relationship between citizens and their government leaders.
 

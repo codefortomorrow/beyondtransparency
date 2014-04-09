@@ -146,13 +146,17 @@ At the same time as it is becoming easier for citizens to identify problems for 
 在公民能夠更容易辨識出政府問題的同時，思維較前瞻的政府官員(特別是其中一些具有在私人機構服務經驗的)也愈來愈了解將他們自己和組織拿出來對公民交待的好處。當市長(或著說是城市的經理人)經由建立一套持續性的運作指標追蹤系統，來建立政府跨部門高績效文化時，這些績效指標也等於得配合著市政的目標或策略方向來制定。當市長將建立目標、策略和衡量指標的責任直接交派給各部會主管，這也正是在要求當責文化以及強化市民與政府主管間的關係的表現。
 
 ### How Cities Are Communicating Performance Results With Their Public
+### 城市如何和群眾溝通績效成果
 
 To date, only a small percentage of cities have gone so far as to publish their performance strategies and results publicly on their websites. These pioneers realize the value of continuously monitoring performance, striving to improve results, and sharing those results with their citizen stakeholders. Although the processes used to collect, review, and publish performance data and the content and format of the information that is presented vary widely across cities, they all have certain common characteristics:
+
+目前，只有很小部份的城市能做到公開地在網站上發佈它們的績效策略和成果。這些先趨城市理解持續監督績效、力圖改善成果和把這些成果和市民或利害關係人分享的價值。雖然這些城市在收集、審核和發佈績效資料的過程、內容、和格式有各程呈現型態，但他們都有一些特定的共通特徵：
 
 * These initiatives are driven from the very top of the organization, often by the mayor or city manager.
 * Performance data is collected, reviewed, and published on a routine basis.
 * Department managers are integral to the process.
 * There is a specific part of the organization dedicated to the performance management program. In smaller cities, this might be all or part of the responsibilities of a single individual. In larger cities, there is often a department or office of performance management that involves a larger team.
+
 
 In reviewing websites of many of the cities that engage in performance reporting, we found a great deal of diversity in the manner in which these municipalities went about their reporting:
 

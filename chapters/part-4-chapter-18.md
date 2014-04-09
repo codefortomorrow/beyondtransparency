@@ -162,6 +162,7 @@ To date, only a small percentage of cities have gone so far as to publish their 
 * 致力於績效管理計畫的組織有一個特點，在較小的城市中，這可能是由某一個人來負責。在較大的城市中，通常會有一個較大的團隊組成一個績效管理部門。
 
 In reviewing websites of many of the cities that engage in performance reporting, we found a great deal of diversity in the manner in which these municipalities went about their reporting:
+群覽許多進行績效報告的城市網站後，我們從這些城市的報告中發現有非常可觀的多樣性：
 
 * The population sizes range from towns that may have less than 50,000 residents to the largest of cities throughout the nation, including New York City.
 * The frequency of the data reporting varies, including monthly, bi-monthly, quarterly, semi-annually, and annually.
@@ -169,8 +170,15 @@ In reviewing websites of many of the cities that engage in performance reporting
 * The most commonly used source of data is operational measures, which are collected by the departments, but some of the cities use citizen satisfaction surveys and outcomes based on inspections or other ways of determining results of the operations.
 * Several of the cities have found ways to have the public determine what measures are important to them, including focus groups, citizen surveys, and individual suggestions.
 * There are no apparent correlations between these diverse factors, such as a tendency for the larger municipalities to report more (or less) frequently.
+* 人口數從低於50,000居民的小鎮到國家級的大城市，包括紐約市。
+* 資料更新的頻率不一。包括每月更新、雙月更新、每季更新、半年更新和年度更新。
+* 有些績效報告具目標針對性，並討論部門的目標和目的，有些則沒有。
+* 最常用的資料來源是營運性資料，並由負責部門自行收集。但有些城市使用市民滿意調查，且產出是基於調查研究或其他評估績效的方法。
+* 有好幾個城市有一些方法讓大眾決定哪些數字對他們是重要的。例如焦點團體、市民訪查、或個人建議。
+* 這些差異間並沒有顯著的相關性，例如城市的大小不一定會和報告更新的頻率有關。
 
 We spoke to officials who manage performance programs from four cities that are widely known for their performance initiatives. The following are highlights of their programs:
+我們訪問了四個在績效管理上著名城市的績效管理主管。以下是他們的計畫重點：
 
 #### San Francisco, California
 

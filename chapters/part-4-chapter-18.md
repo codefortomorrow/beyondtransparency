@@ -156,7 +156,10 @@ To date, only a small percentage of cities have gone so far as to publish their 
 * Performance data is collected, reviewed, and published on a routine basis.
 * Department managers are integral to the process.
 * There is a specific part of the organization dedicated to the performance management program. In smaller cities, this might be all or part of the responsibilities of a single individual. In larger cities, there is often a department or office of performance management that involves a larger team.
-
+* 發起人大多是來自組織的非常高層。通常是市長這種層次的城市管理者。
+* 績效資料的收集、審核和發行是以例行性工作的型態進行。
+* 各部會主管是不可或缺的角色
+* 致力於績效管理計畫的組織有一個特點，在較小的城市中，這可能是由某一個人來負責。在較大的城市中，通常會有一個較大的團隊組成一個績效管理部門。
 
 In reviewing websites of many of the cities that engage in performance reporting, we found a great deal of diversity in the manner in which these municipalities went about their reporting:
 

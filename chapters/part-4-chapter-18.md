@@ -181,8 +181,13 @@ We spoke to officials who manage performance programs from four cities that are 
 我們訪問了四個在績效管理上著名城市的績效管理主管。以下是他們的計畫重點：
 
 #### San Francisco, California
+#### 加州，舊金山
 
 San Francisco’s performance program is called “San Francisco Performs.” It is primarily focused on supporting the mayor’s proposed budget and helping to provide context to citizens. Annually, San Francisco issues the “Controller’s Annual Performance Report,” a comprehensive report with over one thousand performance metrics across the city’s forty-eight departments (e.g. Airport, Fire, and Human Services). That amounts to approximately twenty metrics per department. San Francisco also issues a smaller, bi-monthly “Performance Barometer” report on a subset of key measures. This report is approximately seven pages in length and includes a rotating “highlighted measure” and a few of the key performance indicators for various activities, such as Public Safety, Streets and Public Works, and Customer Service.
+
+舊金山的績效計畫名叫「舊金山表現(San Francisco Performs)」。主要聚集在支持市長的預算務及協助提供市民資訊脈絡。每年，舊金山發表「管理員年度績效報告」，那是一份囊括上千種對48個市政相關部會的績效指標所做的詳細報告。(例如：機場、消防、人群服務*等)
+
+註：人群服務(Human Service)指的是包括對市民的就業、協尋、兒童服利、老人服務等等從在人道關懷與生活品質相關的社會福利服務。在許多先進國家，政府提供人群服務給個人、家庭或社區，以提升人民生活的品質。
 
 Kyle Burns, Performance Analyst & Program Lead in the San Francisco Controller’s Office stated in an interview: 
 

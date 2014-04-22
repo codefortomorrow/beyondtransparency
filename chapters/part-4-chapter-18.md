@@ -185,7 +185,7 @@ We spoke to officials who manage performance programs from four cities that are 
 
 San Francisco’s performance program is called “San Francisco Performs.” It is primarily focused on supporting the mayor’s proposed budget and helping to provide context to citizens. Annually, San Francisco issues the “Controller’s Annual Performance Report,” a comprehensive report with over one thousand performance metrics across the city’s forty-eight departments (e.g. Airport, Fire, and Human Services). That amounts to approximately twenty metrics per department. San Francisco also issues a smaller, bi-monthly “Performance Barometer” report on a subset of key measures. This report is approximately seven pages in length and includes a rotating “highlighted measure” and a few of the key performance indicators for various activities, such as Public Safety, Streets and Public Works, and Customer Service.
 
-舊金山的績效計畫名叫「舊金山表現(San Francisco Performs)」。主要聚集在支持市長的預算務及協助提供市民資訊脈絡。每年，舊金山發表「管理員年度績效報告」，那是一份囊括上千種對48個市政相關部會的績效指標所做的詳細報告。(例如：機場、消防、人群服務*等)
+舊金山的績效計畫名叫「舊金山表現(San Francisco Performs)」。主要聚集在支持市長的預算務及協助提供市民資訊脈絡。每年，舊金山發表「管理員年度績效報告」，那是一份囊括上千種對48個市政相關部會的績效指標所做的詳細報告。(例如：機場、消防、人群服務等)，平均每個部會都有約20項評量指標。舊金山也針對主要指標發表一份份量較小，雙月一期的「績效天氣報告」。這份報告的份量大約是7頁，內容包含指續更新的「焦點指標」和各市政活動相關的少量主要績效指標，例如公共安全、街道與工共工作、和客戶服務。
 
 註：人群服務(Human Service)指的是包括對市民的就業、協尋、兒童服利、老人服務等等從在人道關懷與生活品質相關的社會福利服務。在許多先進國家，政府提供人群服務給個人、家庭或社區，以提升人民生活的品質。
 

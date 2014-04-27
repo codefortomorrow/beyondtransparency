@@ -197,6 +197,7 @@ Kyle Burns, Performance Analyst & Program Lead in the San Francisco Controller�
 > 對市民報告績效的好處都和當責有關。為何呢？因為當責極具重要性。在預算審查過程中，市長辦公室用績必須透過效指標、以及將資料透明地公佈給市民，並使其了解市政績效和市府提供的服務，做為資源配置的決策依據。
 
 #### Bellevue, Washington
+#### 華盛頓，貝爾維尤
 
 The City of Bellevue, Washington, has been, “Managing for Results” since 1997, when the city manager started a performance management program based on two key goals: creating an evidenced-based government and sharing that information with the public via their website. The title they selected for their program, Managing for Results, indicates their orientation to outcomes, or results that matter to citizens. They describe their philosophy with the question “So what?” This indicates their interest in determining why a measure ultimately matters to citizens.
 

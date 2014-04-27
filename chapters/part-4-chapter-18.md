@@ -190,8 +190,11 @@ San Francisco’s performance program is called “San Francisco Performs.” It
 註：人群服務(Human Service)指的是包括對市民的就業、協尋、兒童服利、老人服務等等從在人道關懷與生活品質相關的社會福利服務。在許多先進國家，政府提供人群服務給個人、家庭或社區，以提升人民生活的品質。
 
 Kyle Burns, Performance Analyst & Program Lead in the San Francisco Controller’s Office stated in an interview: 
+在一場訪問中，舊金山管理員辦公室的績效分析計畫首席-凱爾．本斯說道：
 
 > The benefits of reporting performance data to the citizens are all about accountability. Why? Because it’s important. The mayor’s office uses the performance metrics to make decisions on resource allocation in the budget process… Transparency and the idea of having the data published allow citizens to understand how the city is performing and delivering services. (Burns, personal communication, 2013.)
+
+> 對市民報告績效的好處都和當責有關。為何呢？因為當責極具重要性。在預算審查過程中，市長辦公室用績必須透過效指標、以及將資料透明地公佈給市民，並使其了解市政績效和市府提供的服務，做為資源配置的決策依據。
 
 #### Bellevue, Washington
 
@@ -200,6 +203,7 @@ The City of Bellevue, Washington, has been, “Managing for Results” since 199
 A cornerstone of Bellevue’s program is to investigate and utilize diverse methods that reach and engage citizens. In addition to using their website for their performance program, in City Hall, there is a board posted which displays the city’s Vital Signs—a set of sixteen key metrics. Bellevue produces an annual performance report following reporting guidelines from the Association of Government Accountants‘ (AGA) and shares this with citizens on their website. They also conduct and report on the results of citizen surveys about satisfaction with public services to complement the operational metrics they collect. Their use of community indicators, which are measures that get close to the ultimate concerns of citizens but may not be totally under the control of any single department or even the city as a whole, is evidence of their sincere belief in communicating to citizens. According to Rich Siegel, Performance & Outreach Coordinator, “We need to let citizens know if we are doing better, the same, or worse. We are likely to get support for projects when they know how well we are doing.”
 
 #### Austin, Texas
+
 
 Austin, Texas started “Managing for Results” in 1992. “The core focus of the performance program is to focus on the customer,” said Shannon Szymczak, Corporate Budget Manager. Szymczak continued, “It’s an old saying, but you have to measure what matters.” With over twenty years of experience measuring performance, its performance system has evolved. Austin started with over four thousand metrics, but is now down to one thousand. In 2011, they began to report on twenty-one dashboard measures that were chosen by focus groups of citizens.
 

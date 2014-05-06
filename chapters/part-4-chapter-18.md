@@ -203,6 +203,8 @@ The City of Bellevue, Washington, has been, “Managing for Results” since 199
 華盛頓，貝爾維尤(Bellevue)市從1997年起就開始做「成果管理」，當時城市管理人所推動的績效管理計畫有兩個目栖：建立施政有據的政府和透過公開網站分享資訊。他們為此計畫所選的名子「成果管理」說明他們是產出導向、重視對市民有意義的結果。他們用「那又怎樣？」這樣的問題來描述他們的理念，其後代表的是他們在乎的是去理解指標對民眾的意義為何。
 
 A cornerstone of Bellevue’s program is to investigate and utilize diverse methods that reach and engage citizens. In addition to using their website for their performance program, in City Hall, there is a board posted which displays the city’s Vital Signs—a set of sixteen key metrics. Bellevue produces an annual performance report following reporting guidelines from the Association of Government Accountants‘ (AGA) and shares this with citizens on their website. They also conduct and report on the results of citizen surveys about satisfaction with public services to complement the operational metrics they collect. Their use of community indicators, which are measures that get close to the ultimate concerns of citizens but may not be totally under the control of any single department or even the city as a whole, is evidence of their sincere belief in communicating to citizens. According to Rich Siegel, Performance & Outreach Coordinator, “We need to let citizens know if we are doing better, the same, or worse. We are likely to get support for projects when they know how well we are doing.”
+貝爾維尤市這項計畫的基礎在於對各種能接獲市民或讓市民參與的方法論的探索和利用。除了使用他們的網站外，在市政府，有一個看板公佈著城市的「活力指數」-一組共16項的關鍵指標。
+
 
 #### Austin, Texas
 

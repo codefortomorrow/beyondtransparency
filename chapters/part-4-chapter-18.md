@@ -209,8 +209,10 @@ A cornerstone of Bellevue’s program is to investigate and utilize diverse meth
 #### 德州，奥斯汀市
 
 Austin, Texas started “Managing for Results” in 1992. “The core focus of the performance program is to focus on the customer,” said Shannon Szymczak, Corporate Budget Manager. Szymczak continued, “It’s an old saying, but you have to measure what matters.” With over twenty years of experience measuring performance, its performance system has evolved. Austin started with over four thousand metrics, but is now down to one thousand. In 2011, they began to report on twenty-one dashboard measures that were chosen by focus groups of citizens.
+德州的奥斯汀市在1992年啟動「成效管理」。「該項績效管理計畫的焦點是客戶」Shannon Szymczak，企業預算經理說：「雖然是句老話，但你就是得去量化產出的意義。」超過20年的績效評估經驗，該績效系統也在進化。奧斯汀市最早使用了超過四千項指標，但現在只剩下一千項左右。自2011年起，他們開始透過由市民組成的焦點團體挑選出其中最重要的21項指標，來做為儀表報告的內容。
 
 Much of the focus of the performance program is aimed at the budget process. Each department is responsible for developing departmental goals to inform the budget process. Since 2005, everything reported to the budget office is made available publicly. Austin emphasizes results by distinguishing performance measures from operational measures, which assess activities. A forward-thinking approach is demonstrated in displaying the results for the past three years in the context of targets for the current and upcoming year. According to Szymczak, “goals must be measurable.”
+
 
 #### Baltimore, Maryland
 

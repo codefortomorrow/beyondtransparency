@@ -212,6 +212,7 @@ Austin, Texas started “Managing for Results” in 1992. “The core focus of t
 德州的奥斯汀市在1992年啟動「成效管理」。「該項績效管理計畫的焦點是客戶」Shannon Szymczak，企業預算經理說：「雖然是句老話，但你就是得去量化產出的意義。」超過20年的績效評估經驗，該績效系統也在進化。奧斯汀市最早使用了超過四千項指標，但現在只剩下一千項左右。自2011年起，他們開始透過由市民組成的焦點團體挑選出其中最重要的21項指標，來做為儀表報告的內容。
 
 Much of the focus of the performance program is aimed at the budget process. Each department is responsible for developing departmental goals to inform the budget process. Since 2005, everything reported to the budget office is made available publicly. Austin emphasizes results by distinguishing performance measures from operational measures, which assess activities. A forward-thinking approach is demonstrated in displaying the results for the past three years in the context of targets for the current and upcoming year. According to Szymczak, “goals must be measurable.”
+大部份績效管理計畫都聚焦在預算流程。每個部門都必需發展部門目標以對預算審查報告。自2005年起，每項對預算辦公室的報告都能公開取得。奧斯汀市透過對日常活動的評估來進行營運評量，藉此將其與績效評量區分開來以便強調成效。一種前瞻性的思考例子是，將過去三年的成效在以今明兩年的目標為背景下做呈現。Szymczak說：「目標必須要是可以量化的。」
 
 
 #### Baltimore, Maryland

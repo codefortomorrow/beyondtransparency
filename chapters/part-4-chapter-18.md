@@ -216,8 +216,10 @@ Much of the focus of the performance program is aimed at the budget process. Eac
 
 
 #### Baltimore, Maryland
+馬里蘭州，巴里迪摩市
 
 Baltimore, Maryland, is appropriately credited as a pioneer of the CitiStat model. CitiStat and all the management methods known as the Stat models share an emphasis on relentless follow-through. Officials accomplish this through periodic meetings in which they review performance and determine action plans to resolve issues. These meetings occur about once per month—or even more frequently in some implementations. The updated results are reviewed in order to evaluate actions taken based on the decisions reached in prior meetings.
+馬里蘭州，巴里迪摩市
 
 The Baltimore Office of CitiStat is a small performance-based management group responsible for continually improving the quality of services provided to the citizens of the city. Staff analysts examine data and perform investigations in order to identify areas in need of improvement. The mayor or members of her cabinet attend the CitiStat meetings, which are held every four weeks, and ask the presenting agency questions about its performance. As a result of its success, local governments have adapted the CitiStat model across the US and around the world.
 

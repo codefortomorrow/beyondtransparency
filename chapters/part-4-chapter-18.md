@@ -255,15 +255,19 @@ Through the CitiStat program, Baltimore had been tracking metrics internally for
 透過「城市統計」計畫，巴爾迪摩市已在對市民公開前在內部進行了多年的指標追蹤。剛開始時，部門主管擔心民眾不見得能消化這些資料，甚至有可能被斷章取義。雖然城市統計的流程強調內部管理和改善提供給市民的服務，資料卻不再公開的釋出。市長在2012年八月簽署了一份執行命令以提高資訊透明。Chad Kenney，巴爾迪摩市的城市統計計畫主持人說：「關鍵不是用大量的資料壓跨民眾，而是讓資料以良好的文脈呈現以便民眾理解。」部門主管因為熟悉服務流程所以能了解資料的細節。而一般市民取得這些資料卻沒什麼好處。
 
 Baltimore’s public-facing reports include month-to-month and year-to-year comparisons in order to provide a baseline for citizens to evaluate performance. Some of their current initiatives include making this data more understandable by providing neighborhood-based information and working with local groups who help citizens understand the data.
-
+巴爾迪摩市的公開報告包括月對月比較和年對年比較，以便提供民眾一個比較基準來評估成效。一些現行的措施包含透過基於生活週邊的資訊讓這些資料更易懂，還有和在地團體一起協助市民看懂這些資料。
 
 ### Lessons Learned
+### 經驗教訓
 
 What takeaway points did these four cities, as a group, suggest? How have they addressed the challenges of publicly reporting data?
+綜合看這四個城市的經驗，帶來了什麼啟發呢？他們如何解決公開報告資料的挑戰呢18
 
 #### Address Department Concerns of Misinterpretation
+#### 擔心資料被誤解
 
 It is common for department managers to be concerned that the public will be critical and misinterpret data because they do not have knowledge of the operations of the city. In addition to providing the public with more summarized information about results and outcomes in order to reduce the misinterpretation, other responses have included:
+對部門主管很容意擔心大眾會批判或誤解資料，因為對於城市運作的細節他們沒有足夠的知識。除了提供大眾較統整、以成果和績效為主的資訊來避免誤解外，其他回應包括：
 
 * Emphasize performance exceeding expectations, as well as performance not meeting expectations.
 * Ignore individual data points and emphasize stable trends.

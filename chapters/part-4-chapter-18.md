@@ -273,6 +273,10 @@ It is common for department managers to be concerned that the public will be cri
 * Ignore individual data points and emphasize stable trends.
 * Emphasize results, rather than activities, to allow the same metrics to be reported, even when business processes change.
 * Partner with non-government organizations to present the data to the public to increase their understanding.
+* 將重點放在績效超過預期，或是未達預期。
+* 忽略單一的點狀資料，而強調長期穩定的趨勢。
+* 強調結果而非活動，以相同的指標來進行報告，即時事務流程有改變。
+* 與非政府組織(NGO)合作，讓資料呈現給民眾時更應該看懂。
 
 The balancing act is ongoing: transparency to the public and other stakeholders versus the validity of the interpretation of the data. Perhaps even more important is the perception by department managers that others (including their own elected and appointed officials) do not understand their service area. Hence, some of the responses above show support for the managers’ concerns.
 

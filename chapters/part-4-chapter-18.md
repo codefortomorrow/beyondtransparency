@@ -225,7 +225,7 @@ The Baltimore Office of CitiStat is a small performance-based management group r
 巴爾迪摩市的城市統計辦公室是一個負責持續改善對市民服務水準的小型的績效管理團隊。負責的分析師檢驗資料和進行績效探勘，以便找出需改善的地方。市長或城市內閣會參加每四週一次的城市統計會議，並對簡報人提出有關城市績效的問題。這個計畫的成功，使得美國甚至世界各地的地方城府採用城市統計這樣的管理模式。
 
 Through the CitiStat program, Baltimore had been tracking metrics internally for many years prior to sharing them with citizens. Initially, department managers had concerns that it might be hard for citizens to digest the information or that it would be taken out of context. Although the CitiStat process emphasized internal management and improvement in delivering services to citizens, the data was no longer being released publicly. The mayor signed an executive order in August 2012 to promote increased transparency. Chad Kenney, Director of Baltimore CitiStat says, “The key is to not overwhelm citizens with a lot of data and to put the data into context so it’s understood.” Department managers understand the detailed data because they understand the service processes. Citizens do not have the advantage of this context.
-透過「城市統計」計畫，巴爾迪摩市已在對市民公開前在內部進行了多年的指標追蹤。
+透過「城市統計」計畫，巴爾迪摩市已在對市民公開前在內部進行了多年的指標追蹤。剛開始時，部門主管擔心民眾不見得能消化這些資料，甚至有可能被斷章取意。
 
 
 Baltimore’s public-facing reports include month-to-month and year-to-year comparisons in order to provide a baseline for citizens to evaluate performance. Some of their current initiatives include making this data more understandable by providing neighborhood-based information and working with local groups who help citizens understand the data.

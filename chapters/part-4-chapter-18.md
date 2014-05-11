@@ -216,15 +216,17 @@ Much of the focus of the performance program is aimed at the budget process. Eac
 
 
 #### Baltimore, Maryland
-馬里蘭州，巴里迪摩市
+馬里蘭州，巴爾迪摩市
 
 Baltimore, Maryland, is appropriately credited as a pioneer of the CitiStat model. CitiStat and all the management methods known as the Stat models share an emphasis on relentless follow-through. Officials accomplish this through periodic meetings in which they review performance and determine action plans to resolve issues. These meetings occur about once per month—or even more frequently in some implementations. The updated results are reviewed in order to evaluate actions taken based on the decisions reached in prior meetings.
-馬里蘭州，巴里迪摩市恰當地建立了城市統計(CitiStat)模式的先鋒。城市統計和其他所有以統計模型為名的管理學方法，都強調不留情面的追蹤處理。為此，官員們透過定期會議來檢討績效並制定解決問題的行動計畫。這種會議大約每月一次，在某些情況下會更頻繁。而為了評估這些決策後的行動效果，事後都會再針對這些行動進行後續的檢討追蹤會議。
+馬里蘭州，巴爾迪摩市恰當地建立了城市統計(CitiStat)模式的先鋒。城市統計和其他所有以統計模型為名的管理學方法，都強調不留情面的追蹤處理。為此，官員們透過定期會議來檢討績效並制定解決問題的行動計畫。這種會議大約每月一次，在某些情況下會更頻繁。而為了評估這些決策後的行動效果，事後都會再針對這些行動進行後續的檢討追蹤會議。
 
 The Baltimore Office of CitiStat is a small performance-based management group responsible for continually improving the quality of services provided to the citizens of the city. Staff analysts examine data and perform investigations in order to identify areas in need of improvement. The mayor or members of her cabinet attend the CitiStat meetings, which are held every four weeks, and ask the presenting agency questions about its performance. As a result of its success, local governments have adapted the CitiStat model across the US and around the world.
-巴里迪摩市的城市統計辦公室是一個負責持續改善對市民服務水準的小型的績效管理團隊。負責的分析師檢驗資料和進行績效探勘，以便找出需改善的地方。市長或城市內閣會參加每四週一次的城市統計會議，並對簡報人提出有關城市績效的問題。這個計畫的成功，使得美國甚至世界各地的地方城府採用城市統計這樣的管理模式。
+巴爾迪摩市的城市統計辦公室是一個負責持續改善對市民服務水準的小型的績效管理團隊。負責的分析師檢驗資料和進行績效探勘，以便找出需改善的地方。市長或城市內閣會參加每四週一次的城市統計會議，並對簡報人提出有關城市績效的問題。這個計畫的成功，使得美國甚至世界各地的地方城府採用城市統計這樣的管理模式。
 
 Through the CitiStat program, Baltimore had been tracking metrics internally for many years prior to sharing them with citizens. Initially, department managers had concerns that it might be hard for citizens to digest the information or that it would be taken out of context. Although the CitiStat process emphasized internal management and improvement in delivering services to citizens, the data was no longer being released publicly. The mayor signed an executive order in August 2012 to promote increased transparency. Chad Kenney, Director of Baltimore CitiStat says, “The key is to not overwhelm citizens with a lot of data and to put the data into context so it’s understood.” Department managers understand the detailed data because they understand the service processes. Citizens do not have the advantage of this context.
+透過「城市統計」計畫，巴爾迪摩市已在對市民公開前在內部進行了多年的指標追蹤。
+
 
 Baltimore’s public-facing reports include month-to-month and year-to-year comparisons in order to provide a baseline for citizens to evaluate performance. Some of their current initiatives include making this data more understandable by providing neighborhood-based information and working with local groups who help citizens understand the data.
 

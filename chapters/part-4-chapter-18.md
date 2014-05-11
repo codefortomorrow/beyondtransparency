@@ -84,54 +84,69 @@ Once we decide what we’ll need to measure, we need to begin capturing, reviewi
 ### 何苦呢？
 
 Having an effective, ongoing performance management process in place is the key to running a successful government. Through these processes, management gains increased visibility into operational performance and results. Operational improvements can be realized through optimized resource allocations. It can even spur policy review and modifications.
+
 到位、有效、持續的績效管理流程是成功政府運作的關鍵。透過這些流程，能夠對運作績效和結果得到更大的能見度。並能透過資源分配最佳化而實現運作的改善。甚至還能帶動政策檢討和調整。
 
 Even more important is the fact that introducing these approaches as part of the way of doing business inside local government can establish a high-performance culture within the organization. This creates greater internal alignment by better communicating organizational priorities to the team.
+
 更重要的是，隨著正確的績效管理手法被帶入地方政府的事務流程，還能在組織內建立起一種高績效導向的工作文化。這能進一步讓團隊間對於「優先權」的溝通更一致，進而校準團隊內部。
 
 By introducing open data into performance management processes, we can make great leaps forward in increasing accountability and data-driven communication with stakeholders. That means knowing the stakeholders of local government and monitoring how a good performance management process can properly engage them through the data.
+
 將開放資料導入績效管理，可以對利益關係人(市民)在「當責」和「以資料為基礎的溝通」上建立極大幅度的躍進。意即：深入了解地方政府的利益關係人(市民)，以及監督良好的績效管理流程並透過真確的資料來與他們溝通。
 
 #### Accountability and Communication
 #### 當責與溝通
 
 Government accountability is about setting expectations and reporting to stakeholders what has been accomplished relative to those expectations. It is more about the communication of actions and results, rather than the actions and results themselves. Accountability rests on an assumption of responsibility by elected and appointed officials in government to protect and serve citizens and act as stewards of the public’s resources.
+
 所謂政府當責是指對利害關係人設定預期成果並對這些預期的進度進行報告。當責的意思除了行動、結果本身外，更重要的是對這些行動或結果所應進行的溝通。「當責」必須建立在這樣的假設前題下：推選或指派的政府官員之責任，是在於保護及服務市民，並將自己視為是公共資源的看管者。
 
 The four major stakeholders of local government are:
+
 地方政府的利害關係人主要可分為四種大類：
 
 * Department heads, who oversee the operations within each service area.
+
 * 部門主管類，負責監督各服務區的運作。
 
 * Municipal management, who coordinate the different service areas and are responsible for the implementation of policies.
+
 * 市政管理類，負責協調不同的服務區及政策實施。
 
 * Elected officials, who set policy, may have a management role, and are one step from the public.
+
 * 民選官員類，負責設定政策，可能兼任管理職，並且與民眾十分接近。
 
 * The public, either through individuals or stakeholder groups.
+
 * 民眾，包括個人或是利害關係團體。
 
 The benefit of a good performance management system is that objective data about the accomplishments of government can be seen by anyone, even if it is packaged in different ways and in different levels of detail. This integrated accountability promotes rational decision-making because of the commonality of the facts. Staff, management, and the public see these facts through their individual lenses:
+
 良好績效管理系統的好處是，政績的客觀數據可以被任何人輕易看見，即使是用不同的型態包裝或以不同的細節呈現。因為客觀資料所帶來的共通性，使得這種整合的當責促進了理性的決策。雇員、管理階層和大眾都能從他們的角度看見具體、真實的數據：
 
 * Staff: are we getting the job done?
+
 * 雇員：我們的工作都完成了嗎？
 
 * Management: is the job getting done efficiently and effectively?
+
 * 管理階層：工作的進行是正確又有效率的嗎？
 
 * Public: are we getting the results we pay for?
+
 * 大眾：我們納得稅有得到人民想要的結果嗎？
 
 To that last point, we are seeing two interesting trends emerge that support open data with respect to operational performance.
+
 對於最後一點，我們可發現兩項有趣的趨勢，支持開放資料有助於營運績效的說法。
 
 #### Public Participation
 #### 大眾參與
 
 First, citizens, in part thanks to technological developments, are taking a more active role in wanting to understand and contribute to the performance of their cities and towns. Products like SeeClickFix, which capture input directly from citizens through their mobile devices, are informing city agencies of service needs in real time and with greater volume than ever before. They allow citizens to report everything, from graffiti to potholes to streetlights in need of repair. However, these new capabilities are also setting expectations in the minds of citizens that these incidents will be addressed on a timely basis. They expect results and feedback. City managers need to track overall performance and response times and report how well they’re doing back to the public, both individually and in the aggregate.
+
 首先，有一部份歸功於科技發展的是，市民逐漸扮演對於城鎮運作績效想主動了解或貢獻己力的角色。 SeeClickFix這類的產品  (註：一個讓民眾通報居家附近有什麼問題、並追蹤修復情況的社群網站，也有手機App 版)，以前所未有的資訊量直接從市民的手機取得訊息，並且通報市政機關。它們讓市民能舉報每件大小事，從街頭途鴨、需俢補的道路坑洞、到壞掉的路燈。然而，這些新能力同時也讓市民有了對於這些舉報要在某個時間內得到重視的預期心態。市民們期待結果和回饋。城市管理者必須追蹤整體的績效和回應時間，並對大眾報告執行的效果，包括個別案件和全面的成效。
 
 The use of citizens or non-government organizations to help deliver public services is known as “co-production.” Co-production can be provided by individuals or by organized volunteer groups. Originally, it was represented by low technology involvement, such as the Neighborhood Watch, an organized group of volunteers trained to reduce crime and vandalism in their neighborhoods. Technology is increasing the potential for citizens to produce services in conjunction with their local governments.
@@ -156,12 +171,14 @@ To date, only a small percentage of cities have gone so far as to publish their 
 * Performance data is collected, reviewed, and published on a routine basis.
 * Department managers are integral to the process.
 * There is a specific part of the organization dedicated to the performance management program. In smaller cities, this might be all or part of the responsibilities of a single individual. In larger cities, there is often a department or office of performance management that involves a larger team.
+
 * 發起人大多是來自組織的非常高層。通常是市長這種層次的城市管理者。
 * 績效資料的收集、審核和發行是以例行性工作的型態進行。
 * 各部會主管是不可或缺的角色
 * 致力於績效管理計畫的組織有一個特點，在較小的城市中，這可能是由某一個人來負責。在較大的城市中，通常會有一個較大的團隊組成一個績效管理部門。
 
 In reviewing websites of many of the cities that engage in performance reporting, we found a great deal of diversity in the manner in which these municipalities went about their reporting:
+
 群覽許多進行績效報告的城市網站後，我們從這些城市的報告中發現有非常可觀的多樣性：
 
 * The population sizes range from towns that may have less than 50,000 residents to the largest of cities throughout the nation, including New York City.
@@ -170,6 +187,7 @@ In reviewing websites of many of the cities that engage in performance reporting
 * The most commonly used source of data is operational measures, which are collected by the departments, but some of the cities use citizen satisfaction surveys and outcomes based on inspections or other ways of determining results of the operations.
 * Several of the cities have found ways to have the public determine what measures are important to them, including focus groups, citizen surveys, and individual suggestions.
 * There are no apparent correlations between these diverse factors, such as a tendency for the larger municipalities to report more (or less) frequently.
+
 * 人口數從低於50,000居民的小鎮到國家級的大城市，包括紐約市。
 * 資料更新的頻率不一。包括每月更新、雙月更新、每季更新、半年更新和年度更新。
 * 有些績效報告具目標針對性，並討論部門的目標和目的，有些則沒有。
@@ -178,6 +196,7 @@ In reviewing websites of many of the cities that engage in performance reporting
 * 這些差異間並沒有顯著的相關性，例如城市的大小不一定會和報告更新的頻率有關。
 
 We spoke to officials who manage performance programs from four cities that are widely known for their performance initiatives. The following are highlights of their programs:
+
 我們訪問了四個在績效管理上著名城市的績效管理主管。以下是他們的計畫重點：
 
 #### San Francisco, California
@@ -190,6 +209,7 @@ San Francisco’s performance program is called “San Francisco Performs.” It
 註：人群服務(Human Service)指的是包括對市民的就業、協尋、兒童服利、老人服務等等從在人道關懷與生活品質相關的社會福利服務。在許多先進國家，政府提供人群服務給個人、家庭或社區，以提升人民生活的品質。
 
 Kyle Burns, Performance Analyst & Program Lead in the San Francisco Controller’s Office stated in an interview: 
+
 在一場訪問中，舊金山管理員辦公室的績效分析計畫首席-凱爾．本斯說道：
 
 > The benefits of reporting performance data to the citizens are all about accountability. Why? Because it’s important. The mayor’s office uses the performance metrics to make decisions on resource allocation in the budget process… Transparency and the idea of having the data published allow citizens to understand how the city is performing and delivering services. (Burns, personal communication, 2013.)
@@ -200,18 +220,22 @@ Kyle Burns, Performance Analyst & Program Lead in the San Francisco Controller�
 #### 華盛頓，貝爾維尤
 
 The City of Bellevue, Washington, has been, “Managing for Results” since 1997, when the city manager started a performance management program based on two key goals: creating an evidenced-based government and sharing that information with the public via their website. The title they selected for their program, Managing for Results, indicates their orientation to outcomes, or results that matter to citizens. They describe their philosophy with the question “So what?” This indicates their interest in determining why a measure ultimately matters to citizens.
+
 華盛頓，貝爾維尤(Bellevue)市從1997年起就開始做「成果管理」，當時城市管理人所推動的績效管理計畫有兩個目栖：建立施政有據的政府和透過公開網站分享資訊。他們為此計畫所選的名子「成果管理」說明他們是產出導向、重視對市民有意義的結果。他們用「那又怎樣？」這樣的問題來描述他們的理念，其後代表的是他們在乎的是去理解指標對民眾的意義為何。
 
 A cornerstone of Bellevue’s program is to investigate and utilize diverse methods that reach and engage citizens. In addition to using their website for their performance program, in City Hall, there is a board posted which displays the city’s Vital Signs—a set of sixteen key metrics. Bellevue produces an annual performance report following reporting guidelines from the Association of Government Accountants‘ (AGA) and shares this with citizens on their website. They also conduct and report on the results of citizen surveys about satisfaction with public services to complement the operational metrics they collect. Their use of community indicators, which are measures that get close to the ultimate concerns of citizens but may not be totally under the control of any single department or even the city as a whole, is evidence of their sincere belief in communicating to citizens. According to Rich Siegel, Performance & Outreach Coordinator, “We need to let citizens know if we are doing better, the same, or worse. We are likely to get support for projects when they know how well we are doing.”
+
 貝爾維尤市這項計畫的基礎在於對各種能接獲市民或讓市民參與的方法論的探索和利用。除了使用他們的網站外，在市政府，有一個看板公佈著城市的「活力指數」- 一組共16項的關鍵指標。貝爾維尤市按照政府會計協會(AGA)的規格製作一份年度績效報告，並在網站上與市民分享。他們也推動民眾對滿意度的調查和報告，以完備他們所收集的營運指標。他們透過極致地關懷市民，卻非受單一市政部門或整個城市控制的措施，這種使用社區指標的方式，是他們與市民溝通真誠信念的證據。根據Rich Siegel (績效與發展協調官)所述：「我們必須讓市民知道我們的表現是愈來愈好、保持一樣，或是愈做愈差。通常，愈讓民眾充份地了解我們實際的績效是怎樣，民眾才會愈願意支持政府。」
 
 #### Austin, Texas
 #### 德州，奥斯汀市
 
 Austin, Texas started “Managing for Results” in 1992. “The core focus of the performance program is to focus on the customer,” said Shannon Szymczak, Corporate Budget Manager. Szymczak continued, “It’s an old saying, but you have to measure what matters.” With over twenty years of experience measuring performance, its performance system has evolved. Austin started with over four thousand metrics, but is now down to one thousand. In 2011, they began to report on twenty-one dashboard measures that were chosen by focus groups of citizens.
+
 德州的奥斯汀市在1992年啟動「成效管理」。「該項績效管理計畫的焦點是客戶」Shannon Szymczak，企業預算經理說：「雖然是句老話，但你就是得去量化產出的意義。」超過20年的績效評估經驗，該績效系統也在進化。奧斯汀市最早使用了超過四千項指標，但現在只剩下一千項左右。自2011年起，他們開始透過由市民組成的焦點團體挑選出其中最重要的21項指標，來做為儀表報告的內容。
 
 Much of the focus of the performance program is aimed at the budget process. Each department is responsible for developing departmental goals to inform the budget process. Since 2005, everything reported to the budget office is made available publicly. Austin emphasizes results by distinguishing performance measures from operational measures, which assess activities. A forward-thinking approach is demonstrated in displaying the results for the past three years in the context of targets for the current and upcoming year. According to Szymczak, “goals must be measurable.”
+
 大部份績效管理計畫都聚焦在預算流程。每個部門都必需發展部門目標以對預算審查報告。自2005年起，每項對預算辦公室的報告都能公開取得。奧斯汀市透過對日常活動的評估來進行營運評量，藉此將其與績效評量區分開來以便強調成效。一種前瞻性思維的例子是，將過去三年的成效作為今明兩年的目標背景來呈現。Szymczak說：「目標必須要是可以量化的。」
 
 
@@ -219,15 +243,19 @@ Much of the focus of the performance program is aimed at the budget process. Eac
 馬里蘭州，巴爾迪摩市
 
 Baltimore, Maryland, is appropriately credited as a pioneer of the CitiStat model. CitiStat and all the management methods known as the Stat models share an emphasis on relentless follow-through. Officials accomplish this through periodic meetings in which they review performance and determine action plans to resolve issues. These meetings occur about once per month—or even more frequently in some implementations. The updated results are reviewed in order to evaluate actions taken based on the decisions reached in prior meetings.
+
 馬里蘭州，巴爾迪摩市恰當地建立了城市統計(CitiStat)模式的先鋒。城市統計和其他所有以統計模型為名的管理學方法，都強調不留情面的追蹤處理。為此，官員們透過定期會議來檢討績效並制定解決問題的行動計畫。這種會議大約每月一次，在某些情況下會更頻繁。而為了評估這些決策後的行動效果，事後都會再針對這些行動進行後續的檢討追蹤會議。
 
 The Baltimore Office of CitiStat is a small performance-based management group responsible for continually improving the quality of services provided to the citizens of the city. Staff analysts examine data and perform investigations in order to identify areas in need of improvement. The mayor or members of her cabinet attend the CitiStat meetings, which are held every four weeks, and ask the presenting agency questions about its performance. As a result of its success, local governments have adapted the CitiStat model across the US and around the world.
+
 巴爾迪摩市的城市統計辦公室是一個負責持續改善對市民服務水準的小型的績效管理團隊。負責的分析師檢驗資料和進行績效探勘，以便找出需改善的地方。市長或城市內閣會參加每四週一次的城市統計會議，並對簡報人提出有關城市績效的問題。這個計畫的成功，使得美國甚至世界各地的地方城府採用城市統計這樣的管理模式。
 
 Through the CitiStat program, Baltimore had been tracking metrics internally for many years prior to sharing them with citizens. Initially, department managers had concerns that it might be hard for citizens to digest the information or that it would be taken out of context. Although the CitiStat process emphasized internal management and improvement in delivering services to citizens, the data was no longer being released publicly. The mayor signed an executive order in August 2012 to promote increased transparency. Chad Kenney, Director of Baltimore CitiStat says, “The key is to not overwhelm citizens with a lot of data and to put the data into context so it’s understood.” Department managers understand the detailed data because they understand the service processes. Citizens do not have the advantage of this context.
+
 透過「城市統計」計畫，巴爾迪摩市已在對市民公開前在內部進行了多年的指標追蹤。剛開始時，部門主管擔心民眾不見得能消化這些資料，甚至有可能被斷章取義。雖然城市統計的流程強調內部管理和改善提供給市民的服務，資料卻不再公開的釋出。市長在2012年八月簽署了一份執行命令以提高資訊透明。Chad Kenney，巴爾迪摩市的城市統計計畫主持人說：「關鍵不是用大量的資料壓跨民眾，而是讓資料以良好的文脈呈現以便民眾理解。」部門主管因為熟悉服務流程所以能了解資料的細節。而一般市民取得這些資料卻沒什麼好處。
 
 Baltimore’s public-facing reports include month-to-month and year-to-year comparisons in order to provide a baseline for citizens to evaluate performance. Some of their current initiatives include making this data more understandable by providing neighborhood-based information and working with local groups who help citizens understand the data.
+
 
 ### Lessons Learned
 

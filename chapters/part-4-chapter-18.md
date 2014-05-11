@@ -267,7 +267,7 @@ What takeaway points did these four cities, as a group, suggest? How have they a
 #### 擔心資料被誤解
 
 It is common for department managers to be concerned that the public will be critical and misinterpret data because they do not have knowledge of the operations of the city. In addition to providing the public with more summarized information about results and outcomes in order to reduce the misinterpretation, other responses have included:
-對部門主管很容意擔心大眾會批判或誤解資料，因為對於城市運作的細節他們沒有足夠的知識。除了提供大眾較統整、以成果和績效為主的資訊來避免誤解外，其他回應包括：
+部門主管很容意擔心大眾會批判或誤解資料，因為對於城市運作的細節他們沒有足夠的知識。除了提供大眾較統整、以成果和績效為主的資訊來避免誤解外，其他回應包括：
 
 * Emphasize performance exceeding expectations, as well as performance not meeting expectations.
 * Ignore individual data points and emphasize stable trends.

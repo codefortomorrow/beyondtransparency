@@ -267,7 +267,7 @@ What takeaway points did these four cities, as a group, suggest? How have they a
 #### 擔心資料被誤解
 
 It is common for department managers to be concerned that the public will be critical and misinterpret data because they do not have knowledge of the operations of the city. In addition to providing the public with more summarized information about results and outcomes in order to reduce the misinterpretation, other responses have included:
-部門主管很容意擔心大眾會批判或誤解資料，因為他們對於城市運作的細節沒有足夠的知識。除了提供大眾較統整、以成果和績效為主的資訊來避免誤解外，其他因應包括：
+部門主管很容意擔心大眾會批判或誤解資料，因為他們對於城市運作的細節沒有足夠的知識。除了提供大眾較統整、以成果和績效為主的資訊來避免誤解外，其他回應包括：
 
 * Emphasize performance exceeding expectations, as well as performance not meeting expectations.
 * Ignore individual data points and emphasize stable trends.
@@ -275,10 +275,11 @@ It is common for department managers to be concerned that the public will be cri
 * Partner with non-government organizations to present the data to the public to increase their understanding.
 * 將重點放在績效超過預期，或是未達預期。
 * 忽略單一的點狀資料，而強調長期穩定的趨勢。
-* 強調結果而非活動，以相同的指標來進行報告，即時事務流程有改變。
+* 強調結果而非活動，即使事務流程有改變，仍以相同的指標來進行報告。
 * 與非政府組織(NGO)合作，讓資料呈現給民眾時更應該看懂。
 
 The balancing act is ongoing: transparency to the public and other stakeholders versus the validity of the interpretation of the data. Perhaps even more important is the perception by department managers that others (including their own elected and appointed officials) do not understand their service area. Hence, some of the responses above show support for the managers’ concerns.
+平衡的行動也在進行中：例如對大眾及其他利害關係人的資訊透明，與對資料解釋的正確有效性之間的取捨。也許更值得一提的是，部會主管感受到的是，其他人(包括他們自己所選舉出來或指派的官員)並不了解他們的服務區域。因此，前述的某些回應也顯示出這些主管擔心之處。
 
 Our company, Revelstone, has experienced these concerns with some of its customers. Our practical experience is that leadership needs to support the importance of the data and responsibility of the service area to make its value proposition to all stakeholders. We also found evidence in the four cities we talked to that appropriate data for stakeholders will be different than that used for an internal review of operations in the service area. Baltimore, which built its CitiStat program around a model to promote frequent operational review, has the shortest program of reporting to external stakeholders. More time is needed to see if the partnership with non-governmental organizations will help public use and interpretation of the data or whether it will still need further summarization and a results orientation in the public-facing data reporting.
 

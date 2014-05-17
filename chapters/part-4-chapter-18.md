@@ -283,6 +283,8 @@ The balancing act is ongoing: transparency to the public and other stakeholders 
 
 Our company, Revelstone, has experienced these concerns with some of its customers. Our practical experience is that leadership needs to support the importance of the data and responsibility of the service area to make its value proposition to all stakeholders. We also found evidence in the four cities we talked to that appropriate data for stakeholders will be different than that used for an internal review of operations in the service area. Baltimore, which built its CitiStat program around a model to promote frequent operational review, has the shortest program of reporting to external stakeholders. More time is needed to see if the partnership with non-governmental organizations will help public use and interpretation of the data or whether it will still need further summarization and a results orientation in the public-facing data reporting.
 
+我們的公司(Revelstone)，體歷過一些客戶的這些擔心。我們的實務經驗是，領導層必須支持資料的重要性，
+
 #### Public Use Is Not Always Extensive
 
 Most of the cities felt that the use of the data by the public was not extensive. Almost all of them recognized the challenge of presenting the data at a level of detail that would encourage use by the public. To accomplish this, they used dashboards, barometers, vital signs, and community indicators that were a small set of the detailed measures that were used for internal management. Each of these mechanisms focuses on metrics that are most important to the public. These cities are increasingly concerned with presenting the appropriate data to the public—both what they think is important and the level that will encourage the public to spend time learning about how their city is performing.

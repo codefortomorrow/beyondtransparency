@@ -290,7 +290,7 @@ Our company, Revelstone, has experienced these concerns with some of its custome
 
 Most of the cities felt that the use of the data by the public was not extensive. Almost all of them recognized the challenge of presenting the data at a level of detail that would encourage use by the public. To accomplish this, they used dashboards, barometers, vital signs, and community indicators that were a small set of the detailed measures that were used for internal management. Each of these mechanisms focuses on metrics that are most important to the public. These cities are increasingly concerned with presenting the appropriate data to the public—both what they think is important and the level that will encourage the public to spend time learning about how their city is performing.
 
-
+大部份城市覺得大眾對資料的使用並不廣泛。它們幾乎都認為挑戰在於如何把資料以一個能激起大眾使用興趣的詳細程度來呈現。要達到這個水準，它們用了一些類似資料儀表板、氣壓計、活力指數、社群指數這類內管理的細節量測值的小組合。每一項機制都聚焦在對大眾最重要的量測上。這些城市愈來愈在乎將適當的資料呈現給大眾-包括大眾覺得什麼是重要的、以及多詳細的資料才會讓大眾感到有興趣，並願意花時間去讀這些資料，以了解城市的績效。
 
 One of the major challenges is to convert greater accessibility to data to greater participation and engagement by citizens. The maxim “Build it and they will come” does not apply here. The cities that we engaged with, which are among the most progressive in the arena of publicly accessible data about their municipal performance, recognize the work that needs to be done.
 

@@ -236,7 +236,7 @@ Austin, Texas started “Managing for Results” in 1992. “The core focus of t
 
 Much of the focus of the performance program is aimed at the budget process. Each department is responsible for developing departmental goals to inform the budget process. Since 2005, everything reported to the budget office is made available publicly. Austin emphasizes results by distinguishing performance measures from operational measures, which assess activities. A forward-thinking approach is demonstrated in displaying the results for the past three years in the context of targets for the current and upcoming year. According to Szymczak, “goals must be measurable.”
 
-大部份績效管理計畫都聚焦在預算流程。每個部門都必需發展部門目標以對預算審查報告。自2005年起，每項對預算辦公室的報告都能公開取得。奧斯汀市透過對日常活動的評估來進行營運評量，藉此將其與績效評量區分開來以便強調成效。一種前瞻性思維的例子是，將過去三年的成效作為今明兩年的目標背景來呈現。Szymczak說：「目標必須要是可以量化的。」
+大部份績效管理計畫都聚焦在預算流程。每個部門都必需發展部門目標以對預算審查報告。自2005年起，每項對預算辦公室的報告都能公開取得。奧斯汀市透過對日常活動的評估來進行營運評量，藉此將其與績效評量區分開來以便強調成效。一種前瞻思維的作法是，將過去三年的成效作為今明兩年的目標背景來呈現。Szymczak說：「目標必須要是可以量化的。」
 
 
 #### Baltimore, Maryland

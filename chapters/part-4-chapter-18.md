@@ -276,7 +276,7 @@ It is common for department managers to be concerned that the public will be cri
 * 單純強調績效是超過預期或是未達預期？。
 * 避免單一的點狀資料，而強調長期穩定的趨勢。
 * 強調結果而非過程，即使事務流程有改變，仍以相同的指標來進行報告。
-* 與非政府組織(NGO)合作，讓資料呈現給民眾時更應該看懂。
+* 與非政府組織(NGO)合作，讓資料呈現給民眾時更容易看懂。
 
 The balancing act is ongoing: transparency to the public and other stakeholders versus the validity of the interpretation of the data. Perhaps even more important is the perception by department managers that others (including their own elected and appointed officials) do not understand their service area. Hence, some of the responses above show support for the managers’ concerns.
 平衡的行動也在進行中：例如對大眾及其他利害關係人的資訊透明，與對資料解釋的正確有效性之間的取捨。也許更值得一提的是，部會主管感受到的是，其他人(包括他們自己所選舉出來或指派的官員)並不了解他們的服務區域。因此，前述的某些回應也顯示出這些主管擔心之處。
@@ -286,8 +286,11 @@ Our company, Revelstone, has experienced these concerns with some of its custome
 本公司(Revelstone)，經歷過一些客戶的這些不安。我們的實務經驗是，領導層必須支持資料的重要性以及對服務區域的責任以形成資料對所有利害關係人的價值訴求。我們也在這四個訪談過的城市發現證據說明在對於作內部服務檢討和提供給利害關係人時，要提供不同的資料才能符合不同的需求。巴爾的摩，以促進頻繁的事務檢討為中心建立了成市統計的計畫，其對外部利害關係人報告的計畫期間最短。仍需要更多時間以確認與非政府組織的合作關係能否幫助大眾使用和解釋資料，否則在對社會大眾公告資料時仍需更進一步的將資料統整，並以更結果朝向的型態來呈現。
 
 #### Public Use Is Not Always Extensive
+#### 公眾使用不見得廣泛
 
 Most of the cities felt that the use of the data by the public was not extensive. Almost all of them recognized the challenge of presenting the data at a level of detail that would encourage use by the public. To accomplish this, they used dashboards, barometers, vital signs, and community indicators that were a small set of the detailed measures that were used for internal management. Each of these mechanisms focuses on metrics that are most important to the public. These cities are increasingly concerned with presenting the appropriate data to the public—both what they think is important and the level that will encourage the public to spend time learning about how their city is performing.
+
+
 
 One of the major challenges is to convert greater accessibility to data to greater participation and engagement by citizens. The maxim “Build it and they will come” does not apply here. The cities that we engaged with, which are among the most progressive in the arena of publicly accessible data about their municipal performance, recognize the work that needs to be done.
 

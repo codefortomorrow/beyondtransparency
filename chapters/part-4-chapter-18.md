@@ -293,6 +293,7 @@ Most of the cities felt that the use of the data by the public was not extensive
 大部份城市覺得大眾對資料的使用並不廣泛。它們幾乎都認為挑戰在於如何把資料以一個能激起大眾使用興趣的詳細程度來呈現。要達到這個水準，它們用了一些類似資料儀表板、氣壓計、活力指數、社群指數這類內管理的細節量測值的小組合。每一項機制都聚焦在對大眾最重要的數據上。這些城市愈來愈在乎將適當的資料呈現給大眾-包括大眾覺得什麼是重要的、以及多詳細的資料才會讓大眾感到有興趣，並願意花時間去讀這些資料，以了解城市的績效。
 
 One of the major challenges is to convert greater accessibility to data to greater participation and engagement by citizens. The maxim “Build it and they will come” does not apply here. The cities that we engaged with, which are among the most progressive in the arena of publicly accessible data about their municipal performance, recognize the work that needs to be done.
+有個主要的挑戰是，把資料更容易取得轉化成讓民眾更主動參與。「準備好，自然會發生」這句格言(譯按，見第20章有關電影夢幻成真的段落)在這並不適用。我們接觸過的這些城市，都是在公共資料開放實作的佼佼者，辦識了它們必得進行的工作。
 
 In addition to the efforts in these cities to increase public use of their data, there is support from a number of non-government organizations that are stakeholders in the increase in public transparency. Some of these organizations include the Governmental Accounting Standards Board (GASB), the Association of Government Accountants (AGA), and the Government Finance Officers Association (GFOA). Their work helps move best practices in public reporting more quickly to other cities and towns.
 

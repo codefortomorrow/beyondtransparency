@@ -304,6 +304,7 @@ The interest in performance reporting to citizens has grown in the last decade. 
 
 Other organizations promote similar guidelines for public reporting and make awards to local governments that effectively follow those guidelines. AGA does this through their Citizen-Centric Reporting Program. The National Center for Civic Innovation recognizes local governments that engage citizens in the performance reporting process. GFOA has put an increasing emphasis on performance management in its publications and recognizes it in its Awards for Excellence.
 
+
 #### Benefits of Public Performance Reporting
 
 The cities we talked to cite increased transparency as a benefit of public reporting. Bellevue believes it is the fact that they are transparent and a high-performing city that accounts for the light public use of the data.

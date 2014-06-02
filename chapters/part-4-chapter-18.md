@@ -309,8 +309,10 @@ Other organizations promote similar guidelines for public reporting and make awa
 #### 公眾績效報告的效益
 
 The cities we talked to cite increased transparency as a benefit of public reporting. Bellevue believes it is the fact that they are transparent and a high-performing city that accounts for the light public use of the data.
+以上談到的城市說明了增加資料透明度為公眾報告的效益。貝爾維尤(Bellevue)相信，輕量的公眾資料取用說明了它們是透明、高績效的城市。
 
 Most of the cities believe that performance data broadens the perspective of the citizen beyond anecdotes and what a citizen observed on a single occasion. Most of these cities also tie the performance data to the budget and state that doing so has enabled them to get public support for capital programs and increases in revenue generation when they were needed.
+大多城市相信，這些績效報告能將市民的觀點與視野從小道消息、或單一角度的觀察往外拓展。其中大多數的城市也將績效報告資料與預算綁在一起，並宣稱這樣能讓他們得到更多的群眾支持資本計畫和提高所需的收益。
 
 ### The Multiplier Effect: Inter-City Collaboration
 

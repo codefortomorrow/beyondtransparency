@@ -303,9 +303,10 @@ The interest in performance reporting to citizens has grown in the last decade. 
 過去十數年，對市民進行績效報告的效果逐漸展現。前述幾個機構協助地方政府提供有效的市政報告。在2010年6月，GASB(政府會計標準局)發表「自主報告準則建議書(Suggested Guidelines for Voluntary Reporting)」。這些準則建議被稱為「服務的功勞與苦勞績效報告(Service Efforts and Accomplishments, SEA Performance Reporting)」。根據GASB，政府存在的土要目的是透過服務以支持、維護和改善市民的福祉。
 
 Other organizations promote similar guidelines for public reporting and make awards to local governments that effectively follow those guidelines. AGA does this through their Citizen-Centric Reporting Program. The National Center for Civic Innovation recognizes local governments that engage citizens in the performance reporting process. GFOA has put an increasing emphasis on performance management in its publications and recognizes it in its Awards for Excellence.
-還有些其他組織為公開報告提出類似的指引，並且對依照準則發表公開施政報告的地方政府頒予獎項。
+還有些其他組織為公開報告提出類似的指引，並且對依照準則發表公開施政報告的地方政府頒予獎項。AGA在他們的「公民作主報告計畫(Citizen-Centric Reporting Program)」中執行這項工作。國家公民創新中心(the National Center for Civic Innovation)表揚讓市民參與績效報告過程的地方政府。GFOA也愈來愈重視其績效管理出版品，並透過它的卓越獎(Awards for Excellence)來表彰之。
 
 #### Benefits of Public Performance Reporting
+#### 公眾績效報告的效益
 
 The cities we talked to cite increased transparency as a benefit of public reporting. Bellevue believes it is the fact that they are transparent and a high-performing city that accounts for the light public use of the data.
 

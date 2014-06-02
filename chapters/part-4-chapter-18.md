@@ -300,6 +300,8 @@ In addition to the efforts in these cities to increase public use of their data,
 
 The interest in performance reporting to citizens has grown in the last decade. Several of the aforementioned organizations provide guidelines to help local governments provide effective public reporting. In June 2010, GASB issued “Suggested Guidelines for Voluntary Reporting.” These guidelines are termed SEA (Service Efforts and Accomplishments) Performance Reporting. According to GASB, the primary purpose of a government is to help maintain and improve the well being of its citizens by providing services.
 
+過去十數年，對市民進行績效報告的效果逐漸展現。前述幾個機構協助地方政府提供有效的市政報告。在2010年6月，GASB(政府會計標準局)發表「自主報告準則建議書(Suggested Guidelines for Voluntary Reporting)」。這些準則建議被稱為「服務的功勞與苦勞績效報告(Service Efforts and Accomplishments, SEA Performance Reporting)」。根據GASB，政府存在的土要目的是透過服務以支持、維護和改善市民的福祉。
+
 Other organizations promote similar guidelines for public reporting and make awards to local governments that effectively follow those guidelines. AGA does this through their Citizen-Centric Reporting Program. The National Center for Civic Innovation recognizes local governments that engage citizens in the performance reporting process. GFOA has put an increasing emphasis on performance management in its publications and recognizes it in its Awards for Excellence.
 
 #### Benefits of Public Performance Reporting

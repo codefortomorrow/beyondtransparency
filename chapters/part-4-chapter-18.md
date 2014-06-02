@@ -296,6 +296,8 @@ One of the major challenges is to convert greater accessibility to data to great
 有個主要的挑戰是，把資料更容易取得轉化成讓民眾更主動參與。「準備好，自然會發生」這句格言(譯按，見第20章有關電影夢幻成真的段落)在這並不適用。我們接觸過的這些城市，都是在公共資料開放實作的佼佼者，辦識了它們必得進行的工作。
 
 In addition to the efforts in these cities to increase public use of their data, there is support from a number of non-government organizations that are stakeholders in the increase in public transparency. Some of these organizations include the Governmental Accounting Standards Board (GASB), the Association of Government Accountants (AGA), and the Government Finance Officers Association (GFOA). Their work helps move best practices in public reporting more quickly to other cities and towns.
+除了這些城市為了增加資料公眾使用的努力外，還有許多來自同樣為公眾透明付出的非政府組織的支持。包括政府會計標準局(Governmental Accounting Standards Board, GASB)，政府會計師協會(the Association of Government Accountants, AGA)和政府財政官員協會(Government Finance Officers Association, GFOA)。
+
 
 The interest in performance reporting to citizens has grown in the last decade. Several of the aforementioned organizations provide guidelines to help local governments provide effective public reporting. In June 2010, GASB issued “Suggested Guidelines for Voluntary Reporting.” These guidelines are termed SEA (Service Efforts and Accomplishments) Performance Reporting. According to GASB, the primary purpose of a government is to help maintain and improve the well being of its citizens by providing services.
 

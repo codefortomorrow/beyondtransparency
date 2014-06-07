@@ -319,6 +319,8 @@ Most of the cities believe that performance data broadens the perspective of the
 
 Open data is about sharing and exposing information for the good of all. In the context of local government, this can be about more than just the relationship between cities and their citizens. There are over 39,000 counties, cities, and towns in the United States, along with another 37,000 special districts that run discrete operations, such as water and sewer, fire protection, airports, mass transit, business improvement, etc. Each of these entities working independently to establish goals and strategies, measure and review performance, and share their results with the public are certainly on the right track to managing better. Yet, imagine if they were able to harness their collective knowledge to help each other improve. What kinds of benefits could be achieved in a world where cities shared performance data and collaborated with each other to get better? We call it the “power of the network.”
 
+開放資料談的是所有分享和揭露資訊的好處。在地方政府的背境情況下，這可能不只是城市和其市民的關係。在美國共有超過 39,000的縣、市、城鎮，還有37,000個獨立運作的特區，如供水和排污，消防，機場，公共交通，和事務改善等。這些單位都獨立運作，建立目標、策略、績效評估和檢核，如果把他們的成果公開分享絕對是讓管理改善的正確作法。甚至，可以想像他們可以透過協同知識互助來讓改善作業。如果城市間能分享績效並協同互助讓彼此進步，世界會是什麼樣貌？我們稱這作：「網路的力量。」
+
 A good performance management system allows us to answer three basic questions:
 
 * How are we doing?

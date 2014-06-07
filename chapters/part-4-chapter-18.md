@@ -322,10 +322,15 @@ Open data is about sharing and exposing information for the good of all. In the 
 開放資料談的是所有分享和揭露資訊的好處。在地方政府的背境情況下，這可能不只是城市和其市民的關係。在美國共有超過 39,000的縣、市、城鎮，還有37,000個獨立運作的特區，如供水和排污，消防，機場，公共交通，和事務改善等。這些單位都獨立運作，建立目標、策略、績效評估和檢核，如果把他們的成果公開分享絕對是讓管理改善的正確作法。甚至，可以想像他們可以透過協同知識互助來讓改善作業。如果城市間能分享績效並協同互助讓彼此進步，世界會是什麼樣貌？我們稱這作：「網路的力量。」
 
 A good performance management system allows us to answer three basic questions:
+好的績效管理系統得讓我們回答以下三個問題：
 
 * How are we doing?
 * What could we be doing better?
 * How can we learn from our peers to improve?
+
+* 我們做得怎麼樣？
+* 哪個地方還可以更好？
+* 我們如何向同儕學習來讓自己進步？
 
 Up until this point, we have been primarily concerned with the process of local governments managing performance from an internal perspective. We’ve also discussed the requirements of any technology solution that enables the capture and reporting of performance data to occur. All of this helps us answer the first question, “How are we doing?” We can also begin answering the second question, “What could we be doing better?” by examining trends in our data—are we getting better or worse? So, how do we gain even better insight into the “what” question and follow that by answering the third question, so that we don’t have to reinvent the wheel ourselves? The answer lies in the two inter-jurisdictional collaborative facets of performance management—compare and learn.
 

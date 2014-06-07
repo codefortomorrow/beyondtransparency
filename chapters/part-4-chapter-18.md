@@ -334,6 +334,8 @@ A good performance management system allows us to answer three basic questions:
 
 Up until this point, we have been primarily concerned with the process of local governments managing performance from an internal perspective. We’ve also discussed the requirements of any technology solution that enables the capture and reporting of performance data to occur. All of this helps us answer the first question, “How are we doing?” We can also begin answering the second question, “What could we be doing better?” by examining trends in our data—are we getting better or worse? So, how do we gain even better insight into the “what” question and follow that by answering the third question, so that we don’t have to reinvent the wheel ourselves? The answer lies in the two inter-jurisdictional collaborative facets of performance management—compare and learn.
 
+直到此刻，我們有了對於地方政府內部管理績效之流程的初步想法。我們也討論了要擷取及報告績效資料所需之相關科技解決方案的需求。這些能幫助我們回答前面第一個問題：「我們做得怎麼樣？」例如，透過檢驗資料所呈現的趨勢，看出我們在進步或退步？那麼，我們要如何在這些資料中取得更進一步的洞察分析，來回答第二和第三個問題，而無需再從頭來過一次？答案就在績交管理的兩個交互協同面向：比較和學習。
+
 #### Compare
 
 By comparing our measures, we gain actionable information. In providing a context through comparison, we can assess whether we are doing well or not as well as we would like. There are a multitude of contexts and many ways to compare any measure. If we filled ten potholes, cleared ten crimes, or confined ten fires to the room of origin, are we doing well?

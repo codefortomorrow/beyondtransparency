@@ -319,7 +319,7 @@ Most of the cities believe that performance data broadens the perspective of the
 
 Open data is about sharing and exposing information for the good of all. In the context of local government, this can be about more than just the relationship between cities and their citizens. There are over 39,000 counties, cities, and towns in the United States, along with another 37,000 special districts that run discrete operations, such as water and sewer, fire protection, airports, mass transit, business improvement, etc. Each of these entities working independently to establish goals and strategies, measure and review performance, and share their results with the public are certainly on the right track to managing better. Yet, imagine if they were able to harness their collective knowledge to help each other improve. What kinds of benefits could be achieved in a world where cities shared performance data and collaborated with each other to get better? We call it the “power of the network.”
 
-開放資料談的是所有分享和揭露資訊的好處。在地方政府的背境情況下，這可能不只是城市和其市民的關係。在美國共有超過 39,000的縣、市、城鎮，還有37,000個獨立運作的特區，如供水和排污，消防，機場，公共交通，和事務改善等。這些單位都獨立運作，建立目標、策略、績效評估和檢核，如果把他們的成果公開分享絕對是讓管理改善的正確作法。甚至，可以想像他們可以透過協同知識互助來讓改善作業。如果城市間能分享績效並協同互助讓彼此進步，世界會是什麼樣貌？我們稱這作：「網路的力量。」
+開放資料談的是所有分享和揭露資訊的好處。在地方政府的背境情況下，這可能不只是城市和其市民的關係。在美國共有超過 39,000的縣、市、城鎮，還有37,000個獨立運作的特區，如供水和排污，消防，機場，公共交通，和事務改善等。這些單位都獨立運作，建立目標、策略、績效評估和檢核，如果把他們的績效成果公開分享絕對是讓管理改善的正確作法。甚至，可以想像他們可以透過協同知識互助來讓改善作業。如果城市間能分享績效並協同互助讓彼此進步，世界將會是什麼樣貌？我們稱這為：「網路的力量。」
 
 A good performance management system allows us to answer three basic questions:
 好的績效管理系統得讓我們回答以下三個問題：
@@ -329,12 +329,12 @@ A good performance management system allows us to answer three basic questions:
 * How can we learn from our peers to improve?
 
 * 我們做得怎麼樣？
-* 哪個地方還可以更好？
+* 哪些地方還可以更好？
 * 我們如何向同儕學習來讓自己進步？
 
 Up until this point, we have been primarily concerned with the process of local governments managing performance from an internal perspective. We’ve also discussed the requirements of any technology solution that enables the capture and reporting of performance data to occur. All of this helps us answer the first question, “How are we doing?” We can also begin answering the second question, “What could we be doing better?” by examining trends in our data—are we getting better or worse? So, how do we gain even better insight into the “what” question and follow that by answering the third question, so that we don’t have to reinvent the wheel ourselves? The answer lies in the two inter-jurisdictional collaborative facets of performance management—compare and learn.
 
-直到此刻，我們有了對於地方政府內部管理績效之流程的初步想法。我們也討論了要擷取及報告績效資料所需之相關科技解決方案的需求。這些能幫助我們回答前面第一個問題：「我們做得怎麼樣？」例如，透過檢驗資料所呈現的趨勢，看出我們在進步或退步？那麼，我們要如何在這些資料中取得更進一步的洞察分析，來回答第二和第三個問題，而無需再從頭來過一次？答案就在績交管理的兩個交互協同面向：比較和學習。
+直到此刻，我們有了對於地方政府內部管理績效之流程的初步想法。我們也討論了要擷取及報告績效資料所需之相關科技解決方案的需求。這些能幫助我們回答前面第一個問題：「我們做得怎麼樣？」例如，透過檢驗資料所呈現的趨勢，看出我們在進步或退步？那麼，我們要如何在這些資料中取得更進一步的洞察分析，來回答第二和第三個問題，而無需再從頭來過一次？答案就在藏績效管理的兩個交互協同面向：比較和學習。
 
 #### Compare
 

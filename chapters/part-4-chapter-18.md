@@ -367,7 +367,7 @@ It is important to compare to like peers, that is, other cities that share chara
 
 Proactive management does more than just comparing current performance after the fact. It motivates better performance and sets goals (through performance targets). By comparing performance to targets defined beforehand, management is acting by making a statement about the performance level that is desired. Targets, if they are reported publicly, are a commitment to your citizens.
 
-主動管理必須做得比只是把「當前績效做做比較」還要更多。它還得推動更好的績效以及(透過短程績效目標)設定長程目標。透過將績效與先前設定的目標做比較，績效管理才能基於預期的績效水準採取行動。目標一旦公開的報告，便是對市民的承諾。
+主動管理必須做得比只是把「當前績效作作比較」還要更多。它還得推動更好的績效以及(透過短程績效目標)設定長程目標。透過將績效與先前設定的目標做比較，績效管理才能基於預期的績效水準採取行動。目標一旦公開的報告，便是對市民的承諾。
 
 Both temporal and inter-jurisdictional comparisons inform the setting of targets. Anticipated changes in your workload, changes in resources available for the service, and your managerial initiatives, do this as well. To complete the performance improvement cycle, the performance measures are compared to these managerial targets, and the differences are analyzed and reviewed to initiate the third step of the performance management process, which is learning what can be done.
 

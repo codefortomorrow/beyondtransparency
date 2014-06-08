@@ -362,12 +362,16 @@ It is important to compare to like peers, that is, other cities that share chara
 重要的是要和同儕相比，例如其他有分享和你自主評估項目類似特徵的城市。這些特徵可以是基於人口結構的統計，例如人口數、土地面積、或中產家庭收入。我們傾向使用人口結構是因為這項指標會和提供持定服務時所需要的工作量有關。在一些案例中，我們也可以找到同儕間採用相同的服務有相同的特徵，且其更直接與提供服務所需的工作量相關聯。例如，固體廢棄物收集站的數目。服務特徵所反應的服務水準應與特徵相同的其他同儕比較。每週兩次固體廢棄物收集的服務提供者一般不應該拿來與每週只有一次的服務提供者比較。
 
 ##### Comparisons to Targets
-##### 目標比較
+##### 與目標比較
 
 
 Proactive management does more than just comparing current performance after the fact. It motivates better performance and sets goals (through performance targets). By comparing performance to targets defined beforehand, management is acting by making a statement about the performance level that is desired. Targets, if they are reported publicly, are a commitment to your citizens.
 
+主動管理必須做得比只是把「當前績效做做比較」還要更多。它還得推動更好的績效以及(透過短程績效目標)設定長程目標。透過將績效與先前設定的目標做比較，績效管理才能基於預期的績效水準採取行動。目標一旦公開的報告，便是對市民的承諾。
+
 Both temporal and inter-jurisdictional comparisons inform the setting of targets. Anticipated changes in your workload, changes in resources available for the service, and your managerial initiatives, do this as well. To complete the performance improvement cycle, the performance measures are compared to these managerial targets, and the differences are analyzed and reviewed to initiate the third step of the performance management process, which is learning what can be done.
+
+時間比較和跨區比較都改變目標設定。工作量的預期變化，服務可用的資源改變、和管理措施都有一樣的效果。要完成績效管理的循環，績效量測必須和這些管理目標做比較，其落差也需被分析和檢討，才能啟動績效管理的第三個流程：學習要做什麼？
 
 #### Learn
 

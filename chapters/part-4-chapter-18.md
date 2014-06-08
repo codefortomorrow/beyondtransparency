@@ -359,7 +359,7 @@ An enhancement to simply seeing if you are doing better is seeing if you are doi
 
 It is important to compare to like peers, that is, other cities that share characteristics related to what you are measuring. These characteristics can be demographic, such as population, land area, or median household income. We look for like demographics because they are correlated with the workload that is encountered when delivering a particular service. In some cases, we can also find like peers by considering service characteristics, which are more directly related to the workload to deliver the service. An example is the number of collection stops for solid waste collection. Service characteristics that reflect the level of service provided also help find like peers. Providers of twice-a-week solid waste collection would not typically be compared to once-a-week collectors.
 
-
+重要的是要和同儕相比，例如其他有分享和你自主評估項目類似特徵的城市。這些特徵可以是基於人口結構的統計，例如人口數、土地面積、或中產家庭收入。我們傾向使用人口結構是因為這項指標會和提供持定服務時所需要的工作量有關。在一些案例中，我們也可以找到同儕間採用相同的服務有相同的特徵，且其更直接與提供服務所需的工作量相關聯。例如，固體廢棄物收集站的數目。服務特徵所反應的服務水準應與特徵相同的其他同儕比較。每週兩次固體廢棄物收集的服務提供者一般不應該拿來與每週只有一次的服務提供者比較。
 
 ##### Comparisons to Targets
 ##### 目標比較

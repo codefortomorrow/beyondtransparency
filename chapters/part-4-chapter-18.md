@@ -348,10 +348,13 @@ By comparing our measures, we gain actionable information. In providing a contex
 
 The most common context for comparison is to what we normally do, whether normal is defined as last month, the same time last year, or a seasonally adjusted index. All of these are known as temporal comparisons or comparisons over time. These comparisons are available to any government that routinely collects the same data and uses it to monitor its performance. It provides powerful information to see if you are doing better or not.
 
+最常拿來比較的資訊脈絡是我們通常在做什麼。而「通常」定義為上個月、去年同時期、或是以季節調整的指標。這些都是時間比較或是跨時間的比較。這些比較對任何有定期收集資料來監控績效的政府機構都容易取得，而且對於想檢視自己做得好不好能提供有力的資訊。
+
 ##### Peer Comparisons
 ##### 同儕比較
 
 An enhancement to simply seeing if you are doing better is seeing if you are doing as well as others. “Benchmarking” is the comparison of our own measures to the same measures in other jurisdictions and falls under the term inter-jurisdictional comparisons. Benchmarks can tell us whether our performance is better than most others who are doing the same thing or whether it needs improvement just to get in the game.
+
 
 It is important to compare to like peers, that is, other cities that share characteristics related to what you are measuring. These characteristics can be demographic, such as population, land area, or median household income. We look for like demographics because they are correlated with the workload that is encountered when delivering a particular service. In some cases, we can also find like peers by considering service characteristics, which are more directly related to the workload to deliver the service. An example is the number of collection stops for solid waste collection. Service characteristics that reflect the level of service provided also help find like peers. Providers of twice-a-week solid waste collection would not typically be compared to once-a-week collectors.
 

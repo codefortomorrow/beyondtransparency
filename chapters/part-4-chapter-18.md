@@ -337,20 +337,27 @@ Up until this point, we have been primarily concerned with the process of local 
 直到此刻，我們有了對於地方政府內部管理績效之流程的初步想法。我們也討論了要擷取及報告績效資料所需之相關科技解決方案的需求。這些能幫助我們回答前面第一個問題：「我們做得怎麼樣？」例如，透過檢驗資料所呈現的趨勢，看出我們在進步或退步？那麼，我們要如何在這些資料中取得更進一步的洞察分析，來回答第二和第三個問題，而無需再從頭來過一次？答案就在藏績效管理的兩個交互協同面向：比較和學習。
 
 #### Compare
+#### 比較
 
 By comparing our measures, we gain actionable information. In providing a context through comparison, we can assess whether we are doing well or not as well as we would like. There are a multitude of contexts and many ways to compare any measure. If we filled ten potholes, cleared ten crimes, or confined ten fires to the room of origin, are we doing well?
 
+透過比較量測結果，我們能獲得可操作的資訊。經由比較來提供脈絡背景，讓我們得以如期地評估自已表現好壞。有各式各樣的脈絡資料，以及對各種量測的比較方法。假如填平了路上的10個洞、掃除了10項犯罪行為、把火場的火勢控制在起火點周圍的10個房間之內，這樣的表現算好還是不好？？
+
 ##### Temporal Comparisons
+##### 時間比較
 
 The most common context for comparison is to what we normally do, whether normal is defined as last month, the same time last year, or a seasonally adjusted index. All of these are known as temporal comparisons or comparisons over time. These comparisons are available to any government that routinely collects the same data and uses it to monitor its performance. It provides powerful information to see if you are doing better or not.
 
 ##### Peer Comparisons
+##### 同儕比較
 
 An enhancement to simply seeing if you are doing better is seeing if you are doing as well as others. “Benchmarking” is the comparison of our own measures to the same measures in other jurisdictions and falls under the term inter-jurisdictional comparisons. Benchmarks can tell us whether our performance is better than most others who are doing the same thing or whether it needs improvement just to get in the game.
 
 It is important to compare to like peers, that is, other cities that share characteristics related to what you are measuring. These characteristics can be demographic, such as population, land area, or median household income. We look for like demographics because they are correlated with the workload that is encountered when delivering a particular service. In some cases, we can also find like peers by considering service characteristics, which are more directly related to the workload to deliver the service. An example is the number of collection stops for solid waste collection. Service characteristics that reflect the level of service provided also help find like peers. Providers of twice-a-week solid waste collection would not typically be compared to once-a-week collectors.
 
 ##### Comparisons to Targets
+##### 目標比較
+
 
 Proactive management does more than just comparing current performance after the fact. It motivates better performance and sets goals (through performance targets). By comparing performance to targets defined beforehand, management is acting by making a statement about the performance level that is desired. Targets, if they are reported publicly, are a commitment to your citizens.
 

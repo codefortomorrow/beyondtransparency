@@ -371,10 +371,10 @@ Proactive management does more than just comparing current performance after the
 
 Both temporal and inter-jurisdictional comparisons inform the setting of targets. Anticipated changes in your workload, changes in resources available for the service, and your managerial initiatives, do this as well. To complete the performance improvement cycle, the performance measures are compared to these managerial targets, and the differences are analyzed and reviewed to initiate the third step of the performance management process, which is learning what can be done.
 
-時間比較和跨區比較都改變目標設定。工作量的預期變化，服務可用的資源改變、和管理措施都有一樣的效果。要完成績效管理的循環，績效量測必須和這些管理目標做比較，其落差也需被分析和檢討，才能啟動績效管理的第三個流程：學習要做什麼？
+時間比較和跨區比較都改變目標設定。工作量的預期變化，服務可用的資源改變、和管理措施都有一樣的效果。要完成績效管理的循環，績效量測必須和這些管理目標做比較，其落差也需被分析和檢討，才能啟動績效管理的第三個流程：學習如何進步？
 
 #### Learn
-
+#### 學習
 The next step is discovering what you can do, based on your measures and comparisons, in order to achieve improvement. If you have set managerial targets, the stage is set to learn, particularly in areas (and for measures) where the targets have not been achieved. The management team for each service area learns through internal discussions of the expectations versus the actual performance. Were the expectations inappropriate? Were expected resources not available? Did conditions change unexpectedly? Is something else required that has not been accounted for?
 
 The review by a management team is very important and can keep performance on track, accessing just the knowledge of that team, but if you are benchmarking against other jurisdictions, you may be able to learn techniques and approaches that the internal team cannot envision. Technology has started to improve the effectiveness of this external learning, but there is even greater potential. We have seen the acceleration of the ability to spread improved techniques through email listservs of a community of colleagues, but the potential offered by combining context-specific data with social networking technologies offers the promise of practical and efficient capabilities to learn from others.

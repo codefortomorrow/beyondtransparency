@@ -375,7 +375,10 @@ Both temporal and inter-jurisdictional comparisons inform the setting of targets
 
 #### Learn
 #### 學習
+
 The next step is discovering what you can do, based on your measures and comparisons, in order to achieve improvement. If you have set managerial targets, the stage is set to learn, particularly in areas (and for measures) where the targets have not been achieved. The management team for each service area learns through internal discussions of the expectations versus the actual performance. Were the expectations inappropriate? Were expected resources not available? Did conditions change unexpectedly? Is something else required that has not been accounted for?
+
+下一步，是基於你的績效和比較來探索你可以做些什麼來達成進步。如果你已設定了管理目標，該階段是在設定為特定某些未達目標績效領域的學習。每個服務區的管理團隊透過內部討論績效差異來學習。期望是合適的嗎？所需的資源到位嗎？條件是不是發生不預期的變化？是否還有其他需求沒被考慮到？
 
 The review by a management team is very important and can keep performance on track, accessing just the knowledge of that team, but if you are benchmarking against other jurisdictions, you may be able to learn techniques and approaches that the internal team cannot envision. Technology has started to improve the effectiveness of this external learning, but there is even greater potential. We have seen the acceleration of the ability to spread improved techniques through email listservs of a community of colleagues, but the potential offered by combining context-specific data with social networking technologies offers the promise of practical and efficient capabilities to learn from others.
 

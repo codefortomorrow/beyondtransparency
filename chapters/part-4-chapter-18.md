@@ -382,6 +382,8 @@ The next step is discovering what you can do, based on your measures and compari
 
 The review by a management team is very important and can keep performance on track, accessing just the knowledge of that team, but if you are benchmarking against other jurisdictions, you may be able to learn techniques and approaches that the internal team cannot envision. Technology has started to improve the effectiveness of this external learning, but there is even greater potential. We have seen the acceleration of the ability to spread improved techniques through email listservs of a community of colleagues, but the potential offered by combining context-specific data with social networking technologies offers the promise of practical and efficient capabilities to learn from others.
 
+管理團隊的檢討的重要性在於確保績效表現照著規劃走。更進一步，如果不只依靠內部團隊的知識，而向其他地區學習，你才能學到其他技巧或方法論。科技已經開始強化這種外部學習的成效，但還有更大的空間。例如：社區或大學內透過電子郵件來快速散播改進技巧，但如果能把實際資料和社群網路結合在一起散佈，更能可靠地提供這些務實的同儕學習。
+
 ### Towards Performance-Based Collaboration
 
 At Revelstone, we built an online performance platform, Compass, with these three elements of the performance management challenge in mind—measure, compare, and learn. We think tools like this, which allow cities to collaborate through performance benchmarking and peer-to-peer learning, are the future of the government-to-government movement. When we first embarked on this journey of performance-based collaboration, we expected that municipal leaders would want to see how well they were doing in comparison to others. However, we assumed they’d be reticent to expose themselves and, therefore, would want to participate in the process anonymously.

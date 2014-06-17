@@ -397,9 +397,11 @@ To the contrary, we discovered a specific desire for people to identify themselv
 
 Will the need for improved performance drive local government leaders to expose their data to the public, or will the open data movement influence the culture of government to be more transparent and engage with the public to its benefit? Perhaps both. Either way, change is coming. It already has been demonstrated in larger cities, in some cases for decades. Now, advancements in technology are enabling smaller cities and towns to participate in the open data movement as well. These trends are also fostering a virtual community of municipalities that are the forerunners of the gov-to-gov movement. They are collaborating with peers to gain valuable context with respect to their performance and learn from each other to improve. We should expect to see accelerated participation as the viral effect begins to surface: “Hey, you should be doing this too, so I can learn from you and you can learn from me.”
 
-究竟是提高績效的需求驅動地方政府首長公開揭露他們的資料，或是開放資料運動影響政府文化主動更透明地接觸大眾？
+究竟是提高績效的需求驅動地方政府首長公開揭露他們的資料，或是開放資料運動影響政府的文化而主動地透明接觸大眾？也許兩者都是吧。不論如何，改變都已發生。近十數年來，在數個大城市已經看到實例了。如今，科技的進步讓小型的城鎮也得以參與開放資料的運動。這些趨勢也在先行城市間孕育了一個政府對政府的虛擬社群。它們彼此合作來獲取和績效有關的高價值資料脈絡，並互相學習、進步。我們可以預見病毒式擴散開發後的加速發展：「嘿，你也應該加入我們，那我們才能一起向對方學習。」
 
 It is time for cities to embrace openness, transparency, and engagement, create a closer relationship with their citizens, and help improve their quality of life. In order to maximize impact, they should leverage each other in the process, taking advantage of the power of the network to drive learning, collaboration, and improved outcomes for all. The open data movement is here. “It’ll shake your windows and rattle your halls.”
+
+
 
 ### About the Authors
 

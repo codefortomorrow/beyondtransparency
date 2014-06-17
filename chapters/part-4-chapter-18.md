@@ -401,9 +401,10 @@ Will the need for improved performance drive local government leaders to expose 
 
 It is time for cities to embrace openness, transparency, and engagement, create a closer relationship with their citizens, and help improve their quality of life. In order to maximize impact, they should leverage each other in the process, taking advantage of the power of the network to drive learning, collaboration, and improved outcomes for all. The open data movement is here. “It’ll shake your windows and rattle your halls.”
 
-
+是時候讓城市擁抱開放、透明和與市民進一步接觸並建立更緊密的關係，以促進市民的生活品質了。為了讓衝擊最大化，他們應該在過程中互相借勢，運用網路力量的優勢來加速學習、協同和改善成果。這就是開放資料運動。「它將震動民眾的窗戶、撼動市政大廳。」
 
 ### About the Authors
+### 關於作者
 
 As President and CEO of Revelstone, Ken Wolf is the guiding force behind Revelstone’s vision to bring a low cost and easy-to-use performance management platform to local governments. With nearly 20 years in the technology industry, Ken has a solid track record of building market-leading businesses and high performing teams. Prior to launching Revelstone, Ken conceived and established Revelwood, a performance management consultancy, more than 15 years ago. Ken is a Certified Public Accountant and received a Bachelor of Science degree in Economics with a specialization in Accounting from the Wharton School of the University of Pennsylvania.
 

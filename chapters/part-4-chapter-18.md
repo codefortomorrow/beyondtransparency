@@ -408,9 +408,14 @@ It is time for cities to embrace openness, transparency, and engagement, create 
 
 As President and CEO of Revelstone, Ken Wolf is the guiding force behind Revelstone’s vision to bring a low cost and easy-to-use performance management platform to local governments. With nearly 20 years in the technology industry, Ken has a solid track record of building market-leading businesses and high performing teams. Prior to launching Revelstone, Ken conceived and established Revelwood, a performance management consultancy, more than 15 years ago. Ken is a Certified Public Accountant and received a Bachelor of Science degree in Economics with a specialization in Accounting from the Wharton School of the University of Pennsylvania.
 
+身兼Revelstone的董事長及總經理，Ken Wolf是Revelstone替地方政府帶來低成本、簡易使用的績效管理平台的幕後推手。近20年在科技產業的經驗，Ken在建立領導市場的企業和高績效團體有很紮實的成果。在成立Revelstone的15年前，ken構思並建立了Revelwood，一家績效管理顧問公司。Ken同時是註冊會師，並在賓夕法尼亞大學沃頓商學院取得經濟學士學位，並專精會計。
+
 John Fry is the Program Director for Government Solutions at Revelstone and utilizes his experience of over twenty years in local government to guide the development of content focused on the needs of government. His diverse career includes being a municipal administrator and consulting on municipal efficiency, emphasizing the techniques of performance management and shared services. His education in data, research and computing led to his work in at the Fund for the City of New York, where he implemented the first performance management system in New York City, Project Scorecard.
 
+John Fry是Revelstone的政府解決方案計畫處長，並有超過20年的經驗專注在指導地方政府依需求建立內容。他多元的事業還包括市政管理和市政效率顧問，特別是績效管理技術共享服務。他在資料和資訊的教育和研究引領他進入紐約市基金會的工作，並在其建立了他的第一套績效管理系統：紐約市的計分卡計畫。
+
 ### References
+### 參考資料
 
 Governmental Accounting Standards Board. (2010). Suggested Guidelines for Voluntary Reporting of SEA Performance Information. Washington, DC.
 [Tetherless World Constellation International (2013). Open Government Dataset Search. Retrieved from http://logd.tw.rpi.edu/iogds_data_analytics](http://logd.tw.rpi.edu/iogds_data_analytics)

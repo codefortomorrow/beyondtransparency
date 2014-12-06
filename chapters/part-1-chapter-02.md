@@ -19,8 +19,9 @@ Before I joined Chicago’s government administration, I knew very little about 
 
 在我加入在芝加哥市政管理中心之前，我對於公開資料的認知並不多。雖然當時我已經埋頭於資料分析的領域許久，但我並沒有實質了解公開資料中所對於”公開”的概念，事實上，當時因為當時我正要去芝加哥警局的反恐和情報組服務，公開資料在此似乎又不是有那麼直接的關係(開放的數據似乎完全反直覺的。所以當新任市長伊曼紐爾的市政籌組團隊找我討論並且籌措芝加哥市的公開資料計畫，對此我不得不去網路上簡單花些功夫研究一下。
 
-
 During the mayoral campaign, Mayor Emanuel had held an event at Microsoft that highlighted the importance of open government, citing open data at the heart of his vision for a more transparent Chicago. The mayor then asked me to serve as the city’s first Chief Data Officer (CDO) and to implement his vision of a more transparent government that not only makes its data available to the public, but also uses data analysis as a tool to inform policy and improve services.
+
+在市長競選其間，市長 Emanuel 曾在微軟舉辦一個活動，突出政務公開的重要性，在引用他的視野的心臟開放數據進行更透明的芝加哥。市長然後問我，作為全市首個首席數據官（CDO），並實現了一個更透明的政府，不僅使得它的數據提供給公眾的視野，而且還採用了數據分析作為一種工具來告知政策完善的服務。
 
 The new administration started on May 16, 2011, with open data as a top priority from day one. The weekend prior, the policy group had gathered to discuss the strategy for the first hundred days and open data was listed as an early goal. My mission was to take the bones of the city’s existing program and make it a cornerstone of the city’s transparency initiatives. My first step was to assess what existed and then decide where I wanted to take the vision and direction as the CDO for the City of Chicago.
 

@@ -19,7 +19,6 @@ permalink: /part-5/new-thinking-in-how-governments-deliver-services/
 
 ### Introduction
 ### 簡介
-
 Open data programs provide a number of important benefits for governments and the citizens they serve. At the most basic level, these programs provide important insights into government activities—a fundamental ingredient for a well-operating democracy.
 
 開放資料計畫提供政府和其所服務的市民許多重大的效益。從最基本層面說起，這些計畫為政府運作提供了重要的啟示 - 良好民主運作的基本元素。
@@ -30,14 +29,14 @@ In addition to enhanced government transparency, these programs also provide a m
 
 ### Unlocking the Power of Open Data
 ### 解放開放資料的力量
-
 The concept of “government as a platform”—an idea best, and most famously, articulated by Tim O’Reilly (2010), the founder of O’Reilly Media and a leading proponent of free-software and open source movements—often references the iPhone as an example of a platform done well. The decision in 2008 by Apple chief executive Steve Jobs to allow independent developers to build apps that would work on the iPhone “platform” has made the now ubiquitous device the success that it is. As noted in a 2012 *New York Times* article by David Streitfeld:
 
 Tim O'Reilly (2010) - O'Reilly Media創始人，同時為免費軟體與開源運動的推動者 - 提出"政府即平台"的概念。iPhone經常被拿來當一個好平台的典範。2008年由蘋果執行長Steve Jobs決定要讓各自獨立的開發者所開放的App都能在iPhone平台上運作，造成了現在iPhone無所不在的成功。一如2012年New York Times中David Streitfeld的文章中提到：
 
+
 > The App Store opened in July 2008 with 500 apps. In an interview, Mr. Jobs laid bare the company’s goal: “Sell more iPhones.” Thanks to the multitude of apps, the goal came to pass. More iPhones... were sold in the next three months than in the entire previous year, and that was just the beginning of the ascent. (Streitfeld, 2012)
 
-> App Store在2008年7月剛開放時只有500個app。在一次訪談中，Jobs先生揭露了公司目標："再賣更多iPhone！"。感謝這些App，這個目標達成了。在接下來三個月，iPhone的銷售量比過去一整年還多，而那只是iPhone熱潮的起點。
+>App Store在2008年7月剛開放時只有500個app。在一次訪談中，Jobs先生揭露了公司目標："再賣更多iPhone！"。感謝這些App，這個目標達成了。在接下來三個月，iPhone的銷售量比過去一整年還多，而那只是iPhone熱潮的起點。
 
 The idea of turning a phone into an application platform has since been copied by other hardware and software companies, and it has informed the idea of turning government itself into a platform. Providing public access to government data in machine-readable formats (i.e., open data) is the foundation of the efforts being taken by governments around the world. They are essentially copying Apple’s approach to stimulate innovative new apps and ideas that can run on their government “platform.”
 
@@ -55,7 +54,7 @@ This kind of change in government can be long, complex, and fraught with risks. 
 
 > 開放資料的倡行，瓦解了傳統上政府做為資料管理員和資料擁有者的角色。思考開放資料的政府服務時，我們需要重新定位政府與整個生態鏈的角色。一種可能是把政府和其他生態鏈上的關係人都一樣視為是資料的管理員這個角色。
 
-The clearest example of how open government data can be used to encourage the development of useful new applications comes from the world of public transit. There are numerous examples of applications built using transit data released by governments with the GTFS specification, which is an open data format initially developed by Google in cooperation with Portland, Oregon’s public transit agency. While initially designed to allow easy integration of transit data into the Google platform, the GTFS data specification has spawned a cottage industry of new transit apps. Websites like citygoround.org list hundreds of transit apps, many built using GTFS data.
+The clearest example of how open government data can be used to encourage the development of useful new applications comes from the world of public transit. There are numerous examples of applications built using transit data released by governments with the GTFS specification, which is an open data format initially developed by Google in cooperation with Portland, Oregon’s public transit agency. While initially designed to allow easy integration of transit data into the Google platform, the GTFS data specification has spawned a cottage industry of new transit apps. Websites like citygoround.org list hundreds of transit apps, many built using GTFS data.
 
 大眾運輸是開放政府資料能鼓勵創新應用服務發展的好例子。很多應用的例子是基於政府開放的運輸資料和GTFS規格(一種由Google和Portland Oregon的大眾運輸公司共同制定的開放資料格式)所發展出來的。最早GTFS的設計理念是為了要能容易地把交通資料整合進Google的平台，後來GTFS居然造就了一些創新的交通類App產業。citygoround.org這類型的網站列出了上百個交通類App，大多都是其於GTFS資料所開發的。
 
@@ -64,7 +63,6 @@ These applications have fundamentally changed the way that riders on public tran
 這些應用軟體從根本上改變了乘客在大眾運輸系統中使用資料的行為模式，也改變了大眾運輸公司在軟體發展上的角色。在過去，大眾運輸公司得一手包辦從設計、開發、到提供App給乘客全部工作，而且有許多公司還是在走這樣的模式。然而，逐漸有大眾運輸公司不再開發這類型的客戶App，而改由讓一些透過GTFS開放資料所產生的新的App市場去滿足乘客的需求。
 
 In addition, some transit agencies—like the Southeastern Pennsylvania Transportation Authority, which serves the Philadelphia area—are now actively advertising apps built by independent developers to their riders.
-
 甚至，有些大眾運輸公司-例如東南賓夕凡尼亞運輸公司-甚至還幫某些個體開發者所開發的App打廣告，因為這些App的服務對象是這家公司服務區域的乘客。
 
 ### Beyond Public Transit: The Limits of Open Data
@@ -72,15 +70,16 @@ In addition, some transit agencies—like the Southeastern Pennsylvania Transpor
 
 
 This fundamental shift away from government as the sole solution provider to a data steward is now taking hold outside the world of transit data, fostering the growth of new ideas and solutions.
+把政府從資料方案唯一提供者的角色轉化為資料管理員的這種根本的改變，目前已在大眾運輸之外的領域帶來更多的成果，而且持續帶動更多新想法和新應用的成長。
 
 把政府從資料方案唯一提供者的角色轉化為資料管理員的這種根本的改變，目前已在大眾運輸之外的領域帶來更多的成果，而且持續帶動更多新想法和新應用的成長。
 
 Leveraging open data to encourage the development of useful applications and services holds many benefits for governments. With this approach, new ways of building software and deploying solutions are developed without them having to make bets on specific technologies (something that governments do not do well). Independent developers operating outside of the normal government procurement process are often better positioned to leverage new advances in app development or service deployment.
+借助開放資料的力量來鼓勵發展有用的應用服務，對政府而言有許多利益。採用這個方法，新發展出來的軟體和服務方案不需要政府來制定最好的規格或技術(其實政府也不太擅長)。不在政府採購流程下運作的獨立開發者就能夠有更好的態勢和基礎來發展創新應用服務。
 
 借助開放資料的力量來鼓勵發展有用的應用服務，對政府而言有許多利益。採用這個方法，新發展出來的軟體和服務方案不需要政府來制定最好的規格或技術(其實政府也不太擅長)。不在政府採購流程下運作的獨立開發者就能夠有更好的態勢和基礎來發展創新應用服務。
 
 Open government data is one way that governments can, in a sense, go around the traditional procurement process to encourage the development of useful software. However, this approach does have some limitations. Implicit in the idea of open data is the fact that governments can’t dictate what users of the data actually do with it (provided they don’t misrepresent the data or otherwise violate terms of use). Publishing open data and engaging outside developers can be a less-than-effective strategy if governments hope to achieve the development of specific tools or solutions.
-
 透過公開政府資料，政府能夠走傳統採購流程以外的方式來鼓勵民間開發有用的軟體。然而，這種方法也的確有一些限制。開發資料的概念，隱含了政府不能預先決定使用者會把這些資料拿來做什麼運用(假定他們不會扭曲資料、或是做出其他違反條款的事)。意即，如果政府想要指定某種工具或解決方案的明確規格，那麼透過開放資料來與外部的開發者合作，反而會是低效益的作法。
 
 The open data approachs best to generate emergent (rather than prescriptive), customer-facing applications that are related to particular kinds of data that have established communities or constituencies of enthusiasts (like transit data). Releasing open data and engaging outside developers to organically develop solutions is not the right approach for the development of all government IT systems. For example, this would be less than ideal for the development of a back-end accounting or financial management system, which requires specialized knowledge of government processes and would likely need to be built to exacting specifications. When governments have specific needs or detailed requirements for how a solution or app should be built and operated, standard government procurement is probably a better way to acquire this technology than hackathons or apps contests.
@@ -93,7 +92,6 @@ However, the government procurement process as it exists today is not ideal for 
 
 ### Looking Ahead: Three Hard Truths for Government Procurement Reform
 ### 展望未來：三項政府改革採購流程所必須面對的嚴峻挑戰
-
 Advancing the innovation agenda within government often means confronting the harsh reality of the government procurement process. This is not a new problem, and there are a number of initiatives underway in governments around the country aimed at “streamlining” or “overhauling” the government procurement process to support the acquisition of new technologies and projects that engage smaller and more nimble companies with new solutions.
 
 在政府內推動創新通常代表要面對嚴苛政府採購流程。這是由來已久的問題，全國各地有很多針對政府採購流程"效率化"或"全面診斷"的議案正在進行中，未來才能有一些較敏捷的小公司也可以進入政府的採購程序來提供新科技或導入專案。
@@ -151,14 +149,13 @@ Efforts to overhaul or streamline the procurement process will undoubtedly run u
 
 #### Nimbler Doesn’t Always Mean Better
 #### 靈活不一定比較好
-
 The great myth in government IT is that the private sector is always way ahead of the public sector in how technology is used.
 
 在政府內對資訊科技有個大迷思：對於科技如何使用的議題，私部門總是跑在公部門之前。
 
 In between two tours of duty in state and local government, I spent about ten years in the private sector working for both large and small technology firms. Before joining Code for America as Director of Government Relations in 2011, I worked for four different technology companies headquartered in places as different as Horsham, Pennsylvania; Blacksburg, Virginia; and San Francisco, California. I learned a lot about technology and how to be a software developer during this time, but I also learned that—as far as technology is concerned—the grass is not always greener on the other side.
 
-在洲政府和地方政府兩段工作之間，一共有10年時間，我分別在大型和小型的私人科技公司工作過。在2011年加入Code for America作為政府關係負責人之前，我分別在以下地點共四家不同的科技的公司總部工作：賓夕法尼亞州的和盛鎮(Horsham)。維吉尼亞州的黑堡鎮、加州的舊金山。
+在州政府和地方政府兩段工作之間，一共有10年時間，我分別在大型和小型的私人科技公司工作過。在2011年加入Code for America作為政府關係負責人之前，我分別在以下地點共四家不同的科技的公司總部工作：賓夕法尼亞州的和盛鎮(Horsham)。維吉尼亞州的黑堡鎮、加州的舊金山。
 這段期間我學了很多關於技術和軟體開發的技能，但我更學到了：談到技術的領域時，並沒有外國的月亮比較圓這回事。
 
 There are plenty of examples of poor technology decisions in the private sector. We just hear about them less often because they are usually not a matter of public record or visible to the public through a budget submission or legislative hearing.
@@ -222,7 +219,6 @@ Governments need to place an emphasis on recruiting and hiring people who have e
 
 ### Conclusion
 ### 結論
-
 Government open data programs and the independent apps they help generate provide tremendously helpful ways of fostering new approaches to old problems. They also support the application of new technologies and app development strategies for delivering public services.
 
 政府開放資料計畫以及相關的衍生獨立App對解決老問題時，提供很多有用的新方法。而且也支持了新技術的應用、並提供公共服務的App發展。
@@ -248,9 +244,10 @@ Mark Headd是作家、演說家、考師和網頁開發、開放政府及公民�
 
 In August 2012, Mayor Michael Nutter selected Mark to become the City of Philadelphia’s first Chief Data Officer, to lead the city’s open data and government transparency initiatives. He previously served for three years as the chief policy and budget advisor for the State of Delaware’s Department of Technology and Information, and as technology advisor to Delaware Governor Thomas Carper.
 
-2012年八月，Michael Nutter市長指派Mark為費成的首任城市資料長(Chief Data Officer)，帶領費城的開放資料和政府透明計畫。在此之前他擔任特拉華州資訊技術部的首席策略及預算顧問，以及特拉華州長Thomas Carper的科技顧問。
+2012年八月，Michael Nutter市長指派Mark為費成的首任城市資料長(Chief Data Officer)，帶領費城的開放資料和政府透明計畫。在此之前他擔任德拉瓦州資訊技術部的首席策略及預算顧問，以及德拉瓦州長Thomas Carper的科技顧問。
 
 Mark has built open government software applications for the District of Columbia, the Sunlight Foundation, the New York State Senate, and the cities of New York, San Francisco, Toronto, Baltimore, and Philadelphia. He is an organizer, judge, sponsor, and participant in civic hacking events across the country, including Philadelphia and Baltimore.
+
 
 Mark曾為哥倫比亞特區、陽光基金會、紐約參議院、紐約市、舊金山、多倫多、巴爾的摩和費城開發過開放政府軟體應用。在包括費城和巴爾的摩等全國各地的公民黑活動中他扮演過組織者、 評審、贊助者和參與者的角色。
 

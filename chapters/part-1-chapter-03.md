@@ -19,6 +19,7 @@ featured: true
 ### Introduction
 
 As the open data and open government movement continues, there is a lot of talk about building local ecosystems for the work. The general idea is that there has to be a mildly magic combination of data, policy, developers, capital, and products to enable the kind of growth that is necessary to take the movement to the next level—where there is a mature market for open government products that serve real community needs and lead to sustainable revenue.
+在開放資料與開放政府持續推展的當下，也有許多人提倡在地方建立工作生態圈。基本的概念是，當資料、政策、開發者、資金都結合在一起時，神奇的事情會發生，並產生下一階段的產品。到那時，開放政府的成熟市場與產品可以對社群產生實質的幫助，並帶來永續性的收益。
 
 The thing about building an ecosystem is that when it is done deliberately, it can be a slog. Building a developer community from scratch, convincing local government to publish data, getting venture capitalists to take a look at open government projects—all of this is tough work that takes time.
 

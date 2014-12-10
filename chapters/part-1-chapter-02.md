@@ -17,14 +17,19 @@ featured: true
 ---
 Before I joined Chicago’s government administration, I knew very little about open data.  In fact, because I’d worked at the Chicago Police Department in the Counterterrorism and Intelligence Section, open data seemed completely counterintuitive. So when Mayor-elect Rahm Emanuel’s transition team reached out to me to discuss ramping up an open data program at the City of Chicago, I had to do some quick and hasty internet research to be properly prepared.
 
-在我加入在芝加哥市政管理中心之前，我對於公開資料的認知並不多。雖然當時我已經埋頭於資料分析的領域許久，但我並沒有實質了解公開資料中所對於”公開”的概念，事實上，當時因為當時我正要去芝加哥警局的反恐和情報組服務，公開資料在此似乎又不是有那麼直接的關係(開放的數據似乎完全反直覺的。所以當新任市長伊曼紐爾的市政籌組團隊找我討論並且籌措芝加哥市的公開資料計畫，對此我不得不去網路上簡單花些功夫研究一下。
-
+在我加入在芝加哥市政管理中心之前，我對於公開資料的認知並不多。雖然當時我已經埋頭於資料分析的領域許久，但我並沒有實質了解開放資料中所對於”開放”的概念，事實上，當時因為當時我正要去芝加哥警局的反恐情報組服務，開放資料在此似乎又不是有那麼直接的關係(開放的數據似乎是完全反直覺的。所以當新任市長Emanuel 的市政籌組團隊找我討論並且籌措芝加哥市開放資料計畫，對此我不得不去網路上花些功夫研究一下。
 
 During the mayoral campaign, Mayor Emanuel had held an event at Microsoft that highlighted the importance of open government, citing open data at the heart of his vision for a more transparent Chicago. The mayor then asked me to serve as the city’s first Chief Data Officer (CDO) and to implement his vision of a more transparent government that not only makes its data available to the public, but also uses data analysis as a tool to inform policy and improve services.
 
+在市長競選期間，市長 Emanuel 曾在微軟舉辦一個活動，突顯了市政公開的重要性，以及他對芝加哥市透明化的中心思想：引用開放資料。市長並希望我接下本市首個首席數據長（Chief Data officer, CDO）一職，並實現其讓政府變得更透明的願景 - 除了將城市資料公開提供給大眾外，並要採用資料分析作為政策資訊貫通及市府服務改善的工具。
+
 The new administration started on May 16, 2011, with open data as a top priority from day one. The weekend prior, the policy group had gathered to discuss the strategy for the first hundred days and open data was listed as an early goal. My mission was to take the bones of the city’s existing program and make it a cornerstone of the city’s transparency initiatives. My first step was to assess what existed and then decide where I wanted to take the vision and direction as the CDO for the City of Chicago.
 
+新政府在2011/5/16上任，並從當天就將開放資料列為當務之急。就在前一個週末，政策小組聚集在一起討論新政府上任的首百日策略，並將開放資料列為早期目標之一。我的任務是接下本市現有軟體程式的核心，並將其打造為各項政府透明化措施的基礎。我的第一步是評估當時手頭上有什麼，並思考，身為首席數據長，我該把芝加哥市帶往什麼方向去。
+
 Before we dive into the details of what ensued, it is worth discussing the simple point that Chicago was the first major municipality to appoint a CDO. This was a clear and immediate statement about the importance of these initiatives to the new administration. Mayor Emanuel had decided early on that he wanted a team that used the city’s vast and rich data resources as a tool and that empiricism would inform policy. To achieve that goal, he created a senior-level post within his office that would focus on exactly that. By creating a CDO as his proxy for a data-driven and transparent government, Mayor Emanuel laid the foundation for Chicago to go from lagging behind other governments to being at the forefront of open civic data and transparency.
+
+在進入接下來的細節之前，不如先簡單談談芝加哥是全美第一個指派首席數據長 (CDO) 的都會都市這件事。對於這些新措施和新管理而言，這是明確而立即的聲明。市長 Emanuel 從一開始就決定，他要一支能善用城市豐富、廣泛的數據的團隊，並將其做為工具和經驗來提示政策。為了達成此目標，他在市長辦公室為其設置了高階的職位。透過將 CDO 做為他在資料驅動與透明化的政府的中介代理，市長 Emanuel 奠定了芝加哥在開放市政資料和透明從落後其他政府進步到全美領先城市的基礎。
 
 The City of Chicago did have an existing open data program so I wasn’t starting from scratch. Prior to the new administration it was managed by Danielle DuMerer, a project manager in The Department of Innovation and Technology (DoIT). The city had already secured the Socrata platform and kicked off some basic dataset projects—specifically, publishing logs of the Freedom of Information Act (FOIA) requests submitted by the public, as well as an assortment of facility and geographic datasets.
 

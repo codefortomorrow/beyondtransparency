@@ -27,11 +27,8 @@ Consider, for a moment, regulation in a broader context. Your car’s electronic
 What do all these forms of regulation have in common?
 
 1. A deep understanding of the desired outcome
-
 2. Real-time measurement to determine if that outcome is being achieved
-
 3. Algorithms (i.e. a set of rules) that make adjustments based on new data
-
 4. Periodic, deeper analysis of whether the algorithms themselves are correct and performing as expected.
 
 那麼到底這些法規或規範有什麼樣的共同點？
@@ -45,14 +42,6 @@ There are a few cases—all too few—in which governments and quasi-governmenta
 
 在政府單位或者是半政府單位裡幾乎沒有任何例子-非常稀少-使用類似上述條件的方式來做監管或或規範。或許最好的例子是中央銀行透過調節貨幣供應來管理利率的方法。這套方法可以同時調整通貨膨脹和其它所有的經濟狀態。令人驚訝的是，一般個人團體他們比較偏好美國聯邦銀行來規定什麼時侯該放鬆或收縮貨幣供應的比例。大部分人同意這樣的規範機制是必要的。
 
-Why is this?
-
-1. The desired outcomes are clear
-
-2. There is regular measurement and reporting as to whether those outcomes are being achieved, based on data that is made public to everyone
-
-3. Adjustments are made when the desired outcomes are not being achieved
-
 為何會是這套機制？
 
 1. 因為我們清楚的知道我們要的目的是什麼
@@ -65,7 +54,7 @@ Contrast this with the normal regulatory model, which focuses on the rules rathe
 
 Sometimes the “rules” aren’t really even rules. Gordon Bruce, the former CIO of the city of Honolulu, explained to me that when he entered government from the private sector and tried to make changes, he was told, “That’s against the law.” His reply was “OK. Show me the law.” “Well, it isn’t really a law. It’s a regulation.” “OK. Show me the regulation.” “Well, it isn’t really a regulation. It’s a policy that was put in place by Mr. Somebody twenty years ago.” “Great. We can change that!”
 
-有時後甚至規則並不真的是規則。一位Honolulu市的前財政長，Gorden Bruce向我們解釋為何如此。當他從私人部門進入到公部門時，他嘗試做些改變，但他常被告知說"這樣做會違反法律規定"。於是他就回答：「好，請你告訴我是哪一條法律？」「嗯，事實上這並不真的是一套法規條例，這只是某位先生在20幾年前訂下的規矩。」「太好了，那我們就改變它吧！」
+有時候甚至規則並不真的是規則。一位Honolulu市的前財政長，Gorden Bruce向我們解釋為何如此。當他從私人部門進入到公部門時，他嘗試做些改變，但他常被告知說"這樣做會違反法律規定"。於是他就回答：「好，請你告訴我是哪一條法律？」「嗯，事實上這並不真的是一套法規條例，這只是某位先生在20幾年前訂下的規矩。」「太好了，那我們就改變它吧！」
 
 But often, there really is a law or a regulation that has outlived its day, an artifact of a system that takes too long to change. The Obama Administration has made some efforts to address this, with a process of both “regulatory lookback” to eliminate unnecessary regulations, and an increased effort to quantify the effect of regulations (White House, 2012).
 
@@ -81,7 +70,7 @@ Laws should specify goals, rights, outcomes, authorities, and limits. If specifi
 
 Regulations, which specify how to execute those laws in much more detail, should be regarded in much the same way that programmers regard their code and algorithms, that is, as a constantly updated toolset to achieve the outcomes specified in the laws.
 
-
+(漏譯)
 
 Increasingly, in today’s world, this kind of algorithmic regulation is more than a metaphor. Consider financial markets. New financial instruments are invented every day and implemented by algorithms that trade at electronic speed. How can these instruments be regulated except by programs and algorithms that track and manage them in their native element in much the same way that Google’s search quality algorithms, Google’s “regulations”, manage the constant attempts of spammers and black hat SEO experts to game the system?
 
@@ -92,7 +81,6 @@ Revelation after revelation of bad behavior by big banks demonstrates that perio
 在大型銀行的惡意行為被揭露以後，諸如此類的行為向世人展示定期的執法行動是不夠的，系統性的貪瀆需要系統性的監管。現在是政府部門進入巨量資料的時候了，而演算法式的監管概念的時代已經來臨。
 
 ### Open Data and Government as a Platform
-
 ### 開放資料與政府做為一個平台
 
 There are those who say that government should just stay out of regulating many areas, and let “the market” sort things out. But there are many ways in which bad actors take advantage of a vacuum in the absence of proactive management. Just as companies like Google, Microsoft, Apple, and Amazon build regulatory mechanisms to manage their platforms, government exists as a platform to ensure the success of our society, and that platform needs to be well regulated!
@@ -124,7 +112,6 @@ When government regulators focus on requiring disclosure, that lets private comp
 當政府監管者把目標放在資訊揭露，讓私人公司建立消費者服務並且讓執法單位空出更多時間來對付真正嚴重的貪瀆事件。
 
 ### Regulation Meets Reputation
-
 ### 當法規監督遇上信譽評等
 
 It is true that “that government governs best that governs least.” But the secret to “governing least” is to identify key outcomes that we care about as a society—safety, health, fairness, opportunity—encode those outcomes into our laws, and then create a constantly evolving set of regulatory mechanisms that keep us on course towards them.
@@ -164,7 +151,6 @@ Another interesting project that actually harnesses citizen help (rather than ju
 其他有趣的專案像是PulsePoint，透過連結消費類型的服務app與政府資料，確實地利用了公民的幫助(不只是意見而已)。這個計畫原先是由在加州消防部門的San Ramon發起。當這位消防隊長有一次和幾位有EMR技術執照的同事在餐廳吃飯，他們聽到了救護車匆忙停在隔壁的餐廳，但卻依然發生遺憾。有了這次經驗，他開放授權給一個app，這個app允許有經過EMR訓練的公民們可以收到同樣給公部門的緊急電話
 
 ### The Role of Sensors in Algorithmic Regulation
-
 ### 感測器在演算型法規裡扮演的角色
 
 Increasingly, our interactions with businesses, government, and the built environment are becoming digital, and thus amenable to creative forms of measurement, and ultimately algorithmic regulation.
@@ -240,7 +226,6 @@ There’s a long way to go. We’re just at the beginning of thinking about how 
 是還有很長的一段路要走，我們才正要開始思考如何把評量、法規、目的整合在一起。
 
 ### Risks of Algorithmic Regulation
-
 ### 演算型法規的風險
 
 The use of algorithmic regulation increases the power of regulators, and in some cases, could lead to abuses, or to conditions that seem anathema to us in a free society. “Mission creep” is a real risk. Once data is collected for one purpose, it’s easy to imagine new uses for it. We’ve already seen this in requests to the NSA for data on American citizens originally collected for purposes of fighting overseas terrorism being requested by other agencies to fight domestic crime, including copyright infringement! (See Lichtblau & Schmidt, 2013.)
@@ -276,7 +261,6 @@ This is no different in a government context.
 這和政府所面臨的(隱私權)問題脈絡一樣
 
 ### In Conclusion
-
 ### 結論
 
 We are just at the beginning of a big data algorithmic revolution that will touch all elements of our society. Government needs to participate in this revolution.
@@ -305,7 +289,6 @@ Open data plays a key role in both steps 2 and 4. Open data, either provided by 
 開放資料在第二點和第四點扮演關鍵的腳。開放資料，或許是由政府本身提供，或者是由政府向私人單位索取，是促成這場評量標準革命發生的關鍵角色。開放資料也可以幫助我們了解到，我們是否有達到我們想要的目的，並且有機會透過競爭來找到達到目的的更好方法。
 
 ### About the Author
-
 ### 關於作者
 
 Tim O’Reilly is the founder and CEO of O’Reilly Media Inc., thought by many to be the best computer book publisher in the world. O’Reilly Media also hosts conferences on technology topics, including the O’Reilly Open Source Convention, Strata: The Business of Data, and many others. Tim’s blog, the O’Reilly Radar “watches the alpha geeks” to determine emerging technology trends, and serves as a platform for advocacy about issues of importance to the technical community. Tim is also a partner at O’Reilly AlphaTech Ventures, O’Reilly’s early stage venture firm, and is on the board of Safari Books Online, PeerJ, Code for America, and Maker Media, which was recently spun out from O’Reilly Media. Maker Media’s Maker Faire has been compared to the West Coast Computer Faire, which launched the personal computer revolution.
@@ -313,9 +296,9 @@ Tim O’Reilly is the founder and CEO of O’Reilly Media Inc., thought by many
 Tim O'Reilly 是歐萊禮媒體(O'Reilly Media)的創辦人與執行長，很多人認為這是當今最好的電腦書籍出版商。歐萊禮媒體同時也舉辦很多關於科技議題的研討會，包含了歐萊禮開放原始碼討論會(Convention)，Strata：關於資料商業和其他很多題目。Tim的部落格，the O'Reilly Radar，關注那些頂級技客的動向來決定新興的科技潮流，並且扮演一個對於技術社群重要議題的倡議平台。Tim也是O'Reilly AlphaTech Ventures，一間早期風險投資公司的合夥人，同時也是Safari Books Online、PeerJ、Code for America 和Maker Media的董事會成員。其中，Maker Media是一個剛從歐萊禮媒體分出來的公司，其旗下的Maker Faire 已經被和引發個人電腦革命的 Western Coast Computer Faire相提並論。
 
 ### References
-
 ### 參考資料
 
-[Lichtblau, E., & Schmidt, M.S. (2013, August 3). Other Agencies Clamor for Data N.S.A. Compiles. The New York Times. Retrieved from http://www.nytimes.com/2013/08/04/us/other-agencies-clamor-for-data-nsa-compiles.html](http://www.nytimes.com/2013/08/04/us/other-agencies-clamor-for-data-nsa-compiles.html)
+Lichtblau, E., & Schmidt, M.S. (2013, August 3). Other Agencies Clamor for Data N.S.A. Compiles. The New York Times. Retrieved from [http://www.nytimes.com/2013/08/04/us/other-agencies-clamor-for-data-nsa-compiles.html](http://www.nytimes.com/2013/08/04/us/other-agencies-clamor-for-data-nsa-compiles.html)
 [Open Government Working Group. (2007, December 8). 8 Principles of Open Government Data. Retrieved from http://www.opengovdata.org/home/8principles](http://www.opengovdata.org/home/8principles)
-[The White House. (2012). As Prepared for Delivery: Regulation: Looking Backward, Looking Forward - Cass R. Sunstein. Retrieved from http://www.whitehouse.gov/sites/default/files/omb/inforeg/speeches/regulation-looking-backward-looking-forward-05102012.pdf ](http://www.whitehouse.gov/sites/default/files/omb/inforeg/speeches/regulation-looking-backward-looking-forward-05102012.pdf )
+
+The White House. (2012). As Prepared for Delivery: Regulation: Looking Backward, Looking Forward - Cass R. Sunstein. Retrieved from [http://www.whitehouse.gov/sites/default/files/omb/inforeg/speeches/regulation-looking-backward-looking-forward-05102012.pdf ](http://www.whitehouse.gov/sites/default/files/omb/inforeg/speeches/regulation-looking-backward-looking-forward-05102012.pdf )

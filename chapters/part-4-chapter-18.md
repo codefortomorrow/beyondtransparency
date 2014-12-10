@@ -418,4 +418,4 @@ John Fry是Revelstone的政府解決方案計畫處長，並有超過20年的經
 ### 參考資料
 
 Governmental Accounting Standards Board. (2010). Suggested Guidelines for Voluntary Reporting of SEA Performance Information. Washington, DC.
-[Tetherless World Constellation International (2013). Open Government Dataset Search. Retrieved from http://logd.tw.rpi.edu/iogds_data_analytics](http://logd.tw.rpi.edu/iogds_data_analytics)
+Tetherless World Constellation International (2013). Open Government Dataset Search. Retrieved from [http://logd.tw.rpi.edu/iogds_data_analytics](http://logd.tw.rpi.edu/iogds_data_analytics)

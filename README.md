@@ -1,11 +1,9 @@
 [![Stories in Ready](https://badge.waffle.io/codefortomorrow/beyondtransparency.png?label=ready)](https://waffle.io/codefortomorrow/beyondtransparency)
-這裡是 "Beyond Transparency" 一書的翻譯計畫。成書的著作權條款採用  [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-nc-nd/3.0/)。
-
-工作區域 https://c4t.hackpad.com/Beyond-Transparency--KfcHDgw5m0F
+這裡是 "Beyond Transparency" 一書的翻譯計畫。
 
 ==================
 
-Code for America's new :closed_book: - Beyond Transparency 
+Code for America's new - Beyond Transparency 
 
 
 ## About this Book

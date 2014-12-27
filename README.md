@@ -1,10 +1,6 @@
-[![Stories in Ready](https://badge.waffle.io/codefortomorrow/beyondtransparency.png?label=ready)](https://waffle.io/codefortomorrow/beyondtransparency)
-這裡是 "Beyond Transparency" 一書的翻譯計畫。
+## Beyond Transparency 超越透明
 
-==================
-
-Code for America's new - Beyond Transparency 
-
+此部份為原書的部分章節翻譯。
 
 ## About this Book
 

@@ -1,5 +1,1 @@
-_site/
-_raw/
-.DS_Store
-.s3cfg
-_run.sh
+/_book/
